@@ -8,3 +8,5 @@ Dieses Repository erteilt keine Lizenz zur Weiterverteilung, Veröffentlichung,
 kommerziellen Nutzung oder Erstellung abgeleiteter Werke. Eine weitergehende
 Lizenz kann zu einem späteren Zeitpunkt separat veröffentlicht werden.
 
+Fehler und nachvollziehbares Testfeedback können über die GitHub-Issues dieses
+Repositories gemeldet werden.
