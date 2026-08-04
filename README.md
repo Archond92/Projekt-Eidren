@@ -1,14 +1,18 @@
-# Projekt Eidren – Windows-Testversion 0.1
+# Projekt Eidren – Windows-Testversion 0.2
 
 Eidren ist ein isometrisches Action- und Aufbauspiel mit handgemalten,
-achtgerichteten 2D-Figuren in einer räumlichen Low-Poly-Welt. Version 0.1 führt
-vom leeren Start über Sammeln, Crafting, Basisbau und das Fangen zweier Eidra
-bis zum Boss Garon.
+achtgerichteten 2D-Figuren in einer räumlichen Low-Poly-Welt. Version 0.2
+erweitert den vollständigen v0.1-Spielweg um modularen Rasterbau, Tier-2-
+Fortschritt, Haltbarkeit und Rüstung, neue Gebiete und Gegner, den Speer,
+Ignivar sowie die verlassene Eidra-Schmiede.
+
+Bei dieser Ausgabe handelt es sich um einen vollständigen Entwicklungs-Snapshot
+zum Testen der v0.2-Mechaniken und Inhalte.
 
 ## Herunterladen und starten
 
-1. Unter [Releases](https://github.com/Archond92/Projekt-Eidren/releases/tag/v0.1.0)
-   die Datei `Eidren-v0.1.0-windows-x64.zip` herunterladen.
+1. Unter [Releases](https://github.com/Archond92/Projekt-Eidren/releases/tag/v0.2.0-dev)
+   die Datei `Eidren-v0.2.0-dev-windows-x64.zip` herunterladen.
 2. Das ZIP vollständig in einen neuen Ordner entpacken.
 3. Im entpackten Ordner `Eidren.exe` starten.
 
@@ -24,7 +28,7 @@ GitHub-Repository stammt.
 
 - Windows x64
 - Direct3D-11-fähige Grafikhardware
-- mindestens 550 MiB freier Speicherplatz
+- mindestens 650 MiB freier Speicherplatz
 
 ## Steuerung
 
@@ -52,10 +56,14 @@ Nachstellen und nach Möglichkeit einen Screenshot angeben.
 
 ## Prüfsumme
 
-SHA-256 von `Eidren-v0.1.0-windows-x64.zip`:
+SHA-256 von `Eidren-v0.2.0-dev-windows-x64.zip`:
 
 ```text
-8407c9de6512521c4dbc372c36c533a0dfe8aaef596180f153d4ffb1a975efcc
+68c7204293c25a2a4701d5cb205f4c90364adf4c34fc484d6ecb5755054f4a04
 ```
 
-Dieses Repository enthält die spielbare Testversion, nicht den Unity-Quellcode.
+Ausführliche Testschritte und der enthaltene Funktionsumfang stehen in den
+[Release Notes](RELEASE_NOTES_v0.2.0-dev.md).
+
+Dieses Repository enthält die spielbare Testversion, nicht den Unity-Quellcode
+oder lokale Entwicklungsartefakte.
