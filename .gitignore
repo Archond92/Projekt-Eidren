@@ -1,0 +1,9 @@
+# Dieses Repository veröffentlicht ausschließlich die spielbare Tester-Ausgabe.
+# Unity-Quellen, Arbeitsgrafiken, Caches, Logs und lokale Build-Verzeichnisse
+# werden nicht in den Git-Verlauf aufgenommen.
+*
+!.gitignore
+!README.md
+!RELEASE_NOTES_v0.1.0.md
+!RELEASE_NOTES_v0.2.0-dev.md
+!TESTING_NOTICE.md
