@@ -80,9 +80,10 @@ echte 3D-Figuren im Fabrik-Pipeline-Stil:
 - Windows-x64-Build erfolgreich erstellt
 - Player-Smoke-Test bestanden: 20 Sekunden Laufzeit, Direct3D-11-Start,
   Bootstrap und Hauptmenü geladen (4363 Objekte), null Fehler im Player-Log
-- Build-Stand: Commit `84c8e0a6fa919029d5ec0d951703a095d24dc919`; der
-  Arbeitsbaum trug ungesicherte Änderungen — Assets und Dokumente dieses
-  Projekts sind grundsätzlich nicht git-verfolgt
+- Build-Stand: Commit `e5966ec` (release: refresh v0.2.0-dev tester
+  package for the 3D snapshot), Arbeitsbaum der verfolgten Dateien sauber;
+  Assets und Dokumente dieses Projekts sind grundsätzlich nicht
+  git-verfolgt
 
 ## Technische Daten
 
