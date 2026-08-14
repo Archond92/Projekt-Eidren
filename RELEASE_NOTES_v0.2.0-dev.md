@@ -5,6 +5,26 @@ die integrierten Mechaniken, Inhalte und Laufzeit-Assets von Version 0.2. Er ist
 für einen breiten Spieltest vorgesehen und noch nicht als finale Version 0.2.0
 klassifiziert.
 
+## Neu in diesem Snapshot: vollständiger 3D-Umstieg
+
+Der Snapshot vom 14.08.2026 ersetzt die bisherige 2D-Sprite-Darstellung durch
+echte 3D-Figuren im Fabrik-Pipeline-Stil:
+
+- der Wanderer (Spielfigur) läuft als 3D-Modell mit 24 Animationszuständen,
+  sichtbaren Werkzeugen und Waffen
+- alle 15 Kreaturen (Wildling, Riftling, Garon, Terrock, Noctarion, Ignivar,
+  EmberEater, RootCharger, GraniteShell, AshRunner und weitere) sind als
+  handgebaute 3D-Modelle mit vollem Animationssatz eingebaut; 27 Szenengegner
+  in 7 Zonen wurden umgestellt
+- Sichtpolitur: Garon trägt ein Heck-Goldornament, der EmberEater eine
+  durchgehende Glut-Rückenader, Terrock Moosflächen und einen Kruppen-Smaragd
+  für bessere Lesbarkeit im Steinbruch
+- die 2D-Altlasten (545 MB Sprite-Atlanten) wurden beweisgetrieben entfernt;
+  Platzhalter-Item-Icons der Familien (Kupfer/Eisen, Holz/Hartholz,
+  Stein/Granit) sind jetzt farblich unterscheidbar
+- Farm-Beete zeigen ihre drei Zustände (leer/bepflanzt/erntereif) wieder mit
+  eigenen Visuals
+
 ## Empfohlener Testpfad
 
 1. Ein neues Spiel beginnen und den grundlegenden Sammel-, Crafting-, Inventar-
@@ -32,6 +52,10 @@ klassifiziert.
     Fortschritt, Freischaltungen und persistente Kisten erneut prüfen.
 13. Nach Möglichkeit Tastatur/Maus und Gamepad sowie verschiedene Auflösungen
     testen.
+14. Neu für diesen Snapshot: die 3D-Figuren bewusst von allen Seiten
+    ansehen — Spielfigur mit Werkzeug/Waffe in der Hand, Gegner im Kampf
+    (besonders Rückansichten), Garon-Bosskampf, Terrock im Steinbruch
+    (Lesbarkeit vor Steinboden) und die Farm-Beete in allen drei Zuständen.
 
 ## Wichtigste Erweiterungen gegenüber v0.1
 
@@ -47,14 +71,18 @@ klassifiziert.
 - überarbeitete Erfahrungskurve und Fortschritt bis Level 40
 - vollständig integrierte Spieltest-Fixsammlung F-001 bis F-023
 
-## Abnahme des Snapshots
+## Abnahme des Snapshots (14.08.2026)
 
-- letzter vollständiger EditMode-Lauf: 702 bestanden, 0 übersprungen
-- PlayMode-Lauf: 113 bestanden, 0 fehlgeschlagen, 1 Grafiktest bewusst ignoriert
-- Fixsammlungs-Abnahme: 23/23 Asset- und Verdrahtungsprüfungen bestanden
+- vollständiger EditMode-Lauf: **1009 bestanden, 0 fehlgeschlagen, 0 übersprungen**
+- vollständiger PlayMode-Lauf: **120 bestanden, 0 fehlgeschlagen**
+- damit ist die Testlandschaft erstmals komplett grün (zuvor 61 bekannte
+  Altfälle; Herleitung in `Documentation/Eidren_V0.2/KREATUREN_EINBAU_REFERENZ.md`)
 - Windows-x64-Build erfolgreich erstellt
-- Player-Smoke-Test bestanden
-- Build-Arbeitsbaum war sauber (`e460c975485e4d63d1ecc9852106c78c215cae0d`)
+- Player-Smoke-Test bestanden: 20 Sekunden Laufzeit, Direct3D-11-Start,
+  Bootstrap und Hauptmenü geladen (4363 Objekte), null Fehler im Player-Log
+- Build-Stand: Commit `84c8e0a6fa919029d5ec0d951703a095d24dc919`; der
+  Arbeitsbaum trug ungesicherte Änderungen — Assets und Dokumente dieses
+  Projekts sind grundsätzlich nicht git-verfolgt
 
 ## Technische Daten
 
@@ -62,10 +90,11 @@ klassifiziert.
 - Grafikpfad: Direct3D 11
 - Buildtyp: Unity Development Build
 - Unity: `6000.3.0f1`
-- Download: 536.961.930 Bytes / 512,09 MiB
-- entpackt: 654.418.315 Bytes / 624,10 MiB
-- Dateien im Paket: 99
-- SHA-256: `68c7204293c25a2a4701d5cb205f4c90364adf4c34fc484d6ecb5755054f4a04`
+- Download: 268.969.204 Bytes / 256,51 MiB (halbiert gegenüber dem
+  06.08.-Snapshot — die 2D-Altlast-Räumung wirkt auch im Paket)
+- entpackt: 370.549.991 Bytes / 353,38 MiB
+- Dateien im Paket: 101
+- SHA-256: `db036f6e405815fa97d1f7abbcc4691a28206c91f60120f7803ad96ad0e65348`
 
 Der Build ist nicht digital signiert. Eine Windows-SmartScreen-Warnung ist
 daher möglich. Bitte nur das direkt aus diesem Repository geladene ZIP testen.

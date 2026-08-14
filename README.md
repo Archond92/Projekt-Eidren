@@ -1,10 +1,12 @@
 # Projekt Eidren – Windows-Testversion 0.2
 
-Eidren ist ein isometrisches Action- und Aufbauspiel mit handgemalten,
-achtgerichteten 2D-Figuren in einer räumlichen Low-Poly-Welt. Version 0.2
-erweitert den vollständigen v0.1-Spielweg um modularen Rasterbau, Tier-2-
-Fortschritt, Haltbarkeit und Rüstung, neue Gebiete und Gegner, den Speer,
-Ignivar sowie die verlassene Eidra-Schmiede.
+Eidren ist ein isometrisches Action- und Aufbauspiel mit handgebauten
+3D-Figuren in einer räumlichen Low-Poly-Welt. Version 0.2 erweitert den
+vollständigen v0.1-Spielweg um modularen Rasterbau, Tier-2-Fortschritt,
+Haltbarkeit und Rüstung, neue Gebiete und Gegner, den Speer, Ignivar sowie
+die verlassene Eidra-Schmiede. Der Snapshot vom 14.08. stellt zudem die
+gesamte Darstellung — Spielfigur und alle 15 Kreaturen — von 2D-Sprites
+auf 3D-Modelle um.
 
 Bei dieser Ausgabe handelt es sich um einen vollständigen Entwicklungs-Snapshot
 zum Testen der v0.2-Mechaniken und Inhalte.
@@ -28,7 +30,7 @@ GitHub-Repository stammt.
 
 - Windows x64
 - Direct3D-11-fähige Grafikhardware
-- mindestens 650 MiB freier Speicherplatz
+- rund 260 MiB für den Download und 360 MiB entpackt
 
 ## Steuerung
 
@@ -59,7 +61,7 @@ Nachstellen und nach Möglichkeit einen Screenshot angeben.
 SHA-256 von `Eidren-v0.2.0-dev-windows-x64.zip`:
 
 ```text
-68c7204293c25a2a4701d5cb205f4c90364adf4c34fc484d6ecb5755054f4a04
+db036f6e405815fa97d1f7abbcc4691a28206c91f60120f7803ad96ad0e65348
 ```
 
 Ausführliche Testschritte und der enthaltene Funktionsumfang stehen in den
