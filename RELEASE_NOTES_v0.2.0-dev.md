@@ -25,6 +25,38 @@ echte 3D-Figuren im Fabrik-Pipeline-Stil:
 - Farm-Beete zeigen ihre drei Zustände (leer/bepflanzt/erntereif) wieder mit
   eigenen Visuals
 
+## Nachtrag 15.08.2026: Wunschrunden-Fixes im neu gebauten Paket
+
+Das Paket wurde am 15.08.2026 neu gebaut und enthält die sechs Fixes der
+Wunschsammlung vom 14.08. (`Documentation/Eidren_V0.2/WUNSCHSAMMLUNG_20260814.md`):
+
+- **Abbau-Animation (W-001):** Beim Abbauen hält die Spielfigur jetzt das
+  echte Werkzeug-Mesh (Axt, Spitzhacke oder Sense) und spielt den
+  zugehörigen Abbau-Clip aus dem 3D-Modell; das alte 2D-Sprite-Pendel ist
+  entfernt. Danach kehrt die ausgerüstete Waffe sichtbar zurück.
+- **Werkzeug-Geister (W-003):** Die drei Werkzeuge hängen nicht mehr
+  dauerhaft an der Hand der Figur (vorher ragte z. B. die Sense trotz
+  ausgerüstetem Eisenspeer aus der Figur).
+- **Waffen-Icons im Kampf-HUD (W-004):** Der Angriffsbutton zeigt das Icon
+  der tatsächlichen Waffenfamilie (inkl. neuem Speer-Icon); der
+  Waffenwechselbutton zeigt die real getragene Zweitwaffe und ist ohne
+  Zweitwaffe gesperrt statt ein Phantom-Icon anzubieten.
+- **Kupferader (W-005):** Eine abgebaute Kupferader behält ihre Optik;
+  nur die Abbau-Interaktion endet.
+- **Kontrollbutton (W-002):** Neue Hand-Glyphe im Stil der
+  Werkzeug-Icons ersetzt die alte Fingerhand.
+- **Startbildschirm (W-006):** Untertitel zeigt jetzt „V0.2 · TESTVERSION"
+  statt „V0.1 · Aufbruch".
+- Nebenreparatur: Das Schlag-Feedback am Kupfer (Funken/Wackeln) war durch
+  einen Asset-Neubau erneut verloren gegangen und ist wiederhergestellt.
+
+Abnahme des Neubaus: vollständiger EditMode-Lauf **1036 bestanden, 0
+fehlgeschlagen**; vollständiger PlayMode-Lauf **118 bestanden, 0
+fehlgeschlagen** (4 erwartete Headless-Übersprünge der Capture-/Grafiktests);
+Player-Smoke-Test der frischen EXE: 22 Sekunden, Direct3D-11-Start, Bootstrap
+und Hauptmenü geladen (15.135 Objekte), null Fehler im Player-Log.
+Build-Stand: Commit `f63035c`, Arbeitsbaum der verfolgten Dateien sauber.
+
 ## Empfohlener Testpfad
 
 1. Ein neues Spiel beginnen und den grundlegenden Sammel-, Crafting-, Inventar-
@@ -91,11 +123,11 @@ echte 3D-Figuren im Fabrik-Pipeline-Stil:
 - Grafikpfad: Direct3D 11
 - Buildtyp: Unity Development Build
 - Unity: `6000.3.0f1`
-- Download: 268.969.204 Bytes / 256,51 MiB (halbiert gegenüber dem
+- Download: 267.175.622 Bytes / 254,80 MiB (halbiert gegenüber dem
   06.08.-Snapshot — die 2D-Altlast-Räumung wirkt auch im Paket)
-- entpackt: 370.549.991 Bytes / 353,38 MiB
+- entpackt: 368.607.285 Bytes / 351,53 MiB
 - Dateien im Paket: 101
-- SHA-256: `db036f6e405815fa97d1f7abbcc4691a28206c91f60120f7803ad96ad0e65348`
+- SHA-256: `d00c45359747a307b3dfcdca4b2d1f36d4d883803f7bcc1f838a6acfcc7344d8`
 
 Der Build ist nicht digital signiert. Eine Windows-SmartScreen-Warnung ist
 daher möglich. Bitte nur das direkt aus diesem Repository geladene ZIP testen.
