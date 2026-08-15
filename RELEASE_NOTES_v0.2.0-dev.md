@@ -25,6 +25,36 @@ echte 3D-Figuren im Fabrik-Pipeline-Stil:
 - Farm-Beete zeigen ihre drei Zustände (leer/bepflanzt/erntereif) wieder mit
   eigenen Visuals
 
+## Testfassung mit Voll-Ausbau-Spielstand (15.08.2026)
+
+Dieses Paket bringt einen fertigen Testspielstand mit, damit alle Inhalte
+sofort erreichbar sind — ohne vorher hochzuspielen:
+
+- **Stufe 2, Level 40** (das Maximum der höchsten Fortschrittsstufe)
+- **29 von 33 Technologien** freigeschaltet — alle, die im Spiel erreichbar
+  sind. Vier Knoten (T1-Waffen, Stoffmantel, Stoffarmschienen, Stoffschuhe)
+  sind dauerhaft stillgelegt und erscheinen im Baum als „FORTSCHRITTSFLAG
+  FEHLT"; sie sind auch regulär nicht erreichbar.
+- **alle acht Gebiete offen**, inklusive der drei Tier-2-Gebiete
+  (Dämmerhain, Schleiermoor, Grauklüfte) und der Eidra-Schmiede
+- **komplette Eisenausrüstung angelegt**: Eisenhelm, -harnisch,
+  -handschuhe, -beinschutz sowie Eisenhammer und Eisendolche in beiden
+  Waffenplätzen
+- **alle Eisenwaffen und -werkzeuge**: der Eisenspeer liegt im Rucksack
+  (Waffenplätze fassen zwei Waffen — im Inventar tauschbar), dazu Eisenaxt,
+  Eisenspitzhacke und Eisensense
+- **alle drei Eidra** im Team (Terrock, Noctarion, Ignivar; zwei aktiv)
+- Baumaterial-Vorräte (Holz, Stein, Fasern, Eisen- und Kupferbarren)
+
+**So kommst du hinein:**
+
+- Ohne vorhandenen Spielstand wird er beim ersten Start automatisch
+  angelegt — einfach **FORTSETZEN** wählen.
+- Mit vorhandenem Spielstand startet **NEUES SPIEL** in dieser Testfassung
+  direkt im Voll-Ausbau-Stand. Dein bisheriger Spielstand wird dabei nicht
+  angetastet und bleibt über FORTSETZEN erreichbar, bis du im neuen Spiel
+  speicherst.
+
 ## Nachtrag 15.08.2026: Wunschrunden-Fixes im neu gebauten Paket
 
 Das Paket wurde am 15.08.2026 neu gebaut und enthält die sechs Fixes der
@@ -41,8 +71,6 @@ Wunschsammlung vom 14.08. (`Documentation/Eidren_V0.2/WUNSCHSAMMLUNG_20260814.md
   der tatsächlichen Waffenfamilie (inkl. neuem Speer-Icon); der
   Waffenwechselbutton zeigt die real getragene Zweitwaffe und ist ohne
   Zweitwaffe gesperrt statt ein Phantom-Icon anzubieten.
-- **Kupferader (W-005):** Eine abgebaute Kupferader behält ihre Optik;
-  nur die Abbau-Interaktion endet.
 - **Kontrollbutton (W-002):** Neue Hand-Glyphe im Stil der
   Werkzeug-Icons ersetzt die alte Fingerhand.
 - **Startbildschirm (W-006):** Untertitel zeigt jetzt „V0.2 · TESTVERSION"
@@ -50,12 +78,30 @@ Wunschsammlung vom 14.08. (`Documentation/Eidren_V0.2/WUNSCHSAMMLUNG_20260814.md
 - Nebenreparatur: Das Schlag-Feedback am Kupfer (Funken/Wackeln) war durch
   einen Asset-Neubau erneut verloren gegangen und ist wiederhergestellt.
 
-Abnahme des Neubaus: vollständiger EditMode-Lauf **1036 bestanden, 0
-fehlgeschlagen**; vollständiger PlayMode-Lauf **118 bestanden, 0
-fehlgeschlagen** (4 erwartete Headless-Übersprünge der Capture-/Grafiktests);
-Player-Smoke-Test der frischen EXE: 22 Sekunden, Direct3D-11-Start, Bootstrap
-und Hauptmenü geladen (15.135 Objekte), null Fehler im Player-Log.
-Build-Stand: Commit `f63035c`, Arbeitsbaum der verfolgten Dateien sauber.
+## Zweite Fixrunde (15.08.2026, nach dem ersten Spieltest)
+
+- **Baumenü (W-007):** Die Gebäudebilder lagen übereinander — alle
+  Katalogkarten waren null Pixel breit, weil die Layoutgruppe die
+  vorgegebene Kartenbreite ignorierte. Die Karten stehen jetzt
+  nebeneinander, mit Rahmen, Namen und Kosten.
+- **Abbau mit Tier-2-Werkzeug (W-008):** Holzfällen und Abbauen zeigten
+  mit Kupfer- und Eisenwerkzeug gar keine Animation — die Zuordnung kannte
+  nur die Grundwerkzeuge. Jetzt spielen alle neun Werkzeuge (Grund, Kupfer,
+  Eisen) ihren Abbau-Clip.
+- **Kistenöffnung (W-009):** Die Figur kniet jetzt vor der Kiste und
+  arbeitet mit den Händen am Deckel — ein neuer Animationsclip im
+  3D-Modell. Die alten aufgesetzten 2D-Handsymbole sind entfernt.
+- **Technologiebaum (W-010):** Der Baum ist scrollbar (Mausrad und Ziehen);
+  Bedienhinweis und die Knöpfe FREISCHALTEN/SCHLIESSEN sitzen in einer
+  festen Fußleiste und überdecken keine Karten mehr. Die Auswahl scrollt
+  bei Tastatur- und Gamepad-Navigation automatisch mit.
+- **Kupferader (W-005, zurückgenommen):** Nach dem Spieltest gilt wieder
+  der sichtbare Wechsel zur abgebauten Darstellung.
+
+Abnahme des Neubaus: vollständiger EditMode-Lauf **1064 bestanden, 0
+fehlgeschlagen**; vollständiger PlayMode-Lauf **119 bestanden, 0
+fehlgeschlagen** (4 erwartete Headless-Übersprünge der Capture- und
+Grafiktests).
 
 ## Empfohlener Testpfad
 
