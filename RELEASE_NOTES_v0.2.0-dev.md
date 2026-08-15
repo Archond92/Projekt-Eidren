@@ -169,11 +169,11 @@ Grafiktests).
 - Grafikpfad: Direct3D 11
 - Buildtyp: Unity Development Build
 - Unity: `6000.3.0f1`
-- Download: 267.175.622 Bytes / 254,80 MiB (halbiert gegenüber dem
+- Download: 267.220.148 Bytes / 254,84 MiB (halbiert gegenüber dem
   06.08.-Snapshot — die 2D-Altlast-Räumung wirkt auch im Paket)
-- entpackt: 368.607.285 Bytes / 351,53 MiB
+- entpackt: 368.660.568 Bytes / 351,58 MiB
 - Dateien im Paket: 101
-- SHA-256: `d00c45359747a307b3dfcdca4b2d1f36d4d883803f7bcc1f838a6acfcc7344d8`
+- SHA-256: `3ecb1bf30d7eba2408a43d54dd45c0473017f8faebc7c20cf591ce5741ce5b14`
 
 Der Build ist nicht digital signiert. Eine Windows-SmartScreen-Warnung ist
 daher möglich. Bitte nur das direkt aus diesem Repository geladene ZIP testen.

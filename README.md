@@ -61,7 +61,7 @@ Nachstellen und nach Möglichkeit einen Screenshot angeben.
 SHA-256 von `Eidren-v0.2.0-dev-windows-x64.zip`:
 
 ```text
-d00c45359747a307b3dfcdca4b2d1f36d4d883803f7bcc1f838a6acfcc7344d8
+3ecb1bf30d7eba2408a43d54dd45c0473017f8faebc7c20cf591ce5741ce5b14
 ```
 
 Ausführliche Testschritte und der enthaltene Funktionsumfang stehen in den
