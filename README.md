@@ -1,20 +1,20 @@
-# Projekt Eidren – Windows-Testversion 0.2
+# Projekt Eidren – Windows-Testversion 0.3
 
 Eidren ist ein isometrisches Action- und Aufbauspiel mit handgebauten
-3D-Figuren in einer räumlichen Low-Poly-Welt. Version 0.2 erweitert den
-vollständigen v0.1-Spielweg um modularen Rasterbau, Tier-2-Fortschritt,
-Haltbarkeit und Rüstung, neue Gebiete und Gegner, den Speer, Ignivar sowie
-die verlassene Eidra-Schmiede. Der Snapshot vom 14.08. stellt zudem die
-gesamte Darstellung — Spielfigur und alle 15 Kreaturen — von 2D-Sprites
-auf 3D-Modelle um.
+3D-Figuren in einer räumlichen Low-Poly-Welt. Version 0.3 stellt die gesamte
+Darstellung von gemalten 2D-Figuren auf Modelle um, baut die verlassene
+Eidra-Schmiede vollständig neu, ergänzt den Formwall als ausbaubare Anlage und
+bringt Boden, Beleuchtung und Bodenschatten der ganzen Welt auf einen neuen
+Stand.
 
-Bei dieser Ausgabe handelt es sich um einen vollständigen Entwicklungs-Snapshot
-zum Testen der v0.2-Mechaniken und Inhalte.
+Bei dieser Ausgabe handelt es sich um einen Entwicklungs-Snapshot zum Testen
+der Mechaniken und Inhalte. Das Spiel beginnt bei null — es liegt kein
+vorgefertigter Spielstand bei.
 
 ## Herunterladen und starten
 
-1. Unter [Releases](https://github.com/Archond92/Projekt-Eidren/releases/tag/v0.2.0-dev)
-   die Datei `Eidren-v0.2.0-dev-windows-x64.zip` herunterladen.
+1. Unter [Releases](https://github.com/Archond92/Projekt-Eidren/releases/tag/v0.3.0-dev)
+   die Datei `Eidren-v0.3.0-dev-windows-x64.zip` herunterladen.
 2. Das ZIP vollständig in einen neuen Ordner entpacken.
 3. Im entpackten Ordner `Eidren.exe` starten.
 
@@ -58,14 +58,14 @@ Nachstellen und nach Möglichkeit einen Screenshot angeben.
 
 ## Prüfsumme
 
-SHA-256 von `Eidren-v0.2.0-dev-windows-x64.zip`:
+SHA-256 von `Eidren-v0.3.0-dev-windows-x64.zip`:
 
 ```text
-3ecb1bf30d7eba2408a43d54dd45c0473017f8faebc7c20cf591ce5741ce5b14
+ae0dd8c5fd9063c157af774cb3a0a01e1e68c765d0266da5731ca1d9133a1975
 ```
 
 Ausführliche Testschritte und der enthaltene Funktionsumfang stehen in den
-[Release Notes](RELEASE_NOTES_v0.2.0-dev.md).
+[Release Notes](RELEASE_NOTES_v0.3.0-dev.md).
 
 Dieses Repository enthält die spielbare Testversion, nicht den Unity-Quellcode
 oder lokale Entwicklungsartefakte.
