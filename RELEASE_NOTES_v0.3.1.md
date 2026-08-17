@@ -1,12 +1,13 @@
 # Eidren v0.3.1 – Windows-Testversion
 
-**Paket am 18.08.2026 ersetzt.** Das erste v0.3.1-Paket hatte drei von
-Testern gemeldete Fehler, allen voran den verschwundenen Eingang zur
-Eidra-Schmiede in den Glutruinen. Diese Fassung behebt: Verlies-Eingang
-wiederhergestellt, Gegner tragen Name/Lebens-/Staggerbalken sauber über
-der Figur, und der grüne Zielring bleibt auf gebauten Böden sichtbar.
-Wer das erste Paket geladen hat, lädt bitte neu — die Prüfsumme unten
-gilt für die ersetzte Fassung.
+**Paket am 18.08.2026 zum zweiten Mal ersetzt.** Nach den ersten drei
+Tester-Fixes (Verlies-Eingang, Gegner-Statusleiste, Zielring) behebt
+diese Fassung drei weitere Meldungen: Gegner greifen nach der
+Leinen-Rückkehr wieder an (sie hingen vorher dauerhaft passiv in der
+Patrouille), der Wächter erscheint wieder im Verlies (Roster gespeicherter
+Läufe wird beim Laden repariert), und Verlieskisten bieten „Alles
+nehmen". Wer ein früheres Paket geladen hat, lädt bitte neu — die
+Prüfsumme unten gilt für die aktuelle Fassung.
 
 Dies ist die Fixrunde nach dem breiten v0.3-Test: **alle 19 gesammelten
 Rückmeldungen sind umgesetzt**, dazu kommen zwei neue Systeme — die
@@ -108,10 +109,10 @@ Weltdurchlauf bringt damit 2.400 statt 1.035 EP.
 - Grafikpfad: Direct3D 11
 - Buildtyp: Unity Development Build
 - Unity: `6000.3.0f1`
-- Download: 265.694.136 Bytes / 253,39 MiB
-- entpackt: 366.938.061 Bytes / 349,94 MiB
+- Download: 265.694.296 Bytes / 253,39 MiB
+- entpackt: 366.938.788 Bytes / 349,94 MiB
 - Dateien im Paket: 101
-- SHA-256: `0f916eb9728c5d74e1b8d35c721f1a443f2afde7eb466297bf7637850a176b34`
+- SHA-256: `db6c9a2dfae105d1ebe4fafe3b996caa6a51c4478253fab6cc7cc4dc4f266249`
 
 Der Build ist nicht digital signiert. Eine Windows-SmartScreen-Warnung ist
 daher möglich. Bitte nur das direkt aus diesem Repository geladene ZIP testen.
