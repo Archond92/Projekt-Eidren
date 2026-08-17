@@ -1,5 +1,13 @@
 # Eidren v0.3.1 – Windows-Testversion
 
+**Paket am 18.08.2026 ersetzt.** Das erste v0.3.1-Paket hatte drei von
+Testern gemeldete Fehler, allen voran den verschwundenen Eingang zur
+Eidra-Schmiede in den Glutruinen. Diese Fassung behebt: Verlies-Eingang
+wiederhergestellt, Gegner tragen Name/Lebens-/Staggerbalken sauber über
+der Figur, und der grüne Zielring bleibt auf gebauten Böden sichtbar.
+Wer das erste Paket geladen hat, lädt bitte neu — die Prüfsumme unten
+gilt für die ersetzte Fassung.
+
 Dies ist die Fixrunde nach dem breiten v0.3-Test: **alle 19 gesammelten
 Rückmeldungen sind umgesetzt**, dazu kommen zwei neue Systeme — die
 Tutorial-Questkette und die Minimap. Wie v0.3.0-dev beginnt diese Ausgabe
@@ -100,10 +108,10 @@ Weltdurchlauf bringt damit 2.400 statt 1.035 EP.
 - Grafikpfad: Direct3D 11
 - Buildtyp: Unity Development Build
 - Unity: `6000.3.0f1`
-- Download: 265.667.490 Bytes / 253,36 MiB
-- entpackt: 366.913.487 Bytes / 349,92 MiB
+- Download: 265.694.136 Bytes / 253,39 MiB
+- entpackt: 366.938.061 Bytes / 349,94 MiB
 - Dateien im Paket: 101
-- SHA-256: `41826941c39a9abcceddd763170941aa1cb7b88a5c4d45b04b98555c1af66fc2`
+- SHA-256: `0f916eb9728c5d74e1b8d35c721f1a443f2afde7eb466297bf7637850a176b34`
 
 Der Build ist nicht digital signiert. Eine Windows-SmartScreen-Warnung ist
 daher möglich. Bitte nur das direkt aus diesem Repository geladene ZIP testen.
