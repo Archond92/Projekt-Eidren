@@ -1,6 +1,15 @@
 # Eidren v0.3.1 – Windows-Testversion
 
-**Paket am 18.08.2026 erneut ersetzt (dritter Austausch).** Zusätzlich
+**Paket am 18.08.2026 erneut ersetzt (vierter Austausch) — der
+entscheidende:** Der Transparenz-Shader der Sichtlinien-Ausblendung wurde
+von Unity aus JEDEM bisherigen Paket entfernt, weil ihn nichts
+referenzierte — die Ausblendung war deshalb in allen ausgelieferten
+Fassungen wirkungslos, obwohl jeder Test im Editor grün war. Der Shader
+ist jetzt fest im Paket verankert und meldet sich beim Spielstart im Log.
+Damit blenden Bäume, Mauern, Verlieswände und Überführungen erstmals im
+Spiel wirklich aus.
+
+**Dritter Austausch:** Zusätzlich
 neu darin: Die Sichtlinien-Ausblendung erfasst jetzt auch hängende
 Verdecker — Balken, Stege und Galerien im Verlies werden durchscheinend,
 statt die Figur zu verschlucken.
@@ -114,10 +123,10 @@ Weltdurchlauf bringt damit 2.400 statt 1.035 EP.
 - Grafikpfad: Direct3D 11
 - Buildtyp: Unity Development Build
 - Unity: `6000.3.0f1`
-- Download: 265.693.304 Bytes / 253,38 MiB
-- entpackt: 366.938.716 Bytes / 349,94 MiB
+- Download: 265.677.305 Bytes / 253,37 MiB
+- entpackt: 366.945.385 Bytes / 349,95 MiB
 - Dateien im Paket: 101
-- SHA-256: `eedf4e6d49e1eab7965dc23fde69d35bf8bc3b576d7b76110fcec6286e374119`
+- SHA-256: `0b374830c10792ce482a8388c5ab8dfeab7735520935d7813f033d59127b776f`
 
 Der Build ist nicht digital signiert. Eine Windows-SmartScreen-Warnung ist
 daher möglich. Bitte nur das direkt aus diesem Repository geladene ZIP testen.
