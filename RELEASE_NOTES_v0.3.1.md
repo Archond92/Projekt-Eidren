@@ -1,8 +1,17 @@
 # Eidren v0.3.1 – Windows-Testversion
 
-**Paket am 18.08.2026 erneut ersetzt (fünfter Austausch):** Zwei
-Verlies-Verbesserungen. Der **Kernwächter der Schmiede** trägt jetzt wie
-alle Gegner Name, Lebens- und Staggerbalken samt Schutzanzeige — in
+**Paket am 19.08.2026 erneut ersetzt (sechster Austausch):** Drei
+Verlies-Verbesserungen aus der Testrunde. Das **Verlies hat einen
+Ausgang** — am Windfang steht ein Steinrahmen mit der Halte-Interaktion
+„VERLIES VERLASSEN"; danach steht man in den Glutruinen direkt vor dem
+Portal. Die **Schmiedekisten zeigen ihren Markenpreis über der Kiste**
+als schwebendes Label („15/30/90 MARKEN"), das nach dem Bezahlen
+verschwindet. Und der **Verlies-Eingang in den Glutruinen ist jetzt ein
+Felsportal** mit Steinsturz, dunkler Öffnung und Glutschein statt der
+roten Bodenscheibe.
+
+**Fünfter Austausch (18.08.):** Der **Kernwächter der Schmiede** trägt
+wie alle Gegner Name, Lebens- und Staggerbalken samt Schutzanzeige — in
 geschlossener Phase steht „SCHUTZ 35 %" über ihm, bei offenem Kern
 verschwindet sie. Seine Kampfmechanik war intakt (Treffer wirken, Stagger
 öffnet den Kern), aber ohne Anzeige wirkten Schläge gegen seine 3000
@@ -121,8 +130,8 @@ Weltdurchlauf bringt damit 2.400 statt 1.035 EP.
 
 ## Abnahme
 
-- vollständiger EditMode-Lauf: **1209 bestanden, 0 fehlgeschlagen**
-- vollständiger PlayMode-Lauf: **134 bestanden, 0 fehlgeschlagen**, 3
+- vollständiger EditMode-Lauf: **1211 bestanden, 0 fehlgeschlagen**
+- vollständiger PlayMode-Lauf: **136 bestanden, 0 fehlgeschlagen**, 3
   bewusste Übersprünge (Grafik- und Aufnahmeläufe)
 - Windows-x64-Build erstellt und mit Prüfsumme versehen; Startbeweis des
   Transparenz-Shaders im Spielstart-Log geprüft
@@ -133,10 +142,10 @@ Weltdurchlauf bringt damit 2.400 statt 1.035 EP.
 - Grafikpfad: Direct3D 11
 - Buildtyp: Unity Development Build
 - Unity: `6000.3.0f1`
-- Download: 265.686.141 Bytes / 253,38 MiB
-- entpackt: 366.958.968 Bytes / 349,96 MiB
+- Download: 265.681.402 Bytes / 253,37 MiB
+- entpackt: 366.959.045 Bytes / 349,96 MiB
 - Dateien im Paket: 101
-- SHA-256: `0dba912b6b3f2de45acca5f72bac9f94591fa05748621b3919f3d8e0ca681639`
+- SHA-256: `c7f3b9a1f45d7311e57371076b62d4bd296b20397eede337da426117201f2c0f`
 
 Der Build ist nicht digital signiert. Eine Windows-SmartScreen-Warnung ist
 daher möglich. Bitte nur das direkt aus diesem Repository geladene ZIP testen.
