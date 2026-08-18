@@ -1,13 +1,22 @@
 # Eidren v0.3.1 – Windows-Testversion
 
-**Paket am 18.08.2026 erneut ersetzt (vierter Austausch) — der
-entscheidende:** Der Transparenz-Shader der Sichtlinien-Ausblendung wurde
-von Unity aus JEDEM bisherigen Paket entfernt, weil ihn nichts
-referenzierte — die Ausblendung war deshalb in allen ausgelieferten
-Fassungen wirkungslos, obwohl jeder Test im Editor grün war. Der Shader
-ist jetzt fest im Paket verankert und meldet sich beim Spielstart im Log.
-Damit blenden Bäume, Mauern, Verlieswände und Überführungen erstmals im
-Spiel wirklich aus.
+**Paket am 18.08.2026 erneut ersetzt (fünfter Austausch):** Zwei
+Verlies-Verbesserungen. Der **Kernwächter der Schmiede** trägt jetzt wie
+alle Gegner Name, Lebens- und Staggerbalken samt Schutzanzeige — in
+geschlossener Phase steht „SCHUTZ 35 %" über ihm, bei offenem Kern
+verschwindet sie. Seine Kampfmechanik war intakt (Treffer wirken, Stagger
+öffnet den Kern), aber ohne Anzeige wirkten Schläge gegen seine 3000
+Lebenspunkte folgenlos. Und die **Minimap zeigt im Verlies den Aufbau**:
+Wände, Säulen und Kanten erscheinen als helle Konturlinien im Sichtradius
+um die Figur.
+
+**Vierter Austausch — der entscheidende:** Der Transparenz-Shader der
+Sichtlinien-Ausblendung wurde von Unity aus JEDEM bisherigen Paket
+entfernt, weil ihn nichts referenzierte — die Ausblendung war deshalb in
+allen ausgelieferten Fassungen wirkungslos, obwohl jeder Test im Editor
+grün war. Der Shader ist jetzt fest im Paket verankert und meldet sich
+beim Spielstart im Log. Damit blenden Bäume, Mauern, Verlieswände und
+Überführungen erstmals im Spiel wirklich aus.
 
 **Dritter Austausch:** Zusätzlich
 neu darin: Die Sichtlinien-Ausblendung erfasst jetzt auch hängende
@@ -112,10 +121,11 @@ Weltdurchlauf bringt damit 2.400 statt 1.035 EP.
 
 ## Abnahme
 
-- vollständiger EditMode-Lauf: **1191 bestanden, 0 fehlgeschlagen**
-- vollständiger PlayMode-Lauf: **125 bestanden, 0 fehlgeschlagen**, 6
+- vollständiger EditMode-Lauf: **1209 bestanden, 0 fehlgeschlagen**
+- vollständiger PlayMode-Lauf: **134 bestanden, 0 fehlgeschlagen**, 3
   bewusste Übersprünge (Grafik- und Aufnahmeläufe)
-- Windows-x64-Build erstellt und mit Prüfsumme versehen
+- Windows-x64-Build erstellt und mit Prüfsumme versehen; Startbeweis des
+  Transparenz-Shaders im Spielstart-Log geprüft
 
 ## Technische Daten
 
@@ -123,10 +133,10 @@ Weltdurchlauf bringt damit 2.400 statt 1.035 EP.
 - Grafikpfad: Direct3D 11
 - Buildtyp: Unity Development Build
 - Unity: `6000.3.0f1`
-- Download: 265.677.305 Bytes / 253,37 MiB
-- entpackt: 366.945.385 Bytes / 349,95 MiB
+- Download: 265.686.141 Bytes / 253,38 MiB
+- entpackt: 366.958.968 Bytes / 349,96 MiB
 - Dateien im Paket: 101
-- SHA-256: `0b374830c10792ce482a8388c5ab8dfeab7735520935d7813f033d59127b776f`
+- SHA-256: `0dba912b6b3f2de45acca5f72bac9f94591fa05748621b3919f3d8e0ca681639`
 
 Der Build ist nicht digital signiert. Eine Windows-SmartScreen-Warnung ist
 daher möglich. Bitte nur das direkt aus diesem Repository geladene ZIP testen.
