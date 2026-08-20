@@ -1,21 +1,21 @@
-# Projekt Eidren – Windows-Testversion 0.3.1
+# Projekt Eidren – Windows-Testversion 0.3.2
 
 Eidren ist ein isometrisches Action- und Aufbauspiel mit handgebauten
-3D-Figuren in einer räumlichen Low-Poly-Welt. Version 0.3.1 ist die Fixrunde
-nach dem breiten v0.3-Test: alle 19 gesammelten Rückmeldungen sind umgesetzt —
-darunter die Sichtbarkeit der Figur hinter Bäumen und Mauern, funktionierende
-Türen und die an der Gefahrenstufe ausgerichtete Gegnerbesetzung. Neu dazu
-kommen die Tutorial-Questkette (17 geführte Schritte bis zum ersten Eidra)
-und die Minimap im Kampf-HUD.
+3D-Figuren in einer räumlichen Low-Poly-Welt. Version 0.3.2 ist die zweite
+Fixrunde nach dem v0.3-Test: neun gemeldete Punkte sind umgesetzt, dazu zwei
+neue Bedienhilfen — Tooltips an den Fähigkeitsknöpfen und ein Fenster zum
+Verwalten des Eidra-Gespanns. Der Schwerpunkt liegt auf dem Kampf: Jede
+Fähigkeit und jede Waffe wirkt jetzt gegen jeden Gegner, mehrere versteckte
+Sperren an Gegnertypen sind entfallen.
 
 Bei dieser Ausgabe handelt es sich um eine Testversion zum Prüfen der
 Mechaniken und Inhalte. Das Spiel beginnt bei null — es liegt kein
-vorgefertigter Spielstand bei; v0.3-Spielstände werden beim Laden übernommen.
+vorgefertigter Spielstand bei; bestehende Spielstände werden beim Laden übernommen.
 
 ## Herunterladen und starten
 
-1. Unter [Releases](https://github.com/Archond92/Projekt-Eidren/releases/tag/v0.3.1)
-   die Datei `Eidren-v0.3.1-windows-x64.zip` herunterladen.
+1. Unter [Releases](https://github.com/Archond92/Projekt-Eidren/releases/tag/v0.3.2)
+   die Datei `Eidren-v0.3.2-windows-x64.zip` herunterladen.
 2. Das ZIP vollständig in einen neuen Ordner entpacken.
 3. Im entpackten Ordner `Eidren.exe` starten.
 
@@ -59,14 +59,14 @@ Nachstellen und nach Möglichkeit einen Screenshot angeben.
 
 ## Prüfsumme
 
-SHA-256 von `Eidren-v0.3.1-windows-x64.zip`:
+SHA-256 von `Eidren-v0.3.2-windows-x64.zip`:
 
 ```text
-c7f3b9a1f45d7311e57371076b62d4bd296b20397eede337da426117201f2c0f
+e7ffcbe61842378ca9d4cdd3d410490dab34c8f5ae60744bf7fed759377f335d
 ```
 
 Ausführliche Testschritte und der enthaltene Funktionsumfang stehen in den
-[Release Notes](RELEASE_NOTES_v0.3.1.md).
+[Release Notes](RELEASE_NOTES_v0.3.2.md).
 
 Dieses Repository enthält die spielbare Testversion, nicht den Unity-Quellcode
 oder lokale Entwicklungsartefakte.
