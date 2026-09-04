@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b20ec39f24b7df707f34ee788575dce, type: 3}
+  m_Name: AreaArt_VeilMarsh
+  m_EditorClassIdentifier: 
+  id: area_art_veil_marsh
+  baseGround: {fileID: 2800000, guid: 92fe19cabbb064148984b735bd0e3fea, type: 3}
+  groundBlends:
+  - id: ground_veilmarsh_blend_1
+    texture: {fileID: 2800000, guid: 1c65ae1cef010f14db824cdd8bcd6487, type: 3}
+    coverage: 0.34
+  - id: ground_veilmarsh_blend_2
+    texture: {fileID: 2800000, guid: 87a1bd61b10df214db41e09761b60529, type: 3}
+    coverage: 0.24
+  resourceVariants:
+  - resourceNodeId: resource.swamp_hemp
+    activeVisualPrefab: {fileID: 1709254077376921, guid: 66ed594fa8003554eb21cc7ce04845bf, type: 3}
+    exhaustedVisualPrefab: {fileID: 1709254077376921, guid: 7bc86cffa0579d6448cd659162cd1113, type: 3}
+    medium: 1
+    recognitionMarker: Gebietseigene Form auf der Interaktionssilhouette
+  - resourceNodeId: resource.iron_vein
+    activeVisualPrefab: {fileID: 1709254077376921, guid: 7d11baf81a75bc249a650efccc043bf7, type: 3}
+    exhaustedVisualPrefab: {fileID: 1709254077376921, guid: ce96a60aeb978ac4991f6c88520dbad3, type: 3}
+    medium: 1
+    recognitionMarker: Gebietseigene Form auf der Interaktionssilhouette
+  decorations:
+  - id: decoration_veilmarsh_1
+    prefab: {fileID: 1709254077376921, guid: 874715e7b482f4145b949bc13e2ab5c7, type: 3}
+    density: 0
+  - id: decoration_veilmarsh_2
+    prefab: {fileID: 1709254077376921, guid: 58fb3f2e59b14e44899d00b72c32d9b1, type: 3}
+    density: 0.6
+  - id: decoration_veilmarsh_3
+    prefab: {fileID: 1709254077376921, guid: 8476cae0d898d1641948b08967dd12e6, type: 3}
+    density: 1.6
+  - id: decoration_veilmarsh_4
+    prefab: {fileID: 1709254077376921, guid: 91363b6426ab8ae41ac4dcacff15cf11, type: 3}
+    density: 0.3
+  - id: decoration_veilmarsh_5
+    prefab: {fileID: 1709254077376921, guid: 048d2c2f12ce3a74dbddce9d0b2ce8a9, type: 3}
+    density: 0.5
+  - id: decoration_veilmarsh_6
+    prefab: {fileID: 1709254077376921, guid: 10755a6d5c02ad149bbc34d079d188f0, type: 3}
+    density: 0
+  - id: decoration_veilmarsh_7
+    prefab: {fileID: 1709254077376921, guid: 6c0e84875abd15a479854b4261f6c371, type: 3}
+    density: 0.4
+  - id: decoration_veilmarsh_8
+    prefab: {fileID: 1709254077376921, guid: 720df75ab38b28348b7b58887124f1e4, type: 3}
+    density: 0
+  volumeProfile: {fileID: 11400000, guid: 6e6f20641360ab3429e1cb18798d6f15, type: 2}
+  backgroundColor: {r: 0.055, g: 0.105, b: 0.115, a: 1}
+  lightColor: {r: 0.52, g: 0.68, b: 0.65, a: 1}

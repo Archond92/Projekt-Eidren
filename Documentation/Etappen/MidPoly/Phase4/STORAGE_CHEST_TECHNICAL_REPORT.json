@@ -1,0 +1,68 @@
+{
+    "generatedUtc": "2026-08-24T18:19:00Z",
+    "pass": true,
+    "prefabGuidBefore": "bed0f5490a6014e4b955be7cdc8845ba",
+    "prefabGuidAfter": "bed0f5490a6014e4b955be7cdc8845ba",
+    "legacyFallbackPath": "Assets/_Game/Prefabs/Stations/Fallback/StorageChest_Legacy.prefab",
+    "lod0Triangles": 7240,
+    "lod1Triangles": 3556,
+    "lod2Triangles": 1420,
+    "materials": 3,
+    "lodLevels": 3,
+    "closedBounds": {
+        "center": {
+            "x": 0.0,
+            "y": 0.3999999165534973,
+            "z": -0.04030922055244446
+        },
+        "size": {
+            "x": 0.9799998998641968,
+            "y": 0.7999998331069946,
+            "z": 0.7200000882148743
+        }
+    },
+    "openedLidBounds": {
+        "center": {
+            "x": 5.960464477539063e-8,
+            "y": 0.8402559757232666,
+            "z": 0.44984889030456545
+        },
+        "size": {
+            "x": 0.9024518728256226,
+            "y": 0.7453885078430176,
+            "z": 0.31902289390563967
+        }
+    },
+    "triggerCenter": {
+        "x": 0.0,
+        "y": 0.75,
+        "z": 0.0
+    },
+    "triggerSize": {
+        "x": 1.0,
+        "y": 1.5,
+        "z": 1.0
+    },
+    "interactionId": "home_base.storage.main",
+    "displayText": "Lagerkiste öffnen",
+    "interactionRange": 2.0,
+    "slots": 24,
+    "semanticAnchors": [
+        "ChestBody",
+        "ChestFrontPlank_0",
+        "ChestLid",
+        "FrontBand",
+        "InteractionPoint",
+        "Latch",
+        "LatchRing",
+        "LidHinge",
+        "LidPlank_0",
+        "LootSocket"
+    ],
+    "lidPivots": [
+        "ChestLid_LOD0",
+        "ChestLid_LOD1",
+        "ChestLid_LOD2"
+    ],
+    "errors": []
+}

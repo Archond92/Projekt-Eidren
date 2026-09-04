@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bfacec3283ae016f2e541c7abe5960b, type: 3}
+  m_Name: Garon
+  m_EditorClassIdentifier:
+  id: garon
+  DisplayName: Garon
+  MaxHealth: 2100
+  MaxStagger: 340
+  StaggerDuration: 6
+  PostStaggerResistanceDuration: 4
+  PostStaggerResistanceMultiplier: 0.38
+  ExperienceReward: 350
+  Navigation:
+    MoveSpeed: 2.1
+    Acceleration: 12
+    AngularSpeed: 300
+    AttackRange: 9
+    DetectionRange: 12.5
+    LeashRange: 18
+    LeashFollowDistance: 2.5
+    PatrolRadius: 3
+    PatrolWait: 2
+    AlertDuration: 0.25
+    ReturnTolerance: 0.65
+    NavMeshSampleDistance: 4
+    AgentRadius: 1.25
+    AgentHeight: 3.1
+  Attacks:
+    ChoiceDuration: 0.25
+    FailedChoiceDelay: 0.2
+    SpinPreferredDistance: 2.4
+    MaxConsecutiveSameAttack: 2
+    Front:
+      MinimumDistance: 2.2
+      MaximumDistance: 4
+      TelegraphDuration: 0.9
+      ExecuteDuration: 0.25
+      RecoveryDuration: 0.75
+      Damage: 34
+      HitDistance: 4
+      MoveSpeed: 0
+      PathRadius: 0.8
+      TelegraphForwardOffset: 2.5
+      TelegraphScale: {x: 5.5, y: 0.05, z: 4}
+    Charge:
+      MinimumDistance: 5
+      MaximumDistance: 9
+      TelegraphDuration: 1.15
+      ExecuteDuration: 0.68
+      RecoveryDuration: 1.05
+      Damage: 31
+      HitDistance: 2.5
+      MoveSpeed: 9
+      PathRadius: 0.8
+      TelegraphForwardOffset: 5
+      TelegraphScale: {x: 3.2, y: 0.05, z: 11}
+    Spin:
+      MinimumDistance: 0
+      MaximumDistance: 4.7
+      TelegraphDuration: 0.9
+      ExecuteDuration: 0.25
+      RecoveryDuration: 0.75
+      Damage: 25
+      HitDistance: 4.7
+      MoveSpeed: 0
+      PathRadius: 0.8
+      TelegraphForwardOffset: 0
+      TelegraphScale: {x: 9.4, y: 0.05, z: 9.4}

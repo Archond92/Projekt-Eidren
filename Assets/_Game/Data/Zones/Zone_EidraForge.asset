@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ebbe447fe2b1f1ba14935ab6f11c630, type: 3}
+  m_Name: Zone_EidraForge
+  m_EditorClassIdentifier: 
+  id: eidra_forge
+  displayName: Verlassene Eidra-Schmiede
+  sceneKey: EidraForge
+  regionType: 4
+  camera:
+    Offset: {x: -8.3, y: 15, z: -8.3}
+    Rotation: {x: 52, y: 45, z: 0}
+    BaseOrthographicSize: 7.4
+    MinimumOrthographicSize: 5.5
+    BoundsInset: 4.8
+  allowedExitSides: 15
+  safeZone: 0
+  enemiesAllowed: 0
+  resourcesAllowed: 0
+  resourceRespawnMode: 1
+  bossZone: 0
+  worldMapNodeId: 
+  areaArt: {fileID: 0}
+  resourceAllocations: []
+  sideNodeAllocations: []
+  enemyAllocations: []
+  worldChestLootProfile: {fileID: 11400000, guid: 313b8b9ea3411594bb60cef4c570fe7b, type: 2}
+  worldChestSpawnPoints: []

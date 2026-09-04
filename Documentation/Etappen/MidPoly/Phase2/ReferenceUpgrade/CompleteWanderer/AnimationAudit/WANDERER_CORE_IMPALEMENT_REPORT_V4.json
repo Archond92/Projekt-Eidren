@@ -1,0 +1,202 @@
+{
+ "blend": "C:\\Users\\phine\\Documents\\Projekt Eidren\\Assets\\_Game\\Art\\MidPoly\\GoldenMasters\\Wanderer\\Candidate\\ReferenceUpgradeComplete\\Source~\\CHR_Wanderer_CompleteReference_HighDetail_Production.blend",
+ "criterion": "Azimutspreizung der Waffenpunkte mit Achsabstand < 0.13 m hoechstens 180.0 Grad (einseitiges Anliegen erlaubt, Durchstoss verboten)",
+ "note": "Ersetzt das 0-Overlap-Kriterium der Park-Aera: getragene Waffen liegen konstruktionsbedingt an der Ruestung an; sichtbar falsch ist nur ein Kerndurchstoss.",
+ "clipsChecked": 24,
+ "framesChecked": 946,
+ "clips": {
+  "Ruhe_Axt": {
+   "weaponModule": "Waffe_Axt_Eisen",
+   "totalFrames": 97,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Ruhe_Dolche": {
+   "weaponModule": "Waffe_Dolche_AshFangs",
+   "totalFrames": 97,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Ruhe_Hammer": {
+   "weaponModule": "Waffe_Hammer_Sealbreaker",
+   "totalFrames": 97,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Ruhe_Sense": {
+   "weaponModule": "Waffe_Sense_Kupfer",
+   "totalFrames": 97,
+   "maxAzimuthSpreadDeg": 84.1,
+   "worstFrame": 58,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Ruhe_Speer": {
+   "weaponModule": "Waffe_Speer_EmberThorn",
+   "totalFrames": 97,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Ruhe_Spitzhacke": {
+   "weaponModule": "Waffe_Spitzhacke_Kupfer",
+   "totalFrames": 97,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Gehen_Axt": {
+   "weaponModule": "Waffe_Axt_Eisen",
+   "totalFrames": 24,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Gehen_Dolche": {
+   "weaponModule": "Waffe_Dolche_AshFangs",
+   "totalFrames": 24,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Gehen_Hammer": {
+   "weaponModule": "Waffe_Hammer_Sealbreaker",
+   "totalFrames": 24,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Gehen_Sense": {
+   "weaponModule": "Waffe_Sense_Kupfer",
+   "totalFrames": 24,
+   "maxAzimuthSpreadDeg": 83.0,
+   "worstFrame": 1,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Gehen_Speer": {
+   "weaponModule": "Waffe_Speer_EmberThorn",
+   "totalFrames": 24,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Gehen_Spitzhacke": {
+   "weaponModule": "Waffe_Spitzhacke_Kupfer",
+   "totalFrames": 24,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Laufen_Axt": {
+   "weaponModule": "Waffe_Axt_Eisen",
+   "totalFrames": 15,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Laufen_Dolche": {
+   "weaponModule": "Waffe_Dolche_AshFangs",
+   "totalFrames": 15,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Laufen_Hammer": {
+   "weaponModule": "Waffe_Hammer_Sealbreaker",
+   "totalFrames": 15,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Laufen_Sense": {
+   "weaponModule": "Waffe_Sense_Kupfer",
+   "totalFrames": 15,
+   "maxAzimuthSpreadDeg": 113.0,
+   "worstFrame": 1,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Laufen_Speer": {
+   "weaponModule": "Waffe_Speer_EmberThorn",
+   "totalFrames": 15,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Laufen_Spitzhacke": {
+   "weaponModule": "Waffe_Spitzhacke_Kupfer",
+   "totalFrames": 15,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Abbau_Axt": {
+   "weaponModule": "Waffe_Axt_Eisen",
+   "totalFrames": 20,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Abbau_Sense": {
+   "weaponModule": "Waffe_Sense_Kupfer",
+   "totalFrames": 30,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Abbau_Spitzhacke": {
+   "weaponModule": "Waffe_Spitzhacke_Kupfer",
+   "totalFrames": 22,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Angriff_Dolche": {
+   "weaponModule": "Waffe_Dolche_AshFangs",
+   "totalFrames": 17,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Angriff_Hammer": {
+   "weaponModule": "Waffe_Hammer_Sealbreaker",
+   "totalFrames": 24,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  },
+  "Angriff_Speer": {
+   "weaponModule": "Waffe_Speer_EmberThorn",
+   "totalFrames": 17,
+   "maxAzimuthSpreadDeg": 0.0,
+   "worstFrame": null,
+   "impalementFrames": [],
+   "pass": true
+  }
+ },
+ "pass": true
+}

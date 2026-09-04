@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b57071cf913f76eddfadaab97acdbd60, type: 3}
+  m_Name: SealGuardian
+  m_EditorClassIdentifier:
+  id: enemy.seal_guardian
+  displayName: Siegelwächter
+  maximumHealth: 750
+  maximumStagger: 240
+  staggerDuration: 3
+  attackDamage: 30
+  protection: 0.15
+  combatStyle: 4
+  secondaryAttackDamage: 38
+  postStaggerResistanceDuration: 3
+  postStaggerDamageMultiplier: 0.5
+  telegraphDuration: 1.05
+  attackWindowDuration: 0.2
+  recoveryDuration: 0.9
+  deathDisableDelay: 120
+  experienceReward: 140
+  lootTable: {fileID: 0}
+  navigation:
+    MoveSpeed: 2.8
+    Acceleration: 14
+    AngularSpeed: 360
+    AttackRange: 2.516
+    DetectionRange: 10
+    LeashRange: 18
+    LeashFollowDistance: 3
+    PatrolRadius: 2.5
+    PatrolWait: 1.1
+    AlertDuration: 0.3
+    ReturnTolerance: 0.55
+    NavMeshSampleDistance: 4
+    AgentRadius: 0.7104
+    AgentHeight: 2.96
+  capturableEidra: {fileID: 0}
+  prefab: {fileID: 1709254077376921, guid: 5134989611299da499f7ee70aeb2ca48, type: 2}

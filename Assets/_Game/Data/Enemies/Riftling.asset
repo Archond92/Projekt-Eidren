@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b57071cf913f76eddfadaab97acdbd60, type: 3}
+  m_Name: Riftling
+  m_EditorClassIdentifier:
+  id: enemy.riftling
+  displayName: Rissling
+  maximumHealth: 220
+  maximumStagger: 80
+  staggerDuration: 2.3
+  attackDamage: 20
+  protection: 0
+  combatStyle: 0
+  secondaryAttackDamage: 0
+  postStaggerResistanceDuration: 0
+  postStaggerDamageMultiplier: 1
+  telegraphDuration: 0.38
+  attackWindowDuration: 0.16
+  recoveryDuration: 0.55
+  deathDisableDelay: 2.5
+  experienceReward: 25
+  lootTable: {fileID: 11400000, guid: f47e47f7e7bed614d9fd752ae33ad099, type: 2}
+  navigation:
+    MoveSpeed: 4.7
+    Acceleration: 14
+    AngularSpeed: 420
+    AttackRange: 1.65
+    DetectionRange: 10
+    LeashRange: 18
+    LeashFollowDistance: 3
+    PatrolRadius: 3.5
+    PatrolWait: 1.2
+    AlertDuration: 0.3
+    ReturnTolerance: 0.55
+    NavMeshSampleDistance: 4
+    AgentRadius: 0.45759997
+    AgentHeight: 1.8479999
+  capturableEidra: {fileID: 0}
+  prefab: {fileID: 1709254077376921, guid: 60c418f9d6491814fad6e3a97e7970d2, type: 2}

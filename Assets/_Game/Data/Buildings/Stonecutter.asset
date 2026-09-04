@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e968b9e22846478c50e7d10cfd1fca0d, type: 3}
+  m_Name: Stonecutter
+  m_EditorClassIdentifier: 
+  id: building.stonecutter
+  displayName: Steinmetz
+  icon: {fileID: 21300000, guid: 1389bf67f8c89c446bdbd0297fae35d7, type: 3}
+  tier: 1
+  cost:
+  - itemId: wood
+    amount: 6
+  - itemId: stone
+    amount: 10
+  - itemId: copper_bar
+    amount: 1
+  occupiesBuildField: 1
+  placementKind: 0
+  groundRule: 1
+  blocksNavigation: 1
+  category: 1
+  levelFootprints:
+  - width: 1
+    depth: 1
+  levelPrefabs:
+  - {fileID: 1709254077376921, guid: 4c529c806cfe65243a315794b338feaa, type: 3}
+  craftingStation: 5
+  baseRate: 1
+  eidraFactor: 1
+  maximumCount: 0

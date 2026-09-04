@@ -1,0 +1,90 @@
+{
+  "asset": "RiftGuardian",
+  "status": "single-generation-candidate",
+  "legacyCoreIncluded": false,
+  "attackProfile": "asymmetric mass-driven ground slam",
+  "lodRoundtrip": {
+    "LOD0": {
+      "triangles": 19084,
+      "bones": 17,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -1.10992,
+        -0.66699,
+        0.00753
+      ],
+      "boundsMax": [
+        1.11443,
+        0.54463,
+        3.03934
+      ],
+      "height": 3.0318,
+      "normalizedWeights": true,
+      "pass": true
+    },
+    "LOD1": {
+      "triangles": 10304,
+      "bones": 17,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -1.10992,
+        -0.66533,
+        0.00807
+      ],
+      "boundsMax": [
+        1.11443,
+        0.54463,
+        3.0384
+      ],
+      "height": 3.03033,
+      "normalizedWeights": true,
+      "pass": true
+    },
+    "LOD2": {
+      "triangles": 4191,
+      "bones": 17,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -1.10497,
+        -0.66752,
+        0.00746
+      ],
+      "boundsMax": [
+        1.11207,
+        0.5406,
+        3.03579
+      ],
+      "height": 3.02833,
+      "normalizedWeights": true,
+      "pass": true
+    }
+  },
+  "pass": true
+}

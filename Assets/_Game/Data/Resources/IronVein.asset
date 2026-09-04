@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 827e3ec830f3fd32c521dc02db5871c0, type: 3}
+  m_Name: IronVein
+  m_EditorClassIdentifier: 
+  id: resource.iron_vein
+  displayName: Eisenader
+  interactionText: EISENERZ ABBAUEN
+  outputItem: {fileID: 11400000, guid: d31be042b96fc1b4694904956fd8a6f7, type: 2}
+  harvestYields: {fileID: 11400000, guid: 0bd10ed7cfbd7b0429f8fdb4cdca28f8, type: 2}
+  interactionDuration: 2.65
+  interactionRange: 1.5
+  respawnMode: 1
+  nodePrefab: {fileID: 1709254077376921, guid: 8e57aae10714ad348b2df30948ffd5e0, type: 3}
+  activeVisualPrefab: {fileID: 1709254077376921, guid: 78a3b372362805f4eb16d91274c2fba0, type: 3}
+  exhaustedVisualPrefab: {fileID: 1709254077376921, guid: af880920e09480c4f8621f93066b699a, type: 3}
+  keepsAppearanceWhenExhausted: 0
+  collectionIcon: {fileID: 21300000, guid: 8c23f069741f0bf438a08ae0824736ad, type: 3}
+  requiresTool: 1
+  requiredToolItemId: copper_pickaxe
+  blocksNavigation: 1

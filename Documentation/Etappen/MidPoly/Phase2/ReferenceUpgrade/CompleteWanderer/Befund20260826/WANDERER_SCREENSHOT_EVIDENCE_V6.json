@@ -1,0 +1,36 @@
+{
+  "schema": "eidren.wanderer.screenshot-evidence.v1",
+  "generatedUtc": "2026-08-26T22:02:34Z",
+  "viewer": "WANDERER_3D_VIEWER_V6.html",
+  "completeDeterministicMatrix": "WANDERER_SCREENSHOT_MATRIX_V6.json",
+  "totalAddressableCases": 65280,
+  "representativeCaptures": [
+    { "file": "ScreenshotsV6/01_Nackt_LOD0_Vorne_Ruhe_Ohne_p000.png", "lod": 0, "armor": "ohne", "weapon": "Keine", "clip": "Ruhe_Ohne", "view": "front", "percent": 0, "mode": "shaded" },
+    { "file": "ScreenshotsV6/02_Stoff_LOD0_Vorne_Gehen_Ohne_p050.png", "lod": 0, "armor": "set_stoff", "weapon": "Keine", "clip": "Gehen_Ohne", "view": "front", "percent": 50, "mode": "shaded" },
+    { "file": "ScreenshotsV6/11_Kupfer_LOD0_Vorne_Abbau_Axt_p050_v26.png", "lod": 0, "armor": "set_kupfer", "weapon": "Waffe_Axt_Kupfer", "clip": "Abbau_Axt", "view": "front", "percent": 50, "mode": "shaded" },
+    { "file": "ScreenshotsV6/04_Eisen_LOD0_Rechts_Angriff_Speer_p050.png", "lod": 0, "armor": "set_eisen", "weapon": "Waffe_Speer_Eisen", "clip": "Angriff_Speer", "view": "right", "percent": 50, "mode": "shaded" },
+    { "file": "ScreenshotsV6/05_Nackt_LOD1_Links_Oeffnen_p050.png", "lod": 1, "armor": "ohne", "weapon": "hidden-by-opening", "clip": "Oeffnen", "view": "left", "percent": 50, "mode": "shaded" },
+    { "file": "ScreenshotsV6/06_Kupfer_LOD2_Hinten_Abbau_Spitzhacke_p038_Draht.png", "lod": 2, "armor": "set_kupfer", "weapon": "Waffe_Spitzhacke_Kupfer", "clip": "Abbau_Spitzhacke", "view": "back", "percent": 38, "mode": "wire" },
+    { "file": "ScreenshotsV6/07_Eisen_LOD2_Hinten_Laufen_Ohne_p050.png", "lod": 2, "armor": "set_eisen", "weapon": "Keine", "clip": "Laufen_Ohne", "view": "back", "percent": 50, "mode": "shaded" },
+    { "file": "ScreenshotsV6/15_Kupfer_LOD0_Vorne_Abbau_Sense_p054_v26.png", "lod": 0, "armor": "set_kupfer", "weapon": "Waffe_Sense_Kupfer", "clip": "Abbau_Sense", "view": "front", "percent": 54, "mode": "shaded" }
+  ],
+  "currentAcceptanceCaptures": {
+    "count": 50,
+    "openingHead": {
+      "directory": "ScreenshotsV6",
+      "files": ["09_Nackt_LOD0_Vorne_Oeffnen_p050_v26.png", "10_Nackt_LOD0_Links_Oeffnen_p050_v26.png"]
+    },
+    "armoredActions": {
+      "directory": "ScreenshotsV6",
+      "files": "11_Kupfer_LOD0_Vorne_Abbau_Axt_p050_v26.png through 18_Kupfer_LOD0_Rechts_Angriff_Hammer_p050_v26.png"
+    },
+    "fullBareActionMatrix": {
+      "directory": "FullActionChecks",
+      "clips": ["Abbau_Axt", "Abbau_Spitzhacke", "Abbau_Sense", "Angriff_Hammer"],
+      "views": ["front", "right"],
+      "timesPercent": [0, 25, 50, 75, 100],
+      "count": 40,
+      "visualResult": "passed: natural two-hand poses, outward elbows, tools in front of torso, no visible head/neck/torso penetration"
+    }
+  }
+}

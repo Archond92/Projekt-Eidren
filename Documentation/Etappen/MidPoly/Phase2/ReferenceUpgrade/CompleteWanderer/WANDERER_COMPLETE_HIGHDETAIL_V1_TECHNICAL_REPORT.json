@@ -1,0 +1,71 @@
+{
+  "asset": "Wanderer Complete High Detail V1",
+  "pass": true,
+  "checks": {
+    "oneRig20Bones": true,
+    "exact25Clips": true,
+    "allConcreteModulesPresent": true,
+    "allMeshesRigged": true,
+    "allVerticesWeighted": true,
+    "staffMotionContinuous": true,
+    "expectedGeometry": true
+  },
+  "bones": 20,
+  "clips": [
+    "Abbau_Axt",
+    "Abbau_Sense",
+    "Abbau_Spitzhacke",
+    "Angriff_Dolche",
+    "Angriff_Hammer",
+    "Angriff_Speer",
+    "Gehen_Axt",
+    "Gehen_Dolche",
+    "Gehen_Hammer",
+    "Gehen_Sense",
+    "Gehen_Speer",
+    "Gehen_Spitzhacke",
+    "Laufen_Axt",
+    "Laufen_Dolche",
+    "Laufen_Hammer",
+    "Laufen_Sense",
+    "Laufen_Speer",
+    "Laufen_Spitzhacke",
+    "Oeffnen",
+    "Ruhe_Axt",
+    "Ruhe_Dolche",
+    "Ruhe_Hammer",
+    "Ruhe_Sense",
+    "Ruhe_Speer",
+    "Ruhe_Spitzhacke"
+  ],
+  "meshObjects": 838,
+  "trianglesAllVariants": 194440,
+  "missingModules": [],
+  "unriggedMeshes": [
+    "Icosphere"
+  ],
+  "unweightedVertices": [],
+  "staffRotationAudit": {
+    "Abbau_Axt": {
+      "maxDegreesPerFrame": 64.495,
+      "atFrame": 9,
+      "pass": true
+    },
+    "Abbau_Spitzhacke": {
+      "maxDegreesPerFrame": 66.707,
+      "atFrame": 10,
+      "pass": true
+    },
+    "Angriff_Hammer": {
+      "maxDegreesPerFrame": 70.137,
+      "atFrame": 11,
+      "pass": true
+    },
+    "Angriff_Speer": {
+      "maxDegreesPerFrame": 20.385,
+      "atFrame": 7,
+      "pass": true
+    }
+  },
+  "productionIntegrated": false
+}

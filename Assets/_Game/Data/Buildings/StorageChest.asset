@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e968b9e22846478c50e7d10cfd1fca0d, type: 3}
+  m_Name: StorageChest
+  m_EditorClassIdentifier: 
+  id: building.storage_chest
+  displayName: Lagerkiste
+  icon: {fileID: 21300000, guid: d258aefa7eaca2a459d3f43b596716c4, type: 3}
+  tier: 0
+  cost:
+  - itemId: wood
+    amount: 10
+  - itemId: stone
+    amount: 4
+  occupiesBuildField: 1
+  placementKind: 0
+  groundRule: 0
+  blocksNavigation: 1
+  category: 2
+  levelFootprints:
+  - width: 1
+    depth: 1
+  levelPrefabs:
+  - {fileID: 1709254077376921, guid: bed0f5490a6014e4b955be7cdc8845ba, type: 3}
+  craftingStation: 0
+  baseRate: 1
+  eidraFactor: 1
+  maximumCount: 0

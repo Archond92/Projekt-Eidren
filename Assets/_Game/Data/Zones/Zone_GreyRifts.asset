@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ebbe447fe2b1f1ba14935ab6f11c630, type: 3}
+  m_Name: Zone_GreyRifts
+  m_EditorClassIdentifier: 
+  id: zone_grey_rifts
+  displayName: "Graukl\xFCfte"
+  sceneKey: Zone_GreyRifts
+  regionType: 7
+  camera:
+    Offset: {x: -8.3, y: 15, z: -8.3}
+    Rotation: {x: 52, y: 45, z: 0}
+    BaseOrthographicSize: 7.4
+    MinimumOrthographicSize: 5.5
+    BoundsInset: 4.8
+  allowedExitSides: 15
+  safeZone: 0
+  enemiesAllowed: 1
+  resourcesAllowed: 1
+  resourceRespawnMode: 1
+  bossZone: 0
+  worldMapNodeId: zone_grey_rifts
+  areaArt: {fileID: 11400000, guid: 177f602a0e5bdf245993161b5e119e20, type: 2}
+  resourceAllocations:
+  - definition: {fileID: 11400000, guid: 94fe622e5bf149b489d1b47673a21a95, type: 2}
+    count: 45
+  - definition: {fileID: 11400000, guid: 6287b3d13e57a64478a838ad2d63bd52, type: 2}
+    count: 18
+  - definition: {fileID: 11400000, guid: bb1ecf36d5d7298419ee2f06a784c513, type: 2}
+    count: 6
+  - definition: {fileID: 11400000, guid: e5655ff7c1fa964429c0676dc0a8db41, type: 2}
+    count: 3
+  sideNodeAllocations:
+  - definition: {fileID: 11400000, guid: 43aa995d9f1d7ba49bcfcdd65de16b1f, type: 2}
+    count: 6
+  enemyAllocations:
+  - definition: {fileID: 11400000, guid: 75fba18e5b8a88b448c3979a65bd460f, type: 2}
+    count: 2
+  - definition: {fileID: 11400000, guid: 63774d5bff7e3644093a9effd5f79b62, type: 2}
+    count: 3
+  - definition: {fileID: 11400000, guid: 4d217434359f9b84c9693ea89c1ef190, type: 2}
+    count: 3
+  - definition: {fileID: 11400000, guid: f17020850e670c04bb36bf7bac425d8d, type: 2}
+    count: 2
+  - definition: {fileID: 11400000, guid: 7ae8ae17dd7199243b41760f5195545a, type: 2}
+    count: 4
+  worldChestLootProfile: {fileID: 11400000, guid: 10440e929fbf80e4f8d45e20eb1e0f0c, type: 2}
+  worldChestSpawnPoints:
+  - stableId: common_01
+    position: {x: -26, y: 0.12, z: -18}
+    rotationY: 24
+    allowedFamilies: 1
+  - stableId: common_02
+    position: {x: -13, y: 0.12, z: -5}
+    rotationY: 332
+    allowedFamilies: 1
+  - stableId: common_03
+    position: {x: 11, y: 0.12, z: -9}
+    rotationY: 18
+    allowedFamilies: 1
+  - stableId: common_04
+    position: {x: 25, y: 0.12, z: 11}
+    rotationY: 288
+    allowedFamilies: 1
+  - stableId: common_05
+    position: {x: -17, y: 0.12, z: 20}
+    rotationY: 78
+    allowedFamilies: 1
+  - stableId: common_06
+    position: {x: 8, y: 0.12, z: 26}
+    rotationY: 205
+    allowedFamilies: 1
+  - stableId: guarded_01
+    position: {x: 1, y: 0.12, z: 10}
+    rotationY: 180
+    allowedFamilies: 2
+  - stableId: guarded_02
+    position: {x: 23, y: 0.12, z: -22}
+    rotationY: 310
+    allowedFamilies: 2
+  - stableId: hidden_01
+    position: {x: -30, y: 0.12, z: 26}
+    rotationY: 122
+    allowedFamilies: 4
+  - stableId: hidden_02
+    position: {x: 30, y: 0.12, z: -27}
+    rotationY: 302
+    allowedFamilies: 4

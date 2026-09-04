@@ -1,0 +1,247 @@
+{
+    "pass": true,
+    "generatedUtc": "2026-08-25T11:49:15Z",
+    "sourceBlend": "Assets/_Game/Art/MidPoly/Environment/Phase5/Source~/PRP_EnvironmentKit_Mid_Phase5.blend",
+    "assets": [
+        {
+            "asset": "SP_Tree_A",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                3.569999933242798,
+                7.500000953674316,
+                2.7360000610351564
+            ],
+            "lod0Triangles": 5404,
+            "lod1Triangles": 2800,
+            "lod2Triangles": 1124,
+            "issues": []
+        },
+        {
+            "asset": "SP_Tree_B",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                4.02400016784668,
+                6.0,
+                3.0959997177124025
+            ],
+            "lod0Triangles": 5404,
+            "lod1Triangles": 2800,
+            "lod2Triangles": 1124,
+            "issues": []
+        },
+        {
+            "asset": "SP_Tree_C",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                2.7150001525878908,
+                3.999999523162842,
+                2.0280001163482668
+            ],
+            "lod0Triangles": 4124,
+            "lod1Triangles": 2136,
+            "lod2Triangles": 856,
+            "issues": []
+        },
+        {
+            "asset": "SP_Plant_Bush",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                1.5010000467300416,
+                0.8999999165534973,
+                1.1759999990463257
+            ],
+            "lod0Triangles": 3840,
+            "lod1Triangles": 1992,
+            "lod2Triangles": 804,
+            "issues": []
+        },
+        {
+            "asset": "SP_Plant_Fern",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                1.3050000667572022,
+                0.699999988079071,
+                1.0369999408721924
+            ],
+            "lod0Triangles": 504,
+            "lod1Triangles": 252,
+            "lod2Triangles": 98,
+            "issues": []
+        },
+        {
+            "asset": "SP_Plant_Flowers",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                0.49300000071525576,
+                0.3999999761581421,
+                0.45900002121925356
+            ],
+            "lod0Triangles": 3780,
+            "lod1Triangles": 1960,
+            "lod2Triangles": 784,
+            "issues": []
+        },
+        {
+            "asset": "SP_GroundCover_Grass",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                1.1880000829696656,
+                0.15000000596046449,
+                1.200000286102295
+            ],
+            "lod0Triangles": 640,
+            "lod1Triangles": 320,
+            "lod2Triangles": 120,
+            "issues": []
+        },
+        {
+            "asset": "SP_GroundCover_Moss",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                1.2000000476837159,
+                0.12000001221895218,
+                1.1369999647140504
+            ],
+            "lod0Triangles": 1920,
+            "lod1Triangles": 996,
+            "lod2Triangles": 396,
+            "issues": []
+        },
+        {
+            "asset": "SP_Accent_GlowMushrooms",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                0.5399999618530273,
+                0.34999996423721316,
+                0.48399996757507326
+            ],
+            "lod0Triangles": 3000,
+            "lod1Triangles": 1548,
+            "lod2Triangles": 612,
+            "issues": []
+        },
+        {
+            "asset": "SP_Rock_Small",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                1.8259999752044678,
+                0.503000020980835,
+                1.6840001344680787
+            ],
+            "lod0Triangles": 2560,
+            "lod1Triangles": 1328,
+            "lod2Triangles": 536,
+            "issues": []
+        },
+        {
+            "asset": "SP_Rock_Medium",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                2.506000280380249,
+                1.1059998273849488,
+                1.819000005722046
+            ],
+            "lod0Triangles": 3840,
+            "lod1Triangles": 1992,
+            "lod2Triangles": 804,
+            "issues": []
+        },
+        {
+            "asset": "SP_Rock_Large",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                2.6459999084472658,
+                2.4030003547668459,
+                2.063999652862549
+            ],
+            "lod0Triangles": 5120,
+            "lod1Triangles": 2656,
+            "lod2Triangles": 1072,
+            "issues": []
+        },
+        {
+            "asset": "SP_RuinWall_A",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                2.7720000743865969,
+                2.5999999046325685,
+                1.50600004196167
+            ],
+            "lod0Triangles": 3240,
+            "lod1Triangles": 1680,
+            "lod2Triangles": 660,
+            "issues": []
+        },
+        {
+            "asset": "SP_RuinWall_B",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                2.1680002212524416,
+                2.5999999046325685,
+                1.2400001287460328
+            ],
+            "lod0Triangles": 2592,
+            "lod1Triangles": 1344,
+            "lod2Triangles": 528,
+            "issues": []
+        },
+        {
+            "asset": "SP_RuinMonument",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                1.7949998378753663,
+                5.000000476837158,
+                1.436000108718872
+            ],
+            "lod0Triangles": 4208,
+            "lod1Triangles": 2182,
+            "lod2Triangles": 858,
+            "issues": []
+        },
+        {
+            "asset": "SP_EidrenRune",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "colliderPreserved": true,
+            "size": [
+                0.7210000157356262,
+                0.7999998927116394,
+                0.4400000274181366
+            ],
+            "lod0Triangles": 1240,
+            "lod1Triangles": 644,
+            "lod2Triangles": 256,
+            "issues": []
+        }
+    ]
+}

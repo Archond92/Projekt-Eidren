@@ -1,0 +1,54 @@
+{
+    "generatedUtc": "2026-08-25T12:21:56Z",
+    "pass": true,
+    "prefabGuidBefore": "16ce8a1c41a4d574a906f32c4b7dc5e6",
+    "prefabGuidAfter": "16ce8a1c41a4d574a906f32c4b7dc5e6",
+    "legacyFallbackPath": "Assets/_Game/Prefabs/Stations/Fallback/Workbench_Legacy.prefab",
+    "lod0Triangles": 18876,
+    "lod1Triangles": 9438,
+    "lod2Triangles": 3764,
+    "materials": 5,
+    "lodLevels": 3,
+    "rendererBounds": {
+        "center": {
+            "x": 0.03160861134529114,
+            "y": 0.5589010119438171,
+            "z": -0.18320196866989137
+        },
+        "size": {
+            "x": 0.9999999403953552,
+            "y": 1.1000001430511475,
+            "z": 0.9999998807907105
+        }
+    },
+    "triggerCenter": {
+        "x": 0.0,
+        "y": 0.75,
+        "z": 0.0
+    },
+    "triggerSize": {
+        "x": 1.0,
+        "y": 1.5,
+        "z": 1.0
+    },
+    "navigationCenter": {
+        "x": 0.0,
+        "y": 0.75,
+        "z": 0.0
+    },
+    "navigationSize": {
+        "x": 1.0,
+        "y": 1.5,
+        "z": 1.0
+    },
+    "interactionId": "home_base.workbench",
+    "interactionRange": 2.0,
+    "semanticAnchors": [
+        "InteractionPoint",
+        "ToolRack",
+        "ToolSet",
+        "Vise",
+        "Worktop"
+    ],
+    "errors": []
+}

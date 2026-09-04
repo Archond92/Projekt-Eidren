@@ -1,0 +1,125 @@
+{
+  "asset": "Wanderer Complete Animation Candidate V3",
+  "clip": "Abbau_Spitzhacke",
+  "pass": true,
+  "coreIntersectionFrames": [],
+  "coreIntersectionFrameCount": 0,
+  "totalFrames": 22,
+  "worstFrame": {
+    "frame": 0,
+    "coreIntersectionPairs": 0,
+    "handContactPairs": 0
+  },
+  "frames": [
+    {
+      "frame": 0,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 1,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 2,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 3,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 4,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 5,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 6,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 7,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 8,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 9,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 10,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 11,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 12,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 13,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 14,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 15,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 16,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 17,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 18,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 19,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 20,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    },
+    {
+      "frame": 21,
+      "coreIntersectionPairs": 0,
+      "handContactPairs": 0
+    }
+  ]
+}

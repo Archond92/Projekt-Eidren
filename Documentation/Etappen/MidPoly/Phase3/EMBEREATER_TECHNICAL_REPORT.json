@@ -1,0 +1,33 @@
+{
+    "generatedUtc": "2026-08-24T15:43:59Z",
+    "pass": true,
+    "prefabGuidBefore": "b9c735db77a86174cb7f875f91c7bae5",
+    "prefabGuidAfter": "b9c735db77a86174cb7f875f91c7bae5",
+    "enemyGuidBefore": "2c33343c7ee886943a14c30c6748bc56",
+    "enemyGuidAfter": "2c33343c7ee886943a14c30c6748bc56",
+    "lod0Triangles": 16128,
+    "lod1Triangles": 8708,
+    "lod2Triangles": 3548,
+    "materials": 3,
+    "bones": 17,
+    "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+    ],
+    "lodLevels": 3,
+    "rendererBoundsSize": {
+        "x": 1.315706729888916,
+        "y": 1.5180742740631104,
+        "z": 1.6534619331359864
+    },
+    "colliderRadius": 0.41279998421669009,
+    "colliderHeight": 1.7200000286102296,
+    "legacyFallbackPath": "Assets/_Game/Prefabs/Actors/3D/Fallback/EmberEater_3D_Legacy.prefab",
+    "errors": []
+}

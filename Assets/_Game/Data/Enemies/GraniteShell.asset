@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b57071cf913f76eddfadaab97acdbd60, type: 3}
+  m_Name: GraniteShell
+  m_EditorClassIdentifier:
+  id: enemy.granite_shell
+  displayName: Granitpanzer
+  maximumHealth: 450
+  maximumStagger: 180
+  staggerDuration: 3
+  attackDamage: 30
+  protection: 0.2
+  combatStyle: 3
+  secondaryAttackDamage: 0
+  postStaggerResistanceDuration: 0
+  postStaggerDamageMultiplier: 1
+  telegraphDuration: 0.78
+  attackWindowDuration: 0.22
+  recoveryDuration: 1.25
+  deathDisableDelay: 2.5
+  experienceReward: 65
+  lootTable: {fileID: 11400000, guid: f47e47f7e7bed614d9fd752ae33ad099, type: 2}
+  navigation:
+    MoveSpeed: 2.35
+    Acceleration: 14
+    AngularSpeed: 420
+    AttackRange: 1.85
+    DetectionRange: 10
+    LeashRange: 18
+    LeashFollowDistance: 3
+    PatrolRadius: 3.5
+    PatrolWait: 1.2
+    AlertDuration: 0.3
+    ReturnTolerance: 0.55
+    NavMeshSampleDistance: 4
+    AgentRadius: 0.67599994
+    AgentHeight: 2.7299998
+  capturableEidra: {fileID: 0}
+  prefab: {fileID: 1709254077376921, guid: 8d434a6fffb80534889f6fb14f2f8ed1, type: 2}

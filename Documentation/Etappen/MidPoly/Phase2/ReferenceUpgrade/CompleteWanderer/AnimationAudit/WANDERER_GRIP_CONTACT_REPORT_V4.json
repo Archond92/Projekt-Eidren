@@ -1,0 +1,329 @@
+{
+ "blend": "C:\\Users\\phine\\Documents\\Projekt Eidren\\Assets\\_Game\\Art\\MidPoly\\GoldenMasters\\Wanderer\\Candidate\\ReferenceUpgradeComplete\\Source~\\CHR_Wanderer_CompleteReference_HighDetail_Production.blend",
+ "limits": {
+  "primary": 0.05,
+  "second": 0.3,
+  "ground": -0.02
+ },
+ "metric": "Kleinster Abstand Waffenmesh <-> Handschuh-Mesh (Haende_Kupfer LOD0) je Handseite",
+ "interpretation": "Die Waffe muss den Handschuh beruehren; frei schwebende Waffen fallen durch.",
+ "clips": {
+  "Abbau_Axt": {
+   "frames": 20,
+   "maxPrimaryGloveDist": 0.001,
+   "maxSecondGloveDist": 0.7256,
+   "minWeaponZ": 0.711,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Abbau_Sense": {
+   "frames": 30,
+   "maxPrimaryGloveDist": 0.0003,
+   "maxSecondGloveDist": 0.6791,
+   "minWeaponZ": 0.5782,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Abbau_Spitzhacke": {
+   "frames": 22,
+   "maxPrimaryGloveDist": 0.001,
+   "maxSecondGloveDist": 0.7087,
+   "minWeaponZ": 0.5061,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Angriff_Dolche": {
+   "frames": 17,
+   "maxPrimaryGloveDist": 0.0311,
+   "maxSecondGloveDist": 0.0328,
+   "minWeaponZ": 0.7076,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true,
+    "daggerRightGrip": true
+   },
+   "pass": true
+  },
+  "Angriff_Hammer": {
+   "frames": 24,
+   "maxPrimaryGloveDist": 0.0006,
+   "maxSecondGloveDist": 0.6124,
+   "minWeaponZ": 0.4577,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Angriff_Speer": {
+   "frames": 17,
+   "maxPrimaryGloveDist": 0.0008,
+   "maxSecondGloveDist": 0.6293,
+   "minWeaponZ": 0.8264,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Gehen_Axt": {
+   "frames": 24,
+   "maxPrimaryGloveDist": 0.0,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.5284,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Gehen_Dolche": {
+   "frames": 24,
+   "maxPrimaryGloveDist": 0.0024,
+   "maxSecondGloveDist": 0.0004,
+   "minWeaponZ": 0.4449,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true,
+    "daggerRightGrip": true
+   },
+   "pass": true
+  },
+  "Gehen_Hammer": {
+   "frames": 24,
+   "maxPrimaryGloveDist": 0.0,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.3159,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Gehen_Sense": {
+   "frames": 24,
+   "maxPrimaryGloveDist": 0.0003,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.4642,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Gehen_Speer": {
+   "frames": 24,
+   "maxPrimaryGloveDist": 0.0001,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.1739,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Gehen_Spitzhacke": {
+   "frames": 24,
+   "maxPrimaryGloveDist": 0.0,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.34,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Laufen_Axt": {
+   "frames": 15,
+   "maxPrimaryGloveDist": 0.0,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.4326,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Laufen_Dolche": {
+   "frames": 15,
+   "maxPrimaryGloveDist": 0.0024,
+   "maxSecondGloveDist": 0.0004,
+   "minWeaponZ": 0.4095,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true,
+    "daggerRightGrip": true
+   },
+   "pass": true
+  },
+  "Laufen_Hammer": {
+   "frames": 15,
+   "maxPrimaryGloveDist": 0.0,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.1375,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Laufen_Sense": {
+   "frames": 15,
+   "maxPrimaryGloveDist": 0.0003,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.2939,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Laufen_Speer": {
+   "frames": 15,
+   "maxPrimaryGloveDist": 0.0001,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.0807,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Laufen_Spitzhacke": {
+   "frames": 15,
+   "maxPrimaryGloveDist": 0.0,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.1569,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Ruhe_Axt": {
+   "frames": 97,
+   "maxPrimaryGloveDist": 0.0,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.5707,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Ruhe_Dolche": {
+   "frames": 97,
+   "maxPrimaryGloveDist": 0.0024,
+   "maxSecondGloveDist": 0.0004,
+   "minWeaponZ": 0.479,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true,
+    "daggerRightGrip": true
+   },
+   "pass": true
+  },
+  "Ruhe_Hammer": {
+   "frames": 97,
+   "maxPrimaryGloveDist": 0.0,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.4031,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Ruhe_Sense": {
+   "frames": 97,
+   "maxPrimaryGloveDist": 0.0003,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.5483,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Ruhe_Speer": {
+   "frames": 97,
+   "maxPrimaryGloveDist": 0.0001,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.2086,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  },
+  "Ruhe_Spitzhacke": {
+   "frames": 97,
+   "maxPrimaryGloveDist": 0.0,
+   "maxSecondGloveDist": null,
+   "minWeaponZ": 0.4291,
+   "maxScaleError": 0.0,
+   "checks": {
+    "primaryGrip": true,
+    "groundClearance": true,
+    "unitScale": true
+   },
+   "pass": true
+  }
+ },
+ "pass": true
+}

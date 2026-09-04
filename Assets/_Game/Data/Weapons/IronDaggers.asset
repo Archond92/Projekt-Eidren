@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502fbe142ed9afa4f7feff0e2e001192, type: 3}
+  m_Name: IronDaggers
+  m_EditorClassIdentifier:
+  id: iron_daggers
+  DisplayName: Eisendolche
+  Accent: {r: 0.62, g: 0.67, b: 0.7, a: 1}
+  BaseDamage: 17.4
+  BaseStaggerDamage: 3.6
+  AttackRange: 3
+  AttackAssistAngle: 75
+  BackDamageMultiplier: 1.75
+  Combo: []
+  Identity:
+    Family: 2
+    Signature: 2
+    Tier: 2
+    IsNamedVariant: 0
+    SignatureHint: Hinterhalt
+  Moveset: {fileID: 11400000, guid: efd770c30e60ad54dbecb8c30a8c83e3, type: 2}

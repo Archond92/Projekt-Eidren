@@ -1,0 +1,130 @@
+{
+    "pass": true,
+    "generatedUtc": "2026-08-25T15:58:43Z",
+    "productionPrefabs": 110,
+    "scenes": 12,
+    "statusRows": 150,
+    "acceptedStatusRows": 150,
+    "legacyAssetsInRuntime": 0,
+    "families": [
+        {
+            "family": "Actors",
+            "pass": true,
+            "assets": 16,
+            "issues": []
+        },
+        {
+            "family": "Environment",
+            "pass": true,
+            "assets": 16,
+            "issues": []
+        },
+        {
+            "family": "ResourceStates",
+            "pass": true,
+            "assets": 18,
+            "issues": []
+        }
+    ],
+    "technicalReports": [
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase1/RESOURCE_PILOT_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase1/WANDERER_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase1/WILDLING_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase1/WORKBENCH_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/WANDERER_COMPLETE_HIGHDETAIL_V1_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/WANDERER_COMPLETE_PRODUCTION_LOD_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/WANDERER_UNITY_INTEGRATION_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase3/PHASE3_FINAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase3/REMAINING_CREATURES_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase3/REMAINING_CREATURES_UNITY_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase4/BASE_MODULES_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase4/FORGE_CONTAINERS_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase4/PRODUCTION_STATIONS_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase4/STORAGE_CHEST_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase4/WORLD_CHESTS_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase4/WORLD_LOOT_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase5/ENVIRONMENT_KIT_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase5/TIER_TWO_ORE_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        },
+        {
+            "path": "Documentation/Etappen/MidPoly/Phase5/TIER_TWO_VEGETATION_TECHNICAL_REPORT.json",
+            "pass": true,
+            "issue": ""
+        }
+    ],
+    "documentedExceptions": [
+        "Der Wanderer verwendet auf ausdruecklichen Nutzerwunsch seit 25.08.2026 wieder die produktive Low-Poly-Fassung; alle anderen Assetfamilien bleiben Mid-Poly."
+    ],
+    "issues": []
+}

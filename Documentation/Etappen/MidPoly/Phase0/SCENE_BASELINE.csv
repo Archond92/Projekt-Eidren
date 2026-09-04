@@ -1,0 +1,13 @@
+﻿Szenenpfad;GUID;Renderer;Tris;Kameras;Prefab-Quellen;Scene-only Renderer;Bounds Center;Bounds Size;Capture;Notiz;Fehler
+"Assets/_Game/Scenes/Bootstrap.unity";"760a25b008c12374ab987646876ef082";"0";"0";"0";"0";"0";"";"";"";"N/A: Szene enthaelt keine 3D-Renderer.";""
+"Assets/_Game/Scenes/EidraForge.unity";"1260fbb6a4aadfd4ba4b5ea353c1717f";"870";"11334";"1";"8";"701";"(0,-0.45,6)";"(73,11.9,89)";"Captures/Scenes/EidraForge_overview.png";"";""
+"Assets/_Game/Scenes/HomeBase.unity";"4848e8da718b59b419c2a15ae7a98414";"250";"7370";"1";"4";"3";"(0.164183,0.034022,0)";"(52.43635,2.068044,48)";"Captures/Scenes/HomeBase_overview.png";"";""
+"Assets/_Game/Scenes/MainMenu.unity";"39077dd393f1d2942a2665f850ba970a";"0";"0";"1";"0";"0";"";"";"";"N/A: Szene enthaelt keine 3D-Renderer.";""
+"Assets/_Game/Scenes/WorldMap/WorldMap.unity";"fbdff0a284bbb384ea84cb193c4ee5df";"0";"0";"1";"0";"0";"";"";"";"N/A: Szene enthaelt keine 3D-Renderer.";""
+"Assets/_Game/Scenes/Zone_EmberRuins.unity";"68215df2b75789f4ba58700362cf622e";"807";"22554";"1";"8";"6";"(0.27364,2.286293,0)";"(87.39392,6.572587,80)";"Captures/Scenes/Zone_EmberRuins_overview.png";"";""
+"Assets/_Game/Scenes/Zone_Greenwood.unity";"52de8ca2f15a79a48b21f36c3d6145e5";"1256";"34486";"1";"8";"3";"(0.27364,0.671167,0)";"(87.39392,3.342333,80)";"Captures/Scenes/Zone_Greenwood_overview.png";"";""
+"Assets/_Game/Scenes/Zone_GreyRifts.unity";"17915b59c816c374d92e69747456caf4";"765";"21740";"1";"8";"3";"(0.27364,2,0)";"(87.39392,6,80)";"Captures/Scenes/Zone_GreyRifts_overview.png";"";""
+"Assets/_Game/Scenes/Zone_Marsh.unity";"350b45b3805798f439eb3889f811a438";"1425";"38608";"1";"8";"3";"(0.27364,1.5,0)";"(87.39392,5,80)";"Captures/Scenes/Zone_Marsh_overview.png";"";""
+"Assets/_Game/Scenes/Zone_Quarry.unity";"96818c5c33ea01b4ba9236310fe0eb53";"787";"22228";"1";"8";"3";"(0.27364,0.8,0)";"(87.39392,3.6,80)";"Captures/Scenes/Zone_Quarry_overview.png";"";""
+"Assets/_Game/Scenes/Zone_TwilightGrove.unity";"cd6cb7afa034747468836a57399c0a40";"891";"28340";"1";"8";"3";"(0.27364,3.25,0)";"(87.39392,8.5,80)";"Captures/Scenes/Zone_TwilightGrove_overview.png";"";""
+"Assets/_Game/Scenes/Zone_VeilMarsh.unity";"77611df187423664699f1cdc6d5b3f23";"946";"31748";"1";"8";"3";"(0.27364,1.5,0)";"(87.39392,5,80)";"Captures/Scenes/Zone_VeilMarsh_overview.png";"";""

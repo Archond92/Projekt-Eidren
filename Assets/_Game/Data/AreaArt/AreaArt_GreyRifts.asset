@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b20ec39f24b7df707f34ee788575dce, type: 3}
+  m_Name: AreaArt_GreyRifts
+  m_EditorClassIdentifier: 
+  id: area_art_grey_rifts
+  baseGround: {fileID: 2800000, guid: cf5574cb88bc6644595005debebc613d, type: 3}
+  groundBlends:
+  - id: ground_greyrifts_blend_1
+    texture: {fileID: 2800000, guid: 2c274951069a0904d8a373530d674de6, type: 3}
+    coverage: 0.34
+  - id: ground_greyrifts_blend_2
+    texture: {fileID: 2800000, guid: 5299f490af8446c4f88ec3d4299cc5d9, type: 3}
+    coverage: 0.24
+  resourceVariants:
+  - resourceNodeId: resource.granite_deposit
+    activeVisualPrefab: {fileID: 1709254077376921, guid: 0a6ca09972b64f54ea39bd7de7299ea5, type: 3}
+    exhaustedVisualPrefab: {fileID: 1709254077376921, guid: eb3cadb0619c9c247b192579107edaaf, type: 3}
+    medium: 1
+    recognitionMarker: Gebietseigene Form auf der Interaktionssilhouette
+  - resourceNodeId: resource.iron_vein
+    activeVisualPrefab: {fileID: 1709254077376921, guid: e969481954d60ee4da66505274c3960a, type: 3}
+    exhaustedVisualPrefab: {fileID: 1709254077376921, guid: 867f46c46d3d7d74189bd323cf6b6003, type: 3}
+    medium: 1
+    recognitionMarker: Gebietseigene Form auf der Interaktionssilhouette
+  decorations:
+  - id: decoration_greyrifts_1
+    prefab: {fileID: 1709254077376921, guid: 7a05b52bf96b4cf46a032fc54d3ecac5, type: 3}
+    density: 0
+  - id: decoration_greyrifts_2
+    prefab: {fileID: 1709254077376921, guid: e807eb3c56600d44f8f2698a7b860361, type: 3}
+    density: 0
+  - id: decoration_greyrifts_3
+    prefab: {fileID: 1709254077376921, guid: 048d2c2f12ce3a74dbddce9d0b2ce8a9, type: 3}
+    density: 0.5
+  - id: decoration_greyrifts_4
+    prefab: {fileID: 1709254077376921, guid: 10755a6d5c02ad149bbc34d079d188f0, type: 3}
+    density: 0
+  - id: decoration_greyrifts_5
+    prefab: {fileID: 1709254077376921, guid: 110fdd08b47f8214b89c865c4ed10e83, type: 3}
+    density: 0
+  - id: decoration_greyrifts_6
+    prefab: {fileID: 1709254077376921, guid: 9313da8e1c3c16342966f0867ddeeadd, type: 3}
+    density: 0
+  - id: decoration_greyrifts_7
+    prefab: {fileID: 1709254077376921, guid: 0776cdffc03491c4eacacb09f19ee709, type: 3}
+    density: 1.6
+  - id: decoration_greyrifts_8
+    prefab: {fileID: 1709254077376921, guid: 720df75ab38b28348b7b58887124f1e4, type: 3}
+    density: 0
+  volumeProfile: {fileID: 11400000, guid: de6631fe68d7ce9478dd5a50c519ea90, type: 2}
+  backgroundColor: {r: 0.115, g: 0.12, b: 0.135, a: 1}
+  lightColor: {r: 0.72, g: 0.7, b: 0.68, a: 1}

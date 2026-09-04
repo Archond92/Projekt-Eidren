@@ -1,0 +1,470 @@
+{
+  "schema": 2,
+  "generatedUtc": "2026-08-26T22:15:28.844Z",
+  "pass": true,
+  "documents": {
+    "LOD0": {
+      "clips": 28,
+      "materials": 35,
+      "finiteValues": 57383,
+      "monotonicInputs": 1680,
+      "loopMaxTranslation": 0,
+      "loopMaxRotationDegrees": 0,
+      "openingRootTravel": 0.5421903938562601,
+      "openingArmMotionDegrees": 57.48777656570002,
+      "openingHandTravel": 0.6523801613485717,
+      "openingHandReturn": 0,
+      "grip": {
+        "Abbau_Axt": {
+          "framesChecked": 20,
+          "relevantFramesChecked": 20,
+          "primaryMaximum": 0.000007358277343882946,
+          "primaryMaximumFrame": 16,
+          "maximum": 0.00001036851062963251,
+          "maximumFrame": 18,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        },
+        "Abbau_Spitzhacke": {
+          "framesChecked": 22,
+          "relevantFramesChecked": 22,
+          "primaryMaximum": 0.0000062933904700912535,
+          "primaryMaximumFrame": 17,
+          "maximum": 0.000008758946023590397,
+          "maximumFrame": 20,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        },
+        "Abbau_Sense": {
+          "framesChecked": 30,
+          "relevantFramesChecked": 30,
+          "primaryMaximum": 0.000012012073966616299,
+          "primaryMaximumFrame": 3,
+          "maximum": 0.02118293195962906,
+          "maximumFrame": 19,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        },
+        "Angriff_Hammer": {
+          "framesChecked": 24,
+          "relevantFramesChecked": 24,
+          "primaryMaximum": 0.000010701067367335781,
+          "primaryMaximumFrame": 20,
+          "maximum": 0.000010944001587631647,
+          "maximumFrame": 15,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        }
+      },
+      "anatomy": {
+        "Abbau_Axt": {
+          "frames": 20,
+          "minimumForearmTorsoClearanceScore": 1.4528072408406676,
+          "minimumForearmTorsoClearanceFrame": 1,
+          "minimumHandFrontMeters": 0.26008383743464947,
+          "minimumHandFrontFrame": 8
+        },
+        "Abbau_Spitzhacke": {
+          "frames": 22,
+          "minimumForearmTorsoClearanceScore": 1.8570528107401838,
+          "minimumForearmTorsoClearanceFrame": 7,
+          "minimumHandFrontMeters": 0.25078530609607697,
+          "minimumHandFrontFrame": 7
+        },
+        "Abbau_Sense": {
+          "frames": 30,
+          "minimumForearmTorsoClearanceScore": 1.6249338585261808,
+          "minimumForearmTorsoClearanceFrame": 6,
+          "minimumHandFrontMeters": 0.2415136620402336,
+          "minimumHandFrontFrame": 11
+        },
+        "Angriff_Hammer": {
+          "frames": 24,
+          "minimumForearmTorsoClearanceScore": 1.624167930705332,
+          "minimumForearmTorsoClearanceFrame": 2,
+          "minimumHandFrontMeters": 0.288796991109848,
+          "minimumHandFrontFrame": 3
+        }
+      },
+      "body": {
+        "LOD0": {
+          "triangles": 3768,
+          "primitives": 3,
+          "materials": [
+            "MP_Wanderer_MidBody_Skin",
+            "MP_Wanderer_MidBody_Trousers",
+            "MP_Wanderer_MidBody_BootLeather"
+          ]
+        }
+      },
+      "primarySockets": {
+        "staff": "handL",
+        "dagL": "handL",
+        "dagR": "handR",
+        "maximumDrift": 0
+      }
+    },
+    "LOD1": {
+      "clips": 28,
+      "materials": 33,
+      "finiteValues": 57383,
+      "monotonicInputs": 1680,
+      "loopMaxTranslation": 0,
+      "loopMaxRotationDegrees": 0,
+      "openingRootTravel": 0.5421903938562601,
+      "openingArmMotionDegrees": 57.48777656570002,
+      "openingHandTravel": 0.6523801613485717,
+      "openingHandReturn": 0,
+      "grip": {
+        "Abbau_Axt": {
+          "framesChecked": 20,
+          "relevantFramesChecked": 20,
+          "primaryMaximum": 0.000007358277343882946,
+          "primaryMaximumFrame": 16,
+          "maximum": 0.00001036851062963251,
+          "maximumFrame": 18,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        },
+        "Abbau_Spitzhacke": {
+          "framesChecked": 22,
+          "relevantFramesChecked": 22,
+          "primaryMaximum": 0.0000062933904700912535,
+          "primaryMaximumFrame": 17,
+          "maximum": 0.000008758946023590397,
+          "maximumFrame": 20,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        },
+        "Abbau_Sense": {
+          "framesChecked": 30,
+          "relevantFramesChecked": 30,
+          "primaryMaximum": 0.000012012073966616299,
+          "primaryMaximumFrame": 3,
+          "maximum": 0.02118293195962906,
+          "maximumFrame": 19,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        },
+        "Angriff_Hammer": {
+          "framesChecked": 24,
+          "relevantFramesChecked": 24,
+          "primaryMaximum": 0.000010701067367335781,
+          "primaryMaximumFrame": 20,
+          "maximum": 0.000010944001587631647,
+          "maximumFrame": 15,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        }
+      },
+      "anatomy": {
+        "Abbau_Axt": {
+          "frames": 20,
+          "minimumForearmTorsoClearanceScore": 1.4528072408406676,
+          "minimumForearmTorsoClearanceFrame": 1,
+          "minimumHandFrontMeters": 0.26008383743464947,
+          "minimumHandFrontFrame": 8
+        },
+        "Abbau_Spitzhacke": {
+          "frames": 22,
+          "minimumForearmTorsoClearanceScore": 1.8570528107401838,
+          "minimumForearmTorsoClearanceFrame": 7,
+          "minimumHandFrontMeters": 0.25078530609607697,
+          "minimumHandFrontFrame": 7
+        },
+        "Abbau_Sense": {
+          "frames": 30,
+          "minimumForearmTorsoClearanceScore": 1.6249338585261808,
+          "minimumForearmTorsoClearanceFrame": 6,
+          "minimumHandFrontMeters": 0.2415136620402336,
+          "minimumHandFrontFrame": 11
+        },
+        "Angriff_Hammer": {
+          "frames": 24,
+          "minimumForearmTorsoClearanceScore": 1.624167930705332,
+          "minimumForearmTorsoClearanceFrame": 2,
+          "minimumHandFrontMeters": 0.288796991109848,
+          "minimumHandFrontFrame": 3
+        }
+      },
+      "body": {
+        "LOD1": {
+          "triangles": 3768,
+          "primitives": 3,
+          "materials": [
+            "MP_Wanderer_MidBody_Skin",
+            "MP_Wanderer_MidBody_Trousers",
+            "MP_Wanderer_MidBody_BootLeather"
+          ]
+        }
+      },
+      "primarySockets": {
+        "staff": "handL",
+        "dagL": "handL",
+        "dagR": "handR",
+        "maximumDrift": 0
+      }
+    },
+    "LOD2": {
+      "clips": 28,
+      "materials": 33,
+      "finiteValues": 57383,
+      "monotonicInputs": 1680,
+      "loopMaxTranslation": 0,
+      "loopMaxRotationDegrees": 0,
+      "openingRootTravel": 0.5421903938562601,
+      "openingArmMotionDegrees": 57.48777656570002,
+      "openingHandTravel": 0.6523801613485717,
+      "openingHandReturn": 0,
+      "grip": {
+        "Abbau_Axt": {
+          "framesChecked": 20,
+          "relevantFramesChecked": 20,
+          "primaryMaximum": 0.000007358277343882946,
+          "primaryMaximumFrame": 16,
+          "maximum": 0.00001036851062963251,
+          "maximumFrame": 18,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        },
+        "Abbau_Spitzhacke": {
+          "framesChecked": 22,
+          "relevantFramesChecked": 22,
+          "primaryMaximum": 0.0000062933904700912535,
+          "primaryMaximumFrame": 17,
+          "maximum": 0.000008758946023590397,
+          "maximumFrame": 20,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        },
+        "Abbau_Sense": {
+          "framesChecked": 30,
+          "relevantFramesChecked": 30,
+          "primaryMaximum": 0.000012012073966616299,
+          "primaryMaximumFrame": 3,
+          "maximum": 0.02118293195962906,
+          "maximumFrame": 19,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        },
+        "Angriff_Hammer": {
+          "framesChecked": 24,
+          "relevantFramesChecked": 24,
+          "primaryMaximum": 0.000010701067367335781,
+          "primaryMaximumFrame": 20,
+          "maximum": 0.000010944001587631647,
+          "maximumFrame": 15,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        }
+      },
+      "anatomy": {
+        "Abbau_Axt": {
+          "frames": 20,
+          "minimumForearmTorsoClearanceScore": 1.4528072408406676,
+          "minimumForearmTorsoClearanceFrame": 1,
+          "minimumHandFrontMeters": 0.26008383743464947,
+          "minimumHandFrontFrame": 8
+        },
+        "Abbau_Spitzhacke": {
+          "frames": 22,
+          "minimumForearmTorsoClearanceScore": 1.8570528107401838,
+          "minimumForearmTorsoClearanceFrame": 7,
+          "minimumHandFrontMeters": 0.25078530609607697,
+          "minimumHandFrontFrame": 7
+        },
+        "Abbau_Sense": {
+          "frames": 30,
+          "minimumForearmTorsoClearanceScore": 1.6249338585261808,
+          "minimumForearmTorsoClearanceFrame": 6,
+          "minimumHandFrontMeters": 0.2415136620402336,
+          "minimumHandFrontFrame": 11
+        },
+        "Angriff_Hammer": {
+          "frames": 24,
+          "minimumForearmTorsoClearanceScore": 1.624167930705332,
+          "minimumForearmTorsoClearanceFrame": 2,
+          "minimumHandFrontMeters": 0.288796991109848,
+          "minimumHandFrontFrame": 3
+        }
+      },
+      "body": {
+        "LOD2": {
+          "triangles": 628,
+          "primitives": 3,
+          "materials": [
+            "MP_Wanderer_MidBody_Skin",
+            "MP_Wanderer_MidBody_Trousers",
+            "MP_Wanderer_MidBody_BootLeather"
+          ]
+        }
+      },
+      "primarySockets": {
+        "staff": "handL",
+        "dagL": "handL",
+        "dagR": "handR",
+        "maximumDrift": 0
+      }
+    },
+    "Production": {
+      "clips": 28,
+      "materials": 35,
+      "finiteValues": 57383,
+      "monotonicInputs": 1680,
+      "loopMaxTranslation": 0,
+      "loopMaxRotationDegrees": 0,
+      "openingRootTravel": 0.5421903938562601,
+      "openingArmMotionDegrees": 57.48777656570002,
+      "openingHandTravel": 0.6523801613485717,
+      "openingHandReturn": 0,
+      "grip": {
+        "Abbau_Axt": {
+          "framesChecked": 20,
+          "relevantFramesChecked": 20,
+          "primaryMaximum": 0.000007358277343882946,
+          "primaryMaximumFrame": 16,
+          "maximum": 0.00001036851062963251,
+          "maximumFrame": 18,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        },
+        "Abbau_Spitzhacke": {
+          "framesChecked": 22,
+          "relevantFramesChecked": 22,
+          "primaryMaximum": 0.0000062933904700912535,
+          "primaryMaximumFrame": 17,
+          "maximum": 0.000008758946023590397,
+          "maximumFrame": 20,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        },
+        "Abbau_Sense": {
+          "framesChecked": 30,
+          "relevantFramesChecked": 30,
+          "primaryMaximum": 0.000012012073966616299,
+          "primaryMaximumFrame": 3,
+          "maximum": 0.02118293195962906,
+          "maximumFrame": 19,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        },
+        "Angriff_Hammer": {
+          "framesChecked": 24,
+          "relevantFramesChecked": 24,
+          "primaryMaximum": 0.000010701067367335781,
+          "primaryMaximumFrame": 20,
+          "maximum": 0.000010944001587631647,
+          "maximumFrame": 15,
+          "source": "Documentation/Etappen/MidPoly/Phase2/ReferenceUpgrade/CompleteWanderer/Befund20260826/WANDERER_BLENDER_SOURCE_GRIP_AUDIT_V6.json"
+        }
+      },
+      "anatomy": {
+        "Abbau_Axt": {
+          "frames": 20,
+          "minimumForearmTorsoClearanceScore": 1.4528072408406676,
+          "minimumForearmTorsoClearanceFrame": 1,
+          "minimumHandFrontMeters": 0.26008383743464947,
+          "minimumHandFrontFrame": 8
+        },
+        "Abbau_Spitzhacke": {
+          "frames": 22,
+          "minimumForearmTorsoClearanceScore": 1.8570528107401838,
+          "minimumForearmTorsoClearanceFrame": 7,
+          "minimumHandFrontMeters": 0.25078530609607697,
+          "minimumHandFrontFrame": 7
+        },
+        "Abbau_Sense": {
+          "frames": 30,
+          "minimumForearmTorsoClearanceScore": 1.6249338585261808,
+          "minimumForearmTorsoClearanceFrame": 6,
+          "minimumHandFrontMeters": 0.2415136620402336,
+          "minimumHandFrontFrame": 11
+        },
+        "Angriff_Hammer": {
+          "frames": 24,
+          "minimumForearmTorsoClearanceScore": 1.624167930705332,
+          "minimumForearmTorsoClearanceFrame": 2,
+          "minimumHandFrontMeters": 0.288796991109848,
+          "minimumHandFrontFrame": 3
+        }
+      },
+      "body": {
+        "LOD0": {
+          "triangles": 3768,
+          "primitives": 3,
+          "materials": [
+            "MP_Wanderer_MidBody_Skin",
+            "MP_Wanderer_MidBody_Trousers",
+            "MP_Wanderer_MidBody_BootLeather"
+          ]
+        },
+        "LOD1": {
+          "triangles": 3768,
+          "primitives": 3,
+          "materials": [
+            "MP_Wanderer_MidBody_Skin",
+            "MP_Wanderer_MidBody_Trousers",
+            "MP_Wanderer_MidBody_BootLeather"
+          ]
+        },
+        "LOD2": {
+          "triangles": 628,
+          "primitives": 3,
+          "materials": [
+            "MP_Wanderer_MidBody_Skin",
+            "MP_Wanderer_MidBody_Trousers",
+            "MP_Wanderer_MidBody_BootLeather"
+          ]
+        }
+      },
+      "primarySockets": {
+        "staff": "handL",
+        "dagL": "handL",
+        "dagR": "handR",
+        "maximumDrift": 0
+      }
+    }
+  },
+  "viewer": {
+    "LOD0": {
+      "sha256": "2357d0df73268c6d2bf7284920494c5dfa4e80d3c054359298cd7c7d7720d3e9",
+      "runtimeSha256": "2357d0df73268c6d2bf7284920494c5dfa4e80d3c054359298cd7c7d7720d3e9",
+      "exactBytes": true,
+      "body": {
+        "LOD0": {
+          "triangles": 3768,
+          "primitives": 3,
+          "materials": [
+            "MP_Wanderer_MidBody_Skin",
+            "MP_Wanderer_MidBody_Trousers",
+            "MP_Wanderer_MidBody_BootLeather"
+          ]
+        }
+      }
+    },
+    "LOD1": {
+      "sha256": "4419c1c8066b457ecfc6f8d3c373ae8296c1a8dc49dfad3ca15fdbef06783fd5",
+      "runtimeSha256": "4419c1c8066b457ecfc6f8d3c373ae8296c1a8dc49dfad3ca15fdbef06783fd5",
+      "exactBytes": true,
+      "body": {
+        "LOD1": {
+          "triangles": 3768,
+          "primitives": 3,
+          "materials": [
+            "MP_Wanderer_MidBody_Skin",
+            "MP_Wanderer_MidBody_Trousers",
+            "MP_Wanderer_MidBody_BootLeather"
+          ]
+        }
+      }
+    },
+    "LOD2": {
+      "sha256": "28695e8105fe1a6d1a612e98548187664851fd6a36c1c7abcd51bada47f22d65",
+      "runtimeSha256": "28695e8105fe1a6d1a612e98548187664851fd6a36c1c7abcd51bada47f22d65",
+      "exactBytes": true,
+      "body": {
+        "LOD2": {
+          "triangles": 628,
+          "primitives": 3,
+          "materials": [
+            "MP_Wanderer_MidBody_Skin",
+            "MP_Wanderer_MidBody_Trousers",
+            "MP_Wanderer_MidBody_BootLeather"
+          ]
+        }
+      }
+    }
+  },
+  "lowPoly": {
+    "path": "Assets/_Game/Art/Actors/Player/Wanderer3D/Wanderer.glb",
+    "expectedSha256": "8b5c5fb25c28d8e68f380952d21a17a6e47d29f31395731fe5e0f4661a90c685",
+    "sha256": "8b5c5fb25c28d8e68f380952d21a17a6e47d29f31395731fe5e0f4661a90c685",
+    "unchanged": true
+  },
+  "errors": []
+}

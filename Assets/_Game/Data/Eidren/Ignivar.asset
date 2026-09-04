@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b56ac5bd67a504a17cb56b0e0bf233ee, type: 3}
+  m_Name: Ignivar
+  m_EditorClassIdentifier: 
+  id: ignivar
+  DisplayName: Ignivar
+  UiAccent: {r: 0.96, g: 0.28, b: 0.06, a: 1}
+  Role: 1
+  PassiveStaggerMultiplier: 1
+  PassiveBackDamageMultiplier: 1
+  PassiveBurnFraction: 0.2
+  PassiveBurnSeconds: 4
+  Skill1: {fileID: 11400000, guid: e25a503551c7d0744ac827ef60fa4a42, type: 2}
+  Skill2: {fileID: 11400000, guid: 0eb03ef8d28e7e341804edcbe15b723d, type: 2}
+  productionRole: 0
+  capture:
+    requirementAtFullHealth: 170
+    minimumRequirement: 70
+    fleeHealthFraction: 0.15

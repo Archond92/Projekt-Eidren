@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47891e490fa3d159c36fbb1eac32db15, type: 3}
+  m_Name: Recipe_Plank
+  m_EditorClassIdentifier: 
+  id: craft_plank
+  displayName: Brett
+  description: Schneidet Weichholz zu einem Brett.
+  resultType: 0
+  resultItemId: plank
+  resultAmount: 1
+  ingredients:
+  - itemId: wood
+    amount: 2
+  requiredStation: 3
+  icon: {fileID: 21300000, guid: 0ce9be541b0949a4bae28b5ae2f51d17, type: 3}
+  sortOrder: 20
+  weaponUpgrade:
+    weaponId: 
+    targetLevel: 0
+    healthDamageMultiplier: 0
+    staggerDamageMultiplier: 0

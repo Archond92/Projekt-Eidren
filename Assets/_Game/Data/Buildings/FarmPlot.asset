@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e968b9e22846478c50e7d10cfd1fca0d, type: 3}
+  m_Name: FarmPlot
+  m_EditorClassIdentifier: 
+  id: building.farm_plot
+  displayName: Acker
+  icon: {fileID: 21300000, guid: d97e8e7d1e270bd4a9287748df920713, type: 3}
+  tier: 0
+  cost:
+  - itemId: wood
+    amount: 6
+  - itemId: plant_fiber
+    amount: 4
+  occupiesBuildField: 1
+  placementKind: 0
+  groundRule: 2
+  blocksNavigation: 1
+  category: 3
+  levelFootprints:
+  - width: 2
+    depth: 2
+  levelPrefabs:
+  - {fileID: 1709254077376921, guid: f2a380512a473b643a3fe840862b44f3, type: 3}
+  craftingStation: 0
+  baseRate: 1
+  eidraFactor: 1
+  maximumCount: 2

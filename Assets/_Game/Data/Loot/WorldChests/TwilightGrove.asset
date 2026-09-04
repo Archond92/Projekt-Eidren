@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560bcdb3897d6b47288827a8c42de76c, type: 3}
+  m_Name: TwilightGrove
+  m_EditorClassIdentifier: 
+  id: world_chests.twilight_grove
+  tierTwoZone: 1
+  regionalRawItemIds:
+  - hardwood
+  - swamp_hemp
+  - granite
+  - iron_ore
+  regionalRefinementItemIds:
+  - hardwood_plank
+  - robust_cloth
+  - cut_granite
+  - iron_bar
+  smallConsumableItemIds:
+  - berry
+  usefulConsumableItemIds:
+  - healing_potion
+  - buff_food
+  valuableConsumableItemIds:
+  - healing_potion
+  - buff_food
+  regularEquipmentItemIds:
+  - hammer
+  - daggers
+  - armor_wanderer_hood
+  - armor_wanderer_coat
+  - armor_wanderer_bracers
+  - armor_wanderer_legs
+  - axe
+  - pickaxe
+  - scythe
+  - copper_hammer
+  - copper_daggers
+  - copper_spear
+  - armor_copper_helmet
+  - armor_copper_chest
+  - armor_copper_gloves
+  - armor_copper_legs
+  - copper_axe
+  - copper_pickaxe
+  - copper_scythe
+  - iron_hammer
+  - iron_daggers
+  - iron_spear
+  - armor_iron_helmet
+  - armor_iron_chest
+  - armor_iron_gloves
+  - armor_iron_legs
+  - iron_axe
+  - iron_pickaxe
+  - iron_scythe
+  namedWeaponItemIds:
+  - sealbreaker
+  - ash_fangs
+  - ember_thorn
+  commonPrefab: {fileID: 1709254077376921, guid: 8c3645e8fc018da459bc7e43090224f0, type: 3}
+  guardedPrefab: {fileID: 1709254077376921, guid: f0cedfc8322e79345b147d34813c50d1, type: 3}
+  hiddenPrefab: {fileID: 1709254077376921, guid: 7da2b6a7f5ce60f43942187feb66df5a, type: 3}
+  guardedElitePrefab: {fileID: 1709254077376921, guid: 7895dea22fc70bc4194d93f9881cf7b3, type: 3}
+  guardedCompanionPrefabs:
+  - {fileID: 1709254077376921, guid: 60c418f9d6491814fad6e3a97e7970d2, type: 3}
+  - {fileID: 1709254077376921, guid: d19d8f6ced8032a4396758dd936618db, type: 3}

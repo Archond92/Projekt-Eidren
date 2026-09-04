@@ -1,0 +1,453 @@
+{
+  "schema": 1,
+  "assets": {
+    "Terrock": {
+      "lodRoundtrip": {
+        "LOD0": {
+          "triangles": 30872,
+          "materials": [
+            "MP_Terrock_EmeraldMoss",
+            "MP_Terrock_Gold",
+            "MP_Terrock_Stone"
+          ],
+          "bones": 22,
+          "clips": [
+            "Erscheinen",
+            "Felsbrecher",
+            "Flucht",
+            "Gehen",
+            "Ruhe",
+            "Steinhaut",
+            "Taumeln",
+            "Telegraph",
+            "Treffer",
+            "Wildangriff"
+          ],
+          "boundsMin": [
+            -0.43835,
+            -0.78167,
+            0.00559
+          ],
+          "boundsMax": [
+            0.43899,
+            0.59638,
+            1.06831
+          ],
+          "normalizedWeights": true,
+          "unweightedVertices": 0,
+          "strippedHelpers": [
+            "Icosphere"
+          ]
+        },
+        "LOD1": {
+          "triangles": 17288,
+          "materials": [
+            "MP_Terrock_EmeraldMoss",
+            "MP_Terrock_Gold",
+            "MP_Terrock_Stone"
+          ],
+          "bones": 22,
+          "clips": [
+            "Erscheinen",
+            "Felsbrecher",
+            "Flucht",
+            "Gehen",
+            "Ruhe",
+            "Steinhaut",
+            "Taumeln",
+            "Telegraph",
+            "Treffer",
+            "Wildangriff"
+          ],
+          "boundsMin": [
+            -0.43888,
+            -0.78208,
+            0.00696
+          ],
+          "boundsMax": [
+            0.43902,
+            0.59638,
+            1.06831
+          ],
+          "normalizedWeights": true,
+          "unweightedVertices": 0,
+          "strippedHelpers": [
+            "Icosphere"
+          ]
+        },
+        "LOD2": {
+          "triangles": 7409,
+          "materials": [
+            "MP_Terrock_EmeraldMoss",
+            "MP_Terrock_Gold",
+            "MP_Terrock_Stone"
+          ],
+          "bones": 22,
+          "clips": [
+            "Erscheinen",
+            "Felsbrecher",
+            "Flucht",
+            "Gehen",
+            "Ruhe",
+            "Steinhaut",
+            "Taumeln",
+            "Telegraph",
+            "Treffer",
+            "Wildangriff"
+          ],
+          "boundsMin": [
+            -0.44117,
+            -0.78086,
+            0.00733
+          ],
+          "boundsMax": [
+            0.4402,
+            0.59638,
+            1.06735
+          ],
+          "normalizedWeights": true,
+          "unweightedVertices": 0,
+          "strippedHelpers": [
+            "Icosphere"
+          ]
+        }
+      },
+      "errors": [],
+      "pass": true
+    },
+    "Noctarion": {
+      "lodRoundtrip": {
+        "LOD0": {
+          "triangles": 24150,
+          "materials": [
+            "MP_Noctarion_RiftCrystal",
+            "MP_Noctarion_ShadowHide",
+            "MP_Noctarion_SteelEye"
+          ],
+          "bones": 22,
+          "clips": [
+            "Erscheinen",
+            "Flucht",
+            "Gehen",
+            "Ruhe",
+            "Schattenmal",
+            "Schattenschritt",
+            "Taumeln",
+            "Telegraph",
+            "Treffer",
+            "Wildangriff"
+          ],
+          "boundsMin": [
+            -0.26506,
+            -0.8217,
+            0.00653
+          ],
+          "boundsMax": [
+            0.26506,
+            1.09253,
+            1.14053
+          ],
+          "normalizedWeights": true,
+          "unweightedVertices": 0,
+          "strippedHelpers": [
+            "Icosphere"
+          ]
+        },
+        "LOD1": {
+          "triangles": 13524,
+          "materials": [
+            "MP_Noctarion_RiftCrystal",
+            "MP_Noctarion_ShadowHide",
+            "MP_Noctarion_SteelEye"
+          ],
+          "bones": 22,
+          "clips": [
+            "Erscheinen",
+            "Flucht",
+            "Gehen",
+            "Ruhe",
+            "Schattenmal",
+            "Schattenschritt",
+            "Taumeln",
+            "Telegraph",
+            "Treffer",
+            "Wildangriff"
+          ],
+          "boundsMin": [
+            -0.26506,
+            -0.8217,
+            0.00789
+          ],
+          "boundsMax": [
+            0.26506,
+            1.09253,
+            1.14068
+          ],
+          "normalizedWeights": true,
+          "unweightedVertices": 0,
+          "strippedHelpers": [
+            "Icosphere"
+          ]
+        },
+        "LOD2": {
+          "triangles": 5778,
+          "materials": [
+            "MP_Noctarion_RiftCrystal",
+            "MP_Noctarion_ShadowHide",
+            "MP_Noctarion_SteelEye"
+          ],
+          "bones": 22,
+          "clips": [
+            "Erscheinen",
+            "Flucht",
+            "Gehen",
+            "Ruhe",
+            "Schattenmal",
+            "Schattenschritt",
+            "Taumeln",
+            "Telegraph",
+            "Treffer",
+            "Wildangriff"
+          ],
+          "boundsMin": [
+            -0.26506,
+            -0.8217,
+            0.00789
+          ],
+          "boundsMax": [
+            0.26506,
+            1.09253,
+            1.14052
+          ],
+          "normalizedWeights": true,
+          "unweightedVertices": 0,
+          "strippedHelpers": [
+            "Icosphere"
+          ]
+        }
+      },
+      "errors": [],
+      "pass": true
+    },
+    "Garon": {
+      "lodRoundtrip": {
+        "LOD0": {
+          "triangles": 53660,
+          "materials": [
+            "MP_Garon_Gold",
+            "MP_Garon_RiftRune",
+            "MP_Garon_Stone"
+          ],
+          "bones": 22,
+          "clips": [
+            "Ansturm",
+            "Frontschlag",
+            "Gehen",
+            "Rueckkehr",
+            "Ruhe",
+            "Taumeln",
+            "Tod",
+            "Treffer",
+            "Wirbel"
+          ],
+          "boundsMin": [
+            -2.13976,
+            -4.0772,
+            -0.03812
+          ],
+          "boundsMax": [
+            2.13218,
+            3.08282,
+            4.65137
+          ],
+          "normalizedWeights": true,
+          "unweightedVertices": 0,
+          "strippedHelpers": [
+            "Icosphere"
+          ]
+        },
+        "LOD1": {
+          "triangles": 30048,
+          "materials": [
+            "MP_Garon_Gold",
+            "MP_Garon_RiftRune",
+            "MP_Garon_Stone"
+          ],
+          "bones": 22,
+          "clips": [
+            "Ansturm",
+            "Frontschlag",
+            "Gehen",
+            "Rueckkehr",
+            "Ruhe",
+            "Taumeln",
+            "Tod",
+            "Treffer",
+            "Wirbel"
+          ],
+          "boundsMin": [
+            -2.14137,
+            -4.0772,
+            -0.03185
+          ],
+          "boundsMax": [
+            2.13579,
+            3.08282,
+            4.65076
+          ],
+          "normalizedWeights": true,
+          "unweightedVertices": 0,
+          "strippedHelpers": [
+            "Icosphere"
+          ]
+        },
+        "LOD2": {
+          "triangles": 12878,
+          "materials": [
+            "MP_Garon_Gold",
+            "MP_Garon_RiftRune",
+            "MP_Garon_Stone"
+          ],
+          "bones": 22,
+          "clips": [
+            "Ansturm",
+            "Frontschlag",
+            "Gehen",
+            "Rueckkehr",
+            "Ruhe",
+            "Taumeln",
+            "Tod",
+            "Treffer",
+            "Wirbel"
+          ],
+          "boundsMin": [
+            -2.13911,
+            -4.0772,
+            -0.02992
+          ],
+          "boundsMax": [
+            2.13579,
+            3.08282,
+            4.64335
+          ],
+          "normalizedWeights": true,
+          "unweightedVertices": 0,
+          "strippedHelpers": [
+            "Icosphere"
+          ]
+        }
+      },
+      "errors": [],
+      "pass": true
+    },
+    "CoreGuardian": {
+      "lodRoundtrip": {
+        "LOD0": {
+          "triangles": 54360,
+          "materials": [
+            "MP_CoreGuardian_BlackIron",
+            "MP_CoreGuardian_Copper",
+            "MP_CoreGuardian_Core"
+          ],
+          "bones": 17,
+          "clips": [
+            "Angriff",
+            "Erscheinen",
+            "Gehen",
+            "Ruhe",
+            "Taumeln",
+            "Telegraph",
+            "Tod",
+            "Treffer"
+          ],
+          "boundsMin": [
+            -1.57118,
+            -1.0201,
+            0.01091
+          ],
+          "boundsMax": [
+            1.5733,
+            0.72583,
+            4.72998
+          ],
+          "normalizedWeights": true,
+          "unweightedVertices": 0,
+          "strippedHelpers": [
+            "Icosphere"
+          ]
+        },
+        "LOD1": {
+          "triangles": 30440,
+          "materials": [
+            "MP_CoreGuardian_BlackIron",
+            "MP_CoreGuardian_Copper",
+            "MP_CoreGuardian_Core"
+          ],
+          "bones": 17,
+          "clips": [
+            "Angriff",
+            "Erscheinen",
+            "Gehen",
+            "Ruhe",
+            "Taumeln",
+            "Telegraph",
+            "Tod",
+            "Treffer"
+          ],
+          "boundsMin": [
+            -1.56905,
+            -1.01959,
+            0.01091
+          ],
+          "boundsMax": [
+            1.57141,
+            0.72583,
+            4.72998
+          ],
+          "normalizedWeights": true,
+          "unweightedVertices": 0,
+          "strippedHelpers": [
+            "Icosphere"
+          ]
+        },
+        "LOD2": {
+          "triangles": 13046,
+          "materials": [
+            "MP_CoreGuardian_BlackIron",
+            "MP_CoreGuardian_Copper",
+            "MP_CoreGuardian_Core"
+          ],
+          "bones": 17,
+          "clips": [
+            "Angriff",
+            "Erscheinen",
+            "Gehen",
+            "Ruhe",
+            "Taumeln",
+            "Telegraph",
+            "Tod",
+            "Treffer"
+          ],
+          "boundsMin": [
+            -1.56677,
+            -1.01571,
+            0.01762
+          ],
+          "boundsMax": [
+            1.57141,
+            0.72148,
+            4.72989
+          ],
+          "normalizedWeights": true,
+          "unweightedVertices": 0,
+          "strippedHelpers": [
+            "Icosphere"
+          ]
+        }
+      },
+      "errors": [],
+      "pass": true
+    }
+  },
+  "pass": true
+}

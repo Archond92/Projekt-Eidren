@@ -1,0 +1,10 @@
+{
+    "name":  "Eidren.Gameplay",
+    "references":  [
+                       "Eidren.Core",
+                       "Eidren.Data",
+                       "Eidren.Presentation",
+                       "Unity.InputSystem"
+                   ],
+    "allowUnsafeCode":  true
+}

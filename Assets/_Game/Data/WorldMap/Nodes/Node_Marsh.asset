@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7e0c8447c7e1baec14a46328c95fcc8, type: 3}
+  m_Name: Node_Marsh
+  m_EditorClassIdentifier: 
+  id: zone_marsh
+  displayName: Nebelmoor
+  description: "Kaltes Wasser, violette Torfinseln und wandernder Nebel verbergen
+    seltene Gew\xE4chse."
+  sceneKey: Zone_Marsh
+  mapPosition: {x: 0.5, y: 0.21}
+  icon: {fileID: 21300000, guid: ad89a33f895b13e43931f2df83377685, type: 3}
+  regionType: 3
+  dangerLevel: 3
+  recommendedProgress: "Fortschritt 2\u20134"
+  initiallyAvailable: 1
+  hasBoss: 0
+  resources:
+  - StableId: fiber
+    DisplayName: Pflanzenfaser
+    Icon: {fileID: 21300000, guid: 093d6f1376cab90479a802798a86e5d2, type: 3}
+    IsFuturePlaceholder: 0
+  - StableId: rare_plants
+    DisplayName: Seltene Pflanzen
+    Icon: {fileID: 21300000, guid: 093d6f1376cab90479a802798a86e5d2, type: 3}
+    IsFuturePlaceholder: 1
+  possibleEnemies:
+  - "Moorschleicher \xB7 sp\xE4ter"
+  specialPlaces:
+  - Nebelsenke
+  - Versunkene Stege
+  directNeighborIds:
+  - home_base

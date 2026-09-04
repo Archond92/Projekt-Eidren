@@ -1,0 +1,36 @@
+{
+  "asset": "Wanderer Copper Reference Upgrade High Poly",
+  "pass": true,
+  "triangles": 73316,
+  "meshObjects": 312,
+  "materials": [
+    "MP_WandererRef_Beard",
+    "MP_WandererRef_Copper",
+    "MP_WandererRef_CopperEdge",
+    "MP_WandererRef_CopperRecess",
+    "MP_WandererRef_EyeWhite",
+    "MP_WandererRef_Iris",
+    "MP_WandererRef_Leather",
+    "MP_WandererRef_NavyGambeson",
+    "MP_WandererRef_NavyQuiltPadding",
+    "MP_WandererRef_NavyStitch",
+    "MP_WandererRef_PickaxeEdge",
+    "MP_WandererRef_PickaxeWood",
+    "MP_WandererRef_Pupil",
+    "MP_WandererRef_Skin",
+    "MP_WandererRef_SkinLight"
+  ],
+  "boundsMin": [
+    -0.517,
+    -0.4245,
+    0.029
+  ],
+  "boundsMax": [
+    1.04305,
+    0.38258,
+    2.15818
+  ],
+  "height": 2.12918,
+  "rigged": false,
+  "productionIntegrated": false
+}

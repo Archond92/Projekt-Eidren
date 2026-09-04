@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47891e490fa3d159c36fbb1eac32db15, type: 3}
+  m_Name: Recipe_Battery
+  m_EditorClassIdentifier: 
+  id: craft_battery
+  displayName: Batterie
+  description: "Kupferspule als Ladung f\xFCr das Fangger\xE4t."
+  resultType: 0
+  resultItemId: battery
+  resultAmount: 1
+  ingredients:
+  - itemId: rope
+    amount: 2
+  - itemId: copper_bar
+    amount: 1
+  requiredStation: 1
+  icon: {fileID: 21300000, guid: 7a61947e1b284c54cac12786429afecf, type: 3}
+  sortOrder: 31
+  weaponUpgrade:
+    weaponId: 
+    targetLevel: 0
+    healthDamageMultiplier: 0
+    staggerDamageMultiplier: 0

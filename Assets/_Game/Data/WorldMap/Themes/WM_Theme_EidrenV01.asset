@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27cbe1c290cf76de90f312bab5db4254, type: 3}
+  m_Name: WM_Theme_EidrenV01
+  m_EditorClassIdentifier: 
+  backgroundDeep: {r: 0.02745098, g: 0.09803922, b: 0.12156863, a: 1}
+  backgroundRaised: {r: 0.0627451, g: 0.16470589, b: 0.1882353, a: 0.96862745}
+  panelSurface: {r: 0.0627451, g: 0.16862746, b: 0.19215687, a: 0.96862745}
+  frameNeutral: {r: 0.60784316, g: 0.5372549, b: 0.40784314, a: 1}
+  textPrimary: {r: 0.9490196, g: 0.93333334, b: 0.8862745, a: 1}
+  textSecondary: {r: 0.6862745, g: 0.75686276, b: 0.7411765, a: 1}
+  selection: {r: 0.8392157, g: 0.6627451, b: 0.37254903, a: 1}
+  available: {r: 0.44313726, g: 0.6117647, b: 0.50980395, a: 1}
+  dangerous: {r: 0.83137256, g: 0.47843137, b: 0.3019608, a: 1}
+  locked: {r: 0.3254902, g: 0.3764706, b: 0.4117647, a: 1}
+  eventColor: {r: 0.4, g: 0.7882353, b: 0.7764706, a: 1}
+  boss: {r: 0.7882353, g: 0.36862746, b: 0.30588236, a: 1}
+  energyGlow: {r: 0.44705883, g: 0.8745098, b: 0.8235294, a: 1}
+  homelandAccent: {r: 0.7882353, g: 0.654902, b: 0.4, a: 1}
+  forestAccent: {r: 0.4, g: 0.5568628, b: 0.40784314, a: 1}
+  quarryAccent: {r: 0.50980395, g: 0.5764706, b: 0.6392157, a: 1}
+  marshAccent: {r: 0.3372549, g: 0.49803922, b: 0.49803922, a: 1}
+  emberAccent: {r: 0.65882355, g: 0.36078432, b: 0.2627451, a: 1}
+  mapTitle:
+    font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    size: 32
+    style: 1
+  regionName:
+    font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    size: 20
+    style: 1
+  panelHeading:
+    font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    size: 27
+    style: 1
+  bodyText:
+    font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    size: 16
+    style: 0
+  smallMetaText:
+    font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    size: 13
+    style: 1
+  timerText:
+    font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    size: 17
+    style: 1
+  buttonText:
+    font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    size: 17
+    style: 1
+  dangerLabel:
+    font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    size: 13
+    style: 1
+  selectionDuration: 0.12
+  panelDuration: 0.24
+  eventPulseDuration: 1.8
+  travelConfirmationDuration: 0.18
+  transitionFadeDuration: 0.28
+  selectedScale: 1.04

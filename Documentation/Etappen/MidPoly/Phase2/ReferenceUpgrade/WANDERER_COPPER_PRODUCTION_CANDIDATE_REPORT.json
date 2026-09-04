@@ -1,0 +1,272 @@
+{
+  "asset": "Wanderer Copper Reference Production Candidate",
+  "pass": true,
+  "lodRatios": {
+    "LOD1ToLOD0": 0.5722,
+    "LOD2ToLOD0": 0.2257
+  },
+  "lodRatioPass": true,
+  "files": [
+    {
+      "file": "Assets/_Game/Art/MidPoly/GoldenMasters/Wanderer/Candidate/ReferenceUpgrade/Runtime/CHR_Wanderer_CopperReference_Mid_Production.glb",
+      "pass": true,
+      "errors": [],
+      "bones": 20,
+      "clips": [
+        "Abbau_Axt",
+        "Abbau_Sense",
+        "Abbau_Spitzhacke",
+        "Angriff_Dolche",
+        "Angriff_Hammer",
+        "Angriff_Speer",
+        "Gehen_Axt",
+        "Gehen_Dolche",
+        "Gehen_Hammer",
+        "Gehen_Sense",
+        "Gehen_Speer",
+        "Gehen_Spitzhacke",
+        "Laufen_Axt",
+        "Laufen_Dolche",
+        "Laufen_Hammer",
+        "Laufen_Sense",
+        "Laufen_Speer",
+        "Laufen_Spitzhacke",
+        "Oeffnen",
+        "Ruhe_Axt",
+        "Ruhe_Dolche",
+        "Ruhe_Hammer",
+        "Ruhe_Sense",
+        "Ruhe_Speer",
+        "Ruhe_Spitzhacke"
+      ],
+      "meshes": 39,
+      "materials": [
+        "MP_WandererCopperRef_Cloth",
+        "MP_WandererCopperRef_CopperMetal",
+        "MP_WandererCopperRef_LeatherWood",
+        "MP_WandererCopperRef_OrganicFace"
+      ],
+      "triangles": {
+        "LOD0": 64062,
+        "LOD1": 36656,
+        "LOD2": 14459
+      },
+      "missingWeights": 0,
+      "invalidWeights": 0,
+      "bounds": {
+        "min": [
+          -0.53233,
+          -0.4491,
+          -0.50173
+        ],
+        "max": [
+          0.65582,
+          0.40372,
+          2.15674
+        ],
+        "size": [
+          1.18815,
+          0.85282,
+          2.65847
+        ]
+      },
+      "bytes": 7311192
+    },
+    {
+      "file": "Assets/_Game/Art/MidPoly/GoldenMasters/Wanderer/Candidate/ReferenceUpgrade/Runtime/CHR_Wanderer_CopperReference_Mid_LOD0.glb",
+      "pass": true,
+      "errors": [],
+      "bones": 20,
+      "clips": [
+        "Abbau_Axt",
+        "Abbau_Sense",
+        "Abbau_Spitzhacke",
+        "Angriff_Dolche",
+        "Angriff_Hammer",
+        "Angriff_Speer",
+        "Gehen_Axt",
+        "Gehen_Dolche",
+        "Gehen_Hammer",
+        "Gehen_Sense",
+        "Gehen_Speer",
+        "Gehen_Spitzhacke",
+        "Laufen_Axt",
+        "Laufen_Dolche",
+        "Laufen_Hammer",
+        "Laufen_Sense",
+        "Laufen_Speer",
+        "Laufen_Spitzhacke",
+        "Oeffnen",
+        "Ruhe_Axt",
+        "Ruhe_Dolche",
+        "Ruhe_Hammer",
+        "Ruhe_Sense",
+        "Ruhe_Speer",
+        "Ruhe_Spitzhacke"
+      ],
+      "meshes": 13,
+      "materials": [
+        "MP_WandererCopperRef_Cloth",
+        "MP_WandererCopperRef_CopperMetal",
+        "MP_WandererCopperRef_LeatherWood",
+        "MP_WandererCopperRef_OrganicFace"
+      ],
+      "triangles": {
+        "LOD0": 64062,
+        "LOD1": 0,
+        "LOD2": 0
+      },
+      "missingWeights": 0,
+      "invalidWeights": 0,
+      "bounds": {
+        "min": [
+          -0.5206,
+          -0.4491,
+          -0.50169
+        ],
+        "max": [
+          0.65582,
+          0.40372,
+          2.15671
+        ],
+        "size": [
+          1.17642,
+          0.85282,
+          2.6584
+        ]
+      },
+      "bytes": 4078812
+    },
+    {
+      "file": "Assets/_Game/Art/MidPoly/GoldenMasters/Wanderer/Candidate/ReferenceUpgrade/Runtime/CHR_Wanderer_CopperReference_Mid_LOD1.glb",
+      "pass": true,
+      "errors": [],
+      "bones": 20,
+      "clips": [
+        "Abbau_Axt",
+        "Abbau_Sense",
+        "Abbau_Spitzhacke",
+        "Angriff_Dolche",
+        "Angriff_Hammer",
+        "Angriff_Speer",
+        "Gehen_Axt",
+        "Gehen_Dolche",
+        "Gehen_Hammer",
+        "Gehen_Sense",
+        "Gehen_Speer",
+        "Gehen_Spitzhacke",
+        "Laufen_Axt",
+        "Laufen_Dolche",
+        "Laufen_Hammer",
+        "Laufen_Sense",
+        "Laufen_Speer",
+        "Laufen_Spitzhacke",
+        "Oeffnen",
+        "Ruhe_Axt",
+        "Ruhe_Dolche",
+        "Ruhe_Hammer",
+        "Ruhe_Sense",
+        "Ruhe_Speer",
+        "Ruhe_Spitzhacke"
+      ],
+      "meshes": 13,
+      "materials": [
+        "MP_WandererCopperRef_Cloth",
+        "MP_WandererCopperRef_CopperMetal",
+        "MP_WandererCopperRef_LeatherWood",
+        "MP_WandererCopperRef_OrganicFace"
+      ],
+      "triangles": {
+        "LOD0": 0,
+        "LOD1": 36656,
+        "LOD2": 0
+      },
+      "missingWeights": 0,
+      "invalidWeights": 0,
+      "bounds": {
+        "min": [
+          -0.51964,
+          -0.4491,
+          -0.50169
+        ],
+        "max": [
+          0.65582,
+          0.4034,
+          2.15674
+        ],
+        "size": [
+          1.17546,
+          0.8525,
+          2.65843
+        ]
+      },
+      "bytes": 2635600
+    },
+    {
+      "file": "Assets/_Game/Art/MidPoly/GoldenMasters/Wanderer/Candidate/ReferenceUpgrade/Runtime/CHR_Wanderer_CopperReference_Mid_LOD2.glb",
+      "pass": true,
+      "errors": [],
+      "bones": 20,
+      "clips": [
+        "Abbau_Axt",
+        "Abbau_Sense",
+        "Abbau_Spitzhacke",
+        "Angriff_Dolche",
+        "Angriff_Hammer",
+        "Angriff_Speer",
+        "Gehen_Axt",
+        "Gehen_Dolche",
+        "Gehen_Hammer",
+        "Gehen_Sense",
+        "Gehen_Speer",
+        "Gehen_Spitzhacke",
+        "Laufen_Axt",
+        "Laufen_Dolche",
+        "Laufen_Hammer",
+        "Laufen_Sense",
+        "Laufen_Speer",
+        "Laufen_Spitzhacke",
+        "Oeffnen",
+        "Ruhe_Axt",
+        "Ruhe_Dolche",
+        "Ruhe_Hammer",
+        "Ruhe_Sense",
+        "Ruhe_Speer",
+        "Ruhe_Spitzhacke"
+      ],
+      "meshes": 13,
+      "materials": [
+        "MP_WandererCopperRef_Cloth",
+        "MP_WandererCopperRef_CopperMetal",
+        "MP_WandererCopperRef_LeatherWood",
+        "MP_WandererCopperRef_OrganicFace"
+      ],
+      "triangles": {
+        "LOD0": 0,
+        "LOD1": 0,
+        "LOD2": 14459
+      },
+      "missingWeights": 0,
+      "invalidWeights": 0,
+      "bounds": {
+        "min": [
+          -0.53233,
+          -0.44877,
+          -0.50173
+        ],
+        "max": [
+          0.65582,
+          0.40132,
+          2.15625
+        ],
+        "size": [
+          1.18815,
+          0.85009,
+          2.65798
+        ]
+      },
+      "bytes": 1260216
+    }
+  ],
+  "productionIntegrated": false
+}

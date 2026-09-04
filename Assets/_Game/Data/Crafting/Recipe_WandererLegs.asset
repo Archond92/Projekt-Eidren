@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47891e490fa3d159c36fbb1eac32db15, type: 3}
+  m_Name: Recipe_WandererLegs
+  m_EditorClassIdentifier: 
+  id: craft_wanderer_legs
+  displayName: Stoffschuhe
+  description: Fertigt leichte Schuhe aus Faser und Seil.
+  resultType: 0
+  resultItemId: armor_wanderer_legs
+  resultAmount: 1
+  ingredients:
+  - itemId: rope
+    amount: 3
+  - itemId: plant_fiber
+    amount: 2
+  requiredStation: 1
+  icon: {fileID: 21300000, guid: bb08935a206e94743b173c9d18893e01, type: 3}
+  sortOrder: 35
+  weaponUpgrade:
+    weaponId: 
+    targetLevel: 0
+    healthDamageMultiplier: 0
+    staggerDamageMultiplier: 0

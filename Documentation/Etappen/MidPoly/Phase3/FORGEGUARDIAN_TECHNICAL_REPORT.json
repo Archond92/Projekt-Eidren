@@ -1,0 +1,33 @@
+{
+    "generatedUtc": "2026-08-24T16:07:18Z",
+    "pass": true,
+    "prefabGuidBefore": "10f04432d55e7f244927f4ed06e922e2",
+    "prefabGuidAfter": "10f04432d55e7f244927f4ed06e922e2",
+    "enemyGuidBefore": "169a7ce4cc9d1294ca15af296e4a4ea3",
+    "enemyGuidAfter": "169a7ce4cc9d1294ca15af296e4a4ea3",
+    "lod0Triangles": 23264,
+    "lod1Triangles": 12562,
+    "lod2Triangles": 5112,
+    "materials": 3,
+    "bones": 17,
+    "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+    ],
+    "lodLevels": 3,
+    "rendererBoundsSize": {
+        "x": 2.1903109550476076,
+        "y": 2.5468952655792238,
+        "z": 1.0831533670425416
+    },
+    "colliderRadius": 0.5856000185012817,
+    "colliderHeight": 2.440000057220459,
+    "legacyFallbackPath": "Assets/_Game/Prefabs/Actors/3D/Fallback/ForgeGuardian_3D_Legacy.prefab",
+    "errors": []
+}

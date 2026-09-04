@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47891e490fa3d159c36fbb1eac32db15, type: 3}
+  m_Name: Recipe_IronHammer
+  m_EditorClassIdentifier: 
+  id: craft_iron_hammer
+  displayName: Eisenhammer
+  description: T2-Hammer mit Wucht-Signatur.
+  resultType: 0
+  resultItemId: iron_hammer
+  resultAmount: 1
+  ingredients:
+  - itemId: iron_bar
+    amount: 4
+  - itemId: hardwood_plank
+    amount: 2
+  - itemId: cut_granite
+    amount: 2
+  - itemId: rope
+    amount: 2
+  - itemId: smithing_fitting
+    amount: 2
+  requiredStation: 1
+  icon: {fileID: 21300000, guid: 5103d3172495507428c2aa1d0a0207d2, type: 3}
+  sortOrder: 80
+  weaponUpgrade:
+    weaponId: 
+    targetLevel: 0
+    healthDamageMultiplier: 0
+    staggerDamageMultiplier: 0

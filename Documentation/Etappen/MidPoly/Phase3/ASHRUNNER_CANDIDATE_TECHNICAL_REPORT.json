@@ -1,0 +1,106 @@
+{
+  "asset": "AshRunner",
+  "status": "visual-candidate",
+  "lodRoundtrip": {
+    "LOD0": {
+      "triangles": 24470,
+      "materials": [
+        "MP_AshRunner_AshArmor",
+        "MP_AshRunner_BoneClaw",
+        "MP_AshRunner_CopperFissure"
+      ],
+      "bones": 22,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -0.55426,
+        -1.23136,
+        0.01689
+      ],
+      "boundsMax": [
+        0.55305,
+        1.67232,
+        1.82354
+      ],
+      "height": 1.80664,
+      "normalizedWeights": true,
+      "errors": [],
+      "pass": true
+    },
+    "LOD1": {
+      "triangles": 13458,
+      "materials": [
+        "MP_AshRunner_AshArmor",
+        "MP_AshRunner_BoneClaw",
+        "MP_AshRunner_CopperFissure"
+      ],
+      "bones": 22,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -0.55556,
+        -1.23136,
+        0.01689
+      ],
+      "boundsMax": [
+        0.55305,
+        1.67219,
+        1.82346
+      ],
+      "height": 1.80657,
+      "normalizedWeights": true,
+      "errors": [],
+      "pass": true
+    },
+    "LOD2": {
+      "triangles": 5580,
+      "materials": [
+        "MP_AshRunner_AshArmor",
+        "MP_AshRunner_BoneClaw",
+        "MP_AshRunner_CopperFissure"
+      ],
+      "bones": 22,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -0.55718,
+        -1.23136,
+        0.01689
+      ],
+      "boundsMax": [
+        0.5465,
+        1.6731,
+        1.82103
+      ],
+      "height": 1.80414,
+      "normalizedWeights": true,
+      "errors": [],
+      "pass": true
+    }
+  },
+  "pass": true
+}

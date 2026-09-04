@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b20ec39f24b7df707f34ee788575dce, type: 3}
+  m_Name: AreaArt_Quarry
+  m_EditorClassIdentifier: 
+  id: area_art_quarry
+  baseGround: {fileID: 2800000, guid: 2c274951069a0904d8a373530d674de6, type: 3}
+  groundBlends:
+  - id: ground_quarry_blend_1
+    texture: {fileID: 2800000, guid: eb82bbdd1e2a15048b8578620b7d1704, type: 3}
+    coverage: 0.34
+  - id: ground_quarry_blend_2
+    texture: {fileID: 2800000, guid: 5299f490af8446c4f88ec3d4299cc5d9, type: 3}
+    coverage: 0.24
+  resourceVariants:
+  - resourceNodeId: resource.tree
+    activeVisualPrefab: {fileID: 1709254077376921, guid: 48082d65a309ca244ba98722a42e060c, type: 3}
+    exhaustedVisualPrefab: {fileID: 1709254077376921, guid: 7018e516c8394224b90c245da2f60b19, type: 3}
+    medium: 1
+    recognitionMarker: Axt mit ockerfarbenem Tuch am Stamm
+  - resourceNodeId: resource.stone_deposit
+    activeVisualPrefab: {fileID: 1709254077376921, guid: efa80614144cd2848b0593bae1a86de2, type: 3}
+    exhaustedVisualPrefab: {fileID: 1709254077376921, guid: 344302d89acfaa148816ae837761a6cc, type: 3}
+    medium: 1
+    recognitionMarker: Gebietseigene Form auf der Interaktionssilhouette
+  decorations:
+  - id: decoration_quarry_1
+    prefab: {fileID: 1709254077376921, guid: 7a05b52bf96b4cf46a032fc54d3ecac5, type: 3}
+    density: 0
+  - id: decoration_quarry_2
+    prefab: {fileID: 1709254077376921, guid: e807eb3c56600d44f8f2698a7b860361, type: 3}
+    density: 0
+  - id: decoration_quarry_3
+    prefab: {fileID: 1709254077376921, guid: 048d2c2f12ce3a74dbddce9d0b2ce8a9, type: 3}
+    density: 0.5
+  - id: decoration_quarry_4
+    prefab: {fileID: 1709254077376921, guid: 10755a6d5c02ad149bbc34d079d188f0, type: 3}
+    density: 0
+  - id: decoration_quarry_5
+    prefab: {fileID: 1709254077376921, guid: 110fdd08b47f8214b89c865c4ed10e83, type: 3}
+    density: 0
+  - id: decoration_quarry_6
+    prefab: {fileID: 1709254077376921, guid: 6c0e84875abd15a479854b4261f6c371, type: 3}
+    density: 0.4
+  - id: decoration_quarry_7
+    prefab: {fileID: 1709254077376921, guid: 0776cdffc03491c4eacacb09f19ee709, type: 3}
+    density: 1.6
+  - id: decoration_quarry_8
+    prefab: {fileID: 1709254077376921, guid: 720df75ab38b28348b7b58887124f1e4, type: 3}
+    density: 0
+  volumeProfile: {fileID: 11400000, guid: d7b57abb9fb64bc4bbfb9c5882efeb60, type: 2}
+  backgroundColor: {r: 0.2, g: 0.19, b: 0.17, a: 1}
+  lightColor: {r: 0.92, g: 0.82, b: 0.65, a: 1}

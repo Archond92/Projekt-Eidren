@@ -1,0 +1,205 @@
+{
+    "generatedUtc": "2026-08-24T19:44:38Z",
+    "pass": true,
+    "stations": [
+        {
+            "name": "Smelter",
+            "prefabPath": "Assets/_Game/Prefabs/Buildings/Level01/BLD_Smelter_L01.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Buildings/Fallback/BLD_Smelter_L01_Legacy.prefab",
+            "guidBefore": "78b57420ade324645b8ba72ddd30e9c8",
+            "guidAfter": "78b57420ade324645b8ba72ddd30e9c8",
+            "lod0Triangles": 4704,
+            "lod1Triangles": 1984,
+            "lod2Triangles": 1492,
+            "lodLevels": 3,
+            "materials": 6,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.0,
+                "y": 2.0,
+                "z": 1.0
+            },
+            "interactionPreserved": true,
+            "farmStatesWired": true,
+            "semanticAnchors": [
+                "FacetedKilnBody",
+                "FireMouthDark",
+                "LeatherBellows",
+                "BellowsNozzle",
+                "Crucible",
+                "CopperIngot",
+                "WorkSide",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "Sawmill",
+            "prefabPath": "Assets/_Game/Prefabs/Buildings/Level01/BLD_Sawmill_L01.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Buildings/Fallback/BLD_Sawmill_L01_Legacy.prefab",
+            "guidBefore": "4bb27fd0bd78fc146b07013df30a0a12",
+            "guidAfter": "4bb27fd0bd78fc146b07013df30a0a12",
+            "lod0Triangles": 3380,
+            "lod1Triangles": 1544,
+            "lod2Triangles": 1438,
+            "lodLevels": 3,
+            "materials": 2,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 1.100000023841858,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.0,
+                "y": 2.200000047683716,
+                "z": 1.0
+            },
+            "interactionPreserved": true,
+            "farmStatesWired": true,
+            "semanticAnchors": [
+                "Blade",
+                "TimberLog",
+                "SlidingGuide",
+                "CrankHandle",
+                "OverheadBeam",
+                "WorkSide",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "Stonecutter",
+            "prefabPath": "Assets/_Game/Prefabs/Buildings/Level01/BLD_Stonecutter_L01.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Buildings/Fallback/BLD_Stonecutter_L01_Legacy.prefab",
+            "guidBefore": "4c529c806cfe65243a315794b338feaa",
+            "guidAfter": "4c529c806cfe65243a315794b338feaa",
+            "lod0Triangles": 2912,
+            "lod1Triangles": 1152,
+            "lod2Triangles": 996,
+            "lodLevels": 3,
+            "materials": 3,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.699999988079071,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.0,
+                "y": 1.399999976158142,
+                "z": 1.0
+            },
+            "interactionPreserved": true,
+            "farmStatesWired": true,
+            "semanticAnchors": [
+                "HeavyCuttingBed",
+                "UncutStoneSlab",
+                "GrindingWheel",
+                "HandCrank",
+                "CutScoreA",
+                "WorkSide",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "Ropewalk",
+            "prefabPath": "Assets/_Game/Prefabs/Buildings/Level01/BLD_Ropewalk_L01.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Buildings/Fallback/BLD_Ropewalk_L01_Legacy.prefab",
+            "guidBefore": "9a073ed884e040f44a3c64e9d1194986",
+            "guidAfter": "9a073ed884e040f44a3c64e9d1194986",
+            "lod0Triangles": 5724,
+            "lod1Triangles": 2328,
+            "lod2Triangles": 2192,
+            "lodLevels": 3,
+            "materials": 3,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.800000011920929,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.0,
+                "y": 1.600000023841858,
+                "z": 1.0
+            },
+            "interactionPreserved": true,
+            "farmStatesWired": true,
+            "semanticAnchors": [
+                "TwistedStrand_0",
+                "TwistedStrand_1",
+                "TwistedStrand_2",
+                "DriveWheel",
+                "FinishedRopeCoil",
+                "WorkSide",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "CookingPot",
+            "prefabPath": "Assets/_Game/Prefabs/Buildings/Level01/BLD_CookingPot_L01.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Buildings/Fallback/BLD_CookingPot_L01_Legacy.prefab",
+            "guidBefore": "fb568eae807259340a1e73de8adf60e3",
+            "guidAfter": "fb568eae807259340a1e73de8adf60e3",
+            "lod0Triangles": 5436,
+            "lod1Triangles": 2396,
+            "lod2Triangles": 1452,
+            "lodLevels": 3,
+            "materials": 5,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "interactionPreserved": true,
+            "farmStatesWired": true,
+            "semanticAnchors": [
+                "CauldronBody",
+                "CauldronRim",
+                "Inhalt",
+                "Bein_0",
+                "Griff_0",
+                "Aufhaengeoese",
+                "WorkSide",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "FarmPlot",
+            "prefabPath": "Assets/_Game/Prefabs/Buildings/Level01/BLD_FarmPlot_L01.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Buildings/Fallback/BLD_FarmPlot_L01_Legacy.prefab",
+            "guidBefore": "f2a380512a473b643a3fe840862b44f3",
+            "guidAfter": "f2a380512a473b643a3fe840862b44f3",
+            "lod0Triangles": 1448,
+            "lod1Triangles": 752,
+            "lod2Triangles": 460,
+            "lodLevels": 3,
+            "materials": 3,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.07500000298023224,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 2.0,
+                "y": 0.15000000596046449,
+                "z": 2.0
+            },
+            "interactionPreserved": true,
+            "farmStatesWired": true,
+            "semanticAnchors": [
+                "RaisedFurrow_0",
+                "SeedMarker_0",
+                "HandRakeHead",
+                "WorkSide",
+                "InteractionPoint"
+            ]
+        }
+    ],
+    "errors": []
+}

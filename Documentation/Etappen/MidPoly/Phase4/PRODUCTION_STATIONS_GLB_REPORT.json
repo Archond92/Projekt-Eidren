@@ -1,0 +1,318 @@
+{
+  "schema": 1,
+  "generatedUtc": "2026-08-24T00:00:00Z",
+  "pass": true,
+  "assets": [
+    {
+      "name": "Smelter",
+      "lods": [
+        {
+          "lod": 0,
+          "triangles": 4704,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            2.0
+          ],
+          "materials": [
+            "MP_Production_Copper",
+            "MP_Production_Ember",
+            "MP_Production_Iron",
+            "MP_Production_Organic",
+            "MP_Production_Stone",
+            "MP_Production_Wood"
+          ]
+        },
+        {
+          "lod": 1,
+          "triangles": 1984,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            2.0
+          ],
+          "materials": [
+            "MP_Production_Copper",
+            "MP_Production_Ember",
+            "MP_Production_Iron",
+            "MP_Production_Organic",
+            "MP_Production_Stone",
+            "MP_Production_Wood"
+          ]
+        },
+        {
+          "lod": 2,
+          "triangles": 1492,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            2.0
+          ],
+          "materials": [
+            "MP_Production_Copper",
+            "MP_Production_Iron",
+            "MP_Production_Organic",
+            "MP_Production_Stone",
+            "MP_Production_Wood"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sawmill",
+      "lods": [
+        {
+          "lod": 0,
+          "triangles": 3380,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            2.2
+          ],
+          "materials": [
+            "MP_Production_Iron",
+            "MP_Production_Wood"
+          ]
+        },
+        {
+          "lod": 1,
+          "triangles": 1544,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            2.2
+          ],
+          "materials": [
+            "MP_Production_Iron",
+            "MP_Production_Wood"
+          ]
+        },
+        {
+          "lod": 2,
+          "triangles": 1438,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            2.2
+          ],
+          "materials": [
+            "MP_Production_Iron",
+            "MP_Production_Wood"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stonecutter",
+      "lods": [
+        {
+          "lod": 0,
+          "triangles": 2912,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            1.4
+          ],
+          "materials": [
+            "MP_Production_Iron",
+            "MP_Production_Stone",
+            "MP_Production_Wood"
+          ]
+        },
+        {
+          "lod": 1,
+          "triangles": 1152,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            1.4
+          ],
+          "materials": [
+            "MP_Production_Iron",
+            "MP_Production_Stone",
+            "MP_Production_Wood"
+          ]
+        },
+        {
+          "lod": 2,
+          "triangles": 996,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            1.4
+          ],
+          "materials": [
+            "MP_Production_Iron",
+            "MP_Production_Stone",
+            "MP_Production_Wood"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ropewalk",
+      "lods": [
+        {
+          "lod": 0,
+          "triangles": 5724,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            1.6
+          ],
+          "materials": [
+            "MP_Production_Iron",
+            "MP_Production_Organic",
+            "MP_Production_Wood"
+          ]
+        },
+        {
+          "lod": 1,
+          "triangles": 2328,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            1.6
+          ],
+          "materials": [
+            "MP_Production_Iron",
+            "MP_Production_Organic",
+            "MP_Production_Wood"
+          ]
+        },
+        {
+          "lod": 2,
+          "triangles": 2192,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            1.6
+          ],
+          "materials": [
+            "MP_Production_Iron",
+            "MP_Production_Organic",
+            "MP_Production_Wood"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CookingPot",
+      "lods": [
+        {
+          "lod": 0,
+          "triangles": 5436,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "materials": [
+            "MP_Production_Ember",
+            "MP_Production_Iron",
+            "MP_Production_Organic",
+            "MP_Production_Stone",
+            "MP_Production_Wood"
+          ]
+        },
+        {
+          "lod": 1,
+          "triangles": 2396,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "materials": [
+            "MP_Production_Ember",
+            "MP_Production_Iron",
+            "MP_Production_Organic",
+            "MP_Production_Stone",
+            "MP_Production_Wood"
+          ]
+        },
+        {
+          "lod": 2,
+          "triangles": 1452,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "materials": [
+            "MP_Production_Iron",
+            "MP_Production_Organic",
+            "MP_Production_Stone",
+            "MP_Production_Wood"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FarmPlot",
+      "lods": [
+        {
+          "lod": 0,
+          "triangles": 1448,
+          "dimensionsBlenderXYZ": [
+            2.0,
+            2.0,
+            0.15
+          ],
+          "materials": [
+            "MP_Production_Iron",
+            "MP_Production_Organic",
+            "MP_Production_Wood"
+          ]
+        },
+        {
+          "lod": 1,
+          "triangles": 752,
+          "dimensionsBlenderXYZ": [
+            2.0,
+            2.0,
+            0.15
+          ],
+          "materials": [
+            "MP_Production_Iron",
+            "MP_Production_Organic",
+            "MP_Production_Wood"
+          ]
+        },
+        {
+          "lod": 2,
+          "triangles": 460,
+          "dimensionsBlenderXYZ": [
+            2.0,
+            2.0,
+            0.15
+          ],
+          "materials": [
+            "MP_Production_Iron",
+            "MP_Production_Organic",
+            "MP_Production_Wood"
+          ]
+        }
+      ]
+    }
+  ],
+  "farmStates": [
+    {
+      "state": "Planted",
+      "triangles": 1992,
+      "materials": [
+        "MP_Production_Organic"
+      ],
+      "semanticGeometryFound": true
+    },
+    {
+      "state": "Ready",
+      "triangles": 5520,
+      "materials": [
+        "MP_Production_Organic"
+      ],
+      "semanticGeometryFound": true
+    }
+  ],
+  "errors": []
+}

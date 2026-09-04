@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "asset": "StorageChest",
+  "pass": true,
+  "results": {
+    "LOD0": {
+      "path": "Assets/_Game/Art/MidPoly/Stations/StorageChest/Runtime/PRP_StorageChest_Mid_LOD0.glb",
+      "meshes": 92,
+      "triangles": 7240,
+      "materials": [
+        "MP_StorageChest_Copper",
+        "MP_StorageChest_Iron",
+        "MP_StorageChest_Wood"
+      ],
+      "dimensionsBlenderXYZ": [
+        0.98,
+        0.72,
+        0.8
+      ],
+      "semantic": {
+        "body": true,
+        "lidPivot": true,
+        "frontPlank": true,
+        "lidPlank": true,
+        "latchRing": true,
+        "hinge": true
+      }
+    },
+    "LOD1": {
+      "path": "Assets/_Game/Art/MidPoly/Stations/StorageChest/Runtime/PRP_StorageChest_Mid_LOD1.glb",
+      "meshes": 72,
+      "triangles": 3556,
+      "materials": [
+        "MP_StorageChest_Copper",
+        "MP_StorageChest_Iron",
+        "MP_StorageChest_Wood"
+      ],
+      "dimensionsBlenderXYZ": [
+        0.98,
+        0.72,
+        0.8
+      ],
+      "semantic": {
+        "body": true,
+        "lidPivot": true,
+        "frontPlank": true,
+        "lidPlank": true,
+        "latchRing": true,
+        "hinge": true
+      }
+    },
+    "LOD2": {
+      "path": "Assets/_Game/Art/MidPoly/Stations/StorageChest/Runtime/PRP_StorageChest_Mid_LOD2.glb",
+      "meshes": 58,
+      "triangles": 1420,
+      "materials": [
+        "MP_StorageChest_Copper",
+        "MP_StorageChest_Iron",
+        "MP_StorageChest_Wood"
+      ],
+      "dimensionsBlenderXYZ": [
+        0.98,
+        0.72,
+        0.8
+      ],
+      "semantic": {
+        "body": true,
+        "lidPivot": true,
+        "frontPlank": true,
+        "lidPlank": true,
+        "latchRing": true,
+        "hinge": true
+      }
+    }
+  },
+  "errors": []
+}

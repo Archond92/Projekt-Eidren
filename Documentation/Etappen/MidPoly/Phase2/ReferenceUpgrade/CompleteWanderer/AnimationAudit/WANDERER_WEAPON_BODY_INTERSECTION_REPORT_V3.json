@@ -1,0 +1,7280 @@
+{
+  "asset": "Wanderer Complete Reference High Detail Production Candidate",
+  "scope": "LOD0 copper armor, matching primary weapon/action clips",
+  "interpretation": "Core intersections exclude hand/weapon grip contacts.",
+  "pass": true,
+  "summary": {
+    "Abbau_Axt": {
+      "weaponModule": "Waffe_Axt_Eisen",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 20,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Abbau_Sense": {
+      "weaponModule": "Waffe_Sense_Kupfer",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 30,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Abbau_Spitzhacke": {
+      "weaponModule": "Waffe_Spitzhacke_Kupfer",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 22,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Angriff_Dolche": {
+      "weaponModule": "Waffe_Dolche_AshFangs",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 17,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Angriff_Hammer": {
+      "weaponModule": "Waffe_Hammer_Sealbreaker",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Angriff_Speer": {
+      "weaponModule": "Waffe_Speer_EmberThorn",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 17,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Ruhe_Axt": {
+      "weaponModule": "Waffe_Axt_Eisen",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 97,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Ruhe_Dolche": {
+      "weaponModule": "Waffe_Dolche_AshFangs",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 97,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Ruhe_Hammer": {
+      "weaponModule": "Waffe_Hammer_Sealbreaker",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 97,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Ruhe_Sense": {
+      "weaponModule": "Waffe_Sense_Kupfer",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 97,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Ruhe_Speer": {
+      "weaponModule": "Waffe_Speer_EmberThorn",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 97,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Ruhe_Spitzhacke": {
+      "weaponModule": "Waffe_Spitzhacke_Kupfer",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 97,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Gehen_Axt": {
+      "weaponModule": "Waffe_Axt_Eisen",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Gehen_Dolche": {
+      "weaponModule": "Waffe_Dolche_AshFangs",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Gehen_Hammer": {
+      "weaponModule": "Waffe_Hammer_Sealbreaker",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Gehen_Sense": {
+      "weaponModule": "Waffe_Sense_Kupfer",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Gehen_Speer": {
+      "weaponModule": "Waffe_Speer_EmberThorn",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Gehen_Spitzhacke": {
+      "weaponModule": "Waffe_Spitzhacke_Kupfer",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Laufen_Axt": {
+      "weaponModule": "Waffe_Axt_Eisen",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 15,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Laufen_Dolche": {
+      "weaponModule": "Waffe_Dolche_AshFangs",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 15,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Laufen_Hammer": {
+      "weaponModule": "Waffe_Hammer_Sealbreaker",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 15,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Laufen_Sense": {
+      "weaponModule": "Waffe_Sense_Kupfer",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 15,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Laufen_Speer": {
+      "weaponModule": "Waffe_Speer_EmberThorn",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 15,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    },
+    "Laufen_Spitzhacke": {
+      "weaponModule": "Waffe_Spitzhacke_Kupfer",
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 15,
+      "worstCoreFrame": 0,
+      "worstCoreIntersectionPairs": 0
+    }
+  },
+  "results": {
+    "Abbau_Axt": {
+      "weaponModule": "Waffe_Axt_Eisen",
+      "frameRange": [
+        0,
+        19
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 20,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Abbau_Sense": {
+      "weaponModule": "Waffe_Sense_Kupfer",
+      "frameRange": [
+        0,
+        29
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 30,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 24,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 25,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 26,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 27,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 28,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 29,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Abbau_Spitzhacke": {
+      "weaponModule": "Waffe_Spitzhacke_Kupfer",
+      "frameRange": [
+        0,
+        21
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 22,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Angriff_Dolche": {
+      "weaponModule": "Waffe_Dolche_AshFangs",
+      "frameRange": [
+        0,
+        16
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 17,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Angriff_Hammer": {
+      "weaponModule": "Waffe_Hammer_Sealbreaker",
+      "frameRange": [
+        0,
+        23
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Angriff_Speer": {
+      "weaponModule": "Waffe_Speer_EmberThorn",
+      "frameRange": [
+        0,
+        16
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 17,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Ruhe_Axt": {
+      "weaponModule": "Waffe_Axt_Eisen",
+      "frameRange": [
+        0,
+        96
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 97,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 24,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 25,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 26,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 27,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 28,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 29,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 30,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 31,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 32,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 33,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 34,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 35,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 36,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 37,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 38,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 39,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 40,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 41,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 42,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 43,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 44,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 45,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 46,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 47,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 48,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 49,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 50,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 51,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 52,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 53,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 54,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 55,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 56,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 57,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 58,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 59,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 60,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 61,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 62,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 63,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 64,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 65,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 66,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 67,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 68,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 69,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 70,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 71,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 72,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 73,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 74,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 75,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 76,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 77,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 78,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 79,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 80,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 81,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 82,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 83,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 84,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 85,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 86,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 87,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 88,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 89,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 90,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 91,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 92,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 93,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 94,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 95,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 96,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Ruhe_Dolche": {
+      "weaponModule": "Waffe_Dolche_AshFangs",
+      "frameRange": [
+        0,
+        96
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 97,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 24,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 25,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 26,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 27,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 28,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 29,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 30,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 31,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 32,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 33,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 34,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 35,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 36,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 37,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 38,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 39,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 40,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 41,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 42,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 43,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 44,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 45,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 46,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 47,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 48,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 49,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 50,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 51,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 52,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 53,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 54,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 55,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 56,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 57,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 58,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 59,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 60,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 61,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 62,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 63,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 64,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 65,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 66,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 67,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 68,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 69,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 70,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 71,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 72,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 73,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 74,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 75,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 76,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 77,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 78,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 79,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 80,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 81,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 82,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 83,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 84,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 85,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 86,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 87,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 88,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 89,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 90,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 91,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 92,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 93,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 94,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 95,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 96,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Ruhe_Hammer": {
+      "weaponModule": "Waffe_Hammer_Sealbreaker",
+      "frameRange": [
+        0,
+        96
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 97,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 24,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 25,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 26,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 27,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 28,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 29,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 30,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 31,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 32,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 33,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 34,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 35,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 36,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 37,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 38,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 39,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 40,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 41,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 42,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 43,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 44,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 45,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 46,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 47,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 48,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 49,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 50,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 51,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 52,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 53,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 54,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 55,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 56,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 57,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 58,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 59,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 60,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 61,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 62,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 63,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 64,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 65,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 66,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 67,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 68,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 69,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 70,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 71,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 72,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 73,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 74,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 75,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 76,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 77,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 78,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 79,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 80,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 81,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 82,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 83,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 84,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 85,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 86,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 87,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 88,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 89,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 90,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 91,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 92,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 93,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 94,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 95,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 96,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Ruhe_Sense": {
+      "weaponModule": "Waffe_Sense_Kupfer",
+      "frameRange": [
+        0,
+        96
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 97,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 24,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 25,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 26,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 27,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 28,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 29,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 30,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 31,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 32,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 33,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 34,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 35,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 36,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 37,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 38,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 39,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 40,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 41,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 42,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 43,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 44,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 45,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 46,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 47,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 48,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 49,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 50,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 51,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 52,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 53,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 54,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 55,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 56,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 57,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 58,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 59,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 60,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 61,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 62,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 63,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 64,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 65,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 66,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 67,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 68,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 69,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 70,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 71,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 72,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 73,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 74,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 75,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 76,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 77,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 78,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 79,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 80,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 81,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 82,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 83,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 84,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 85,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 86,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 87,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 88,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 89,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 90,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 91,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 92,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 93,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 94,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 95,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 96,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Ruhe_Speer": {
+      "weaponModule": "Waffe_Speer_EmberThorn",
+      "frameRange": [
+        0,
+        96
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 97,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 24,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 25,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 26,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 27,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 28,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 29,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 30,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 31,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 32,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 33,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 34,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 35,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 36,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 37,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 38,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 39,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 40,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 41,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 42,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 43,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 44,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 45,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 46,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 47,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 48,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 49,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 50,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 51,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 52,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 53,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 54,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 55,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 56,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 57,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 58,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 59,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 60,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 61,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 62,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 63,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 64,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 65,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 66,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 67,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 68,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 69,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 70,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 71,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 72,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 73,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 74,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 75,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 76,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 77,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 78,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 79,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 80,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 81,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 82,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 83,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 84,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 85,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 86,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 87,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 88,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 89,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 90,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 91,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 92,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 93,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 94,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 95,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 96,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Ruhe_Spitzhacke": {
+      "weaponModule": "Waffe_Spitzhacke_Kupfer",
+      "frameRange": [
+        0,
+        96
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 97,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 24,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 25,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 26,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 27,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 28,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 29,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 30,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 31,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 32,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 33,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 34,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 35,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 36,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 37,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 38,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 39,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 40,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 41,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 42,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 43,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 44,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 45,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 46,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 47,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 48,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 49,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 50,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 51,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 52,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 53,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 54,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 55,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 56,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 57,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 58,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 59,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 60,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 61,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 62,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 63,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 64,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 65,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 66,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 67,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 68,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 69,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 70,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 71,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 72,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 73,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 74,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 75,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 76,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 77,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 78,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 79,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 80,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 81,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 82,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 83,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 84,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 85,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 86,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 87,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 88,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 89,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 90,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 91,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 92,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 93,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 94,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 95,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 96,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Gehen_Axt": {
+      "weaponModule": "Waffe_Axt_Eisen",
+      "frameRange": [
+        0,
+        23
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Gehen_Dolche": {
+      "weaponModule": "Waffe_Dolche_AshFangs",
+      "frameRange": [
+        0,
+        23
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Gehen_Hammer": {
+      "weaponModule": "Waffe_Hammer_Sealbreaker",
+      "frameRange": [
+        0,
+        23
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Gehen_Sense": {
+      "weaponModule": "Waffe_Sense_Kupfer",
+      "frameRange": [
+        0,
+        23
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Gehen_Speer": {
+      "weaponModule": "Waffe_Speer_EmberThorn",
+      "frameRange": [
+        0,
+        23
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Gehen_Spitzhacke": {
+      "weaponModule": "Waffe_Spitzhacke_Kupfer",
+      "frameRange": [
+        0,
+        23
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 24,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 15,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 16,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 17,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 18,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 19,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 20,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 21,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 22,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 23,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Laufen_Axt": {
+      "weaponModule": "Waffe_Axt_Eisen",
+      "frameRange": [
+        0,
+        14
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 15,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Laufen_Dolche": {
+      "weaponModule": "Waffe_Dolche_AshFangs",
+      "frameRange": [
+        0,
+        14
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 15,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Laufen_Hammer": {
+      "weaponModule": "Waffe_Hammer_Sealbreaker",
+      "frameRange": [
+        0,
+        14
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 15,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Laufen_Sense": {
+      "weaponModule": "Waffe_Sense_Kupfer",
+      "frameRange": [
+        0,
+        14
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 15,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Laufen_Speer": {
+      "weaponModule": "Waffe_Speer_EmberThorn",
+      "frameRange": [
+        0,
+        14
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 15,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    },
+    "Laufen_Spitzhacke": {
+      "weaponModule": "Waffe_Spitzhacke_Kupfer",
+      "frameRange": [
+        0,
+        14
+      ],
+      "framesWithCoreIntersection": [],
+      "coreIntersectionFrameCount": 0,
+      "totalFrames": 15,
+      "worstCoreFrame": {
+        "frame": 0,
+        "coreIntersectionPairs": 0,
+        "handContactPairs": 0,
+        "coreHits": [],
+        "handHits": []
+      },
+      "frames": [
+        {
+          "frame": 0,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 1,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 2,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 3,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 4,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 5,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 6,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 7,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 8,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 9,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 10,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 11,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 12,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 13,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        },
+        {
+          "frame": 14,
+          "coreIntersectionPairs": 0,
+          "handContactPairs": 0,
+          "coreHits": [],
+          "handHits": []
+        }
+      ]
+    }
+  }
+}

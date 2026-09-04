@@ -1,0 +1,109 @@
+{
+  "asset": "SealGuardian",
+  "status": "single-generation-candidate",
+  "legacyCoreIncluded": false,
+  "attackProfile": "one-handed diagonal staff strike",
+  "gameplayTiming": "preserved",
+  "lodRoundtrip": {
+    "LOD0": {
+      "triangles": 18784,
+      "bones": 17,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -0.89506,
+        -0.62163,
+        -0.00449
+      ],
+      "boundsMax": [
+        0.89404,
+        0.5036,
+        3.00161
+      ],
+      "height": 3.0061,
+      "normalizedWeights": true,
+      "attackFrameRange": [
+        0.0,
+        16.0
+      ],
+      "attackArmAsymmetryRadians": 1.29895,
+      "individualAttackPass": true,
+      "pass": true
+    },
+    "LOD1": {
+      "triangles": 10330,
+      "bones": 17,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -0.89506,
+        -0.62102,
+        -0.00449
+      ],
+      "boundsMax": [
+        0.89733,
+        0.5036,
+        3.00274
+      ],
+      "height": 3.00723,
+      "normalizedWeights": true,
+      "attackFrameRange": [
+        0.0,
+        16.0
+      ],
+      "attackArmAsymmetryRadians": 1.29895,
+      "individualAttackPass": true,
+      "pass": true
+    },
+    "LOD2": {
+      "triangles": 4508,
+      "bones": 17,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -0.89359,
+        -0.62094,
+        -0.003
+      ],
+      "boundsMax": [
+        0.90037,
+        0.5006,
+        3.00607
+      ],
+      "height": 3.00907,
+      "normalizedWeights": true,
+      "attackFrameRange": [
+        0.0,
+        16.0
+      ],
+      "attackArmAsymmetryRadians": 1.29895,
+      "individualAttackPass": true,
+      "pass": true
+    }
+  },
+  "pass": true
+}

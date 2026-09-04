@@ -1,0 +1,60 @@
+{
+  "asset": "Wanderer Copper Reference Upgrade High Poly Animated V9",
+  "pass": true,
+  "triangles": 73396,
+  "riggedTriangles": 73316,
+  "meshObjects": 313,
+  "weightedMeshes": 312,
+  "unweightedMeshes": [
+    "Icosphere"
+  ],
+  "bones": 20,
+  "clips": [
+    "Abbau_Axt",
+    "Abbau_Sense",
+    "Abbau_Spitzhacke",
+    "Angriff_Dolche",
+    "Angriff_Hammer",
+    "Angriff_Speer",
+    "Gehen_Axt",
+    "Gehen_Dolche",
+    "Gehen_Hammer",
+    "Gehen_Sense",
+    "Gehen_Speer",
+    "Gehen_Spitzhacke",
+    "Laufen_Axt",
+    "Laufen_Dolche",
+    "Laufen_Hammer",
+    "Laufen_Sense",
+    "Laufen_Speer",
+    "Laufen_Spitzhacke",
+    "Oeffnen",
+    "Ruhe_Axt",
+    "Ruhe_Dolche",
+    "Ruhe_Hammer",
+    "Ruhe_Sense",
+    "Ruhe_Speer",
+    "Ruhe_Spitzhacke"
+  ],
+  "rigContract": true,
+  "clipContract": true,
+  "meshContract": true,
+  "staffRotationAudit": {
+    "Abbau_Spitzhacke": {
+      "maxDegreesPerFrame": 66.707,
+      "atFrame": 10,
+      "pass": true
+    },
+    "Angriff_Hammer": {
+      "maxDegreesPerFrame": 70.137,
+      "atFrame": 11,
+      "pass": true
+    },
+    "Angriff_Speer": {
+      "maxDegreesPerFrame": 20.385,
+      "atFrame": 7,
+      "pass": true
+    }
+  },
+  "productionIntegrated": false
+}

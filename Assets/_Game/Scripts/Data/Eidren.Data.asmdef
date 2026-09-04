@@ -1,0 +1,7 @@
+{
+    "name":  "Eidren.Data",
+    "references":  [
+
+                   ],
+    "allowUnsafeCode":  true
+}

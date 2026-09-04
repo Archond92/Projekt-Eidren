@@ -1,0 +1,20 @@
+{
+    "generatedUtc": "2026-08-20T18:57:08Z",
+    "pass": true,
+    "visualGuidBefore": "3ce51e342cf067d40b5175391ab3bbde",
+    "visualGuidAfter": "3ce51e342cf067d40b5175391ab3bbde",
+    "playerGuidBefore": "42a8f801c2b409a4b9fad2f4597125df",
+    "playerGuidAfter": "42a8f801c2b409a4b9fad2f4597125df",
+    "lod0Triangles": 37018,
+    "lod1Triangles": 20919,
+    "lod2Triangles": 9105,
+    "materials": 5,
+    "bones": 20,
+    "clips": 25,
+    "modules": 39,
+    "lodLevels": 3,
+    "controllerHeight": 2.0,
+    "controllerRadius": 0.47999998927116396,
+    "legacyFallbackPath": "Assets/_Game/Prefabs/Actors/3D/Fallback/Player_3D_Legacy.prefab",
+    "errors": []
+}

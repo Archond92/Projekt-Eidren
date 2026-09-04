@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47891e490fa3d159c36fbb1eac32db15, type: 3}
+  m_Name: Recipe_CopperPickaxe
+  m_EditorClassIdentifier: 
+  id: craft_copper_pickaxe
+  displayName: Kupferspitzhacke
+  description: T1-Bergbauwerkzeug.
+  resultType: 0
+  resultItemId: copper_pickaxe
+  resultAmount: 1
+  ingredients:
+  - itemId: copper_bar
+    amount: 2
+  - itemId: plank
+    amount: 2
+  - itemId: stone_block
+    amount: 1
+  requiredStation: 1
+  icon: {fileID: 21300000, guid: 729d8393302817d46ac02a406602d3b5, type: 3}
+  sortOrder: 68
+  weaponUpgrade:
+    weaponId: 
+    targetLevel: 0
+    healthDamageMultiplier: 0
+    staggerDamageMultiplier: 0

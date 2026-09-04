@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4762778c30fcc30bf9455f04bccb0918, type: 3}
+  m_Name: WorldMap_RegionalV01
+  m_EditorClassIdentifier: 
+  id: eidren_regional_v01
+  displayName: Die Randlande
+  mapVisual: {fileID: 21300000, guid: 767d431f08fdd7a4c88a651f9157079c, type: 3}
+  fallbackNodeIcon: {fileID: 21300000, guid: b6c6ddce902bbec4e8ab7ed70f22f057, type: 3}
+  theme: {fileID: 11400000, guid: 5037e5b445ca1004785c69d1d51ea97b, type: 2}
+  nodes:
+  - {fileID: 11400000, guid: c3d9d395002138140b9175b2f3517830, type: 2}
+  - {fileID: 11400000, guid: 0f9810783e19e194783e950bcc504398, type: 2}
+  - {fileID: 11400000, guid: 0fafdb710f0db814fa0bd87df5a93150, type: 2}
+  - {fileID: 11400000, guid: 4aad98e1f3a6af14996d83a89aa18a69, type: 2}
+  - {fileID: 11400000, guid: 5b56d543d6faacb4286cdb378773a08e, type: 2}
+  - {fileID: 11400000, guid: 6a63f9a49cf078a4fab13e0c343ba501, type: 2}
+  - {fileID: 11400000, guid: 8552661f3c4af7d42a56bda55386076c, type: 2}
+  - {fileID: 11400000, guid: 6a10fc95fc1eea84cb641eb934d11dcf, type: 2}

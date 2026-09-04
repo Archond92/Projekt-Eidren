@@ -1,0 +1,112 @@
+{
+  "asset": "Ignivar",
+  "status": "approved-production",
+  "lodRoundtrip": {
+    "LOD0": {
+      "triangles": 25446,
+      "materials": [
+        "MP_Ignivar_FlameEmber",
+        "MP_Ignivar_FlameHot",
+        "MP_Ignivar_ObsidianFur"
+      ],
+      "bones": 22,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -0.34648,
+        -0.67488,
+        0.00461
+      ],
+      "boundsMax": [
+        0.34648,
+        0.90184,
+        1.04192
+      ],
+      "height": 1.03731,
+      "width": 0.69296,
+      "length": 1.57672,
+      "normalizedWeights": true,
+      "errors": [],
+      "pass": true
+    },
+    "LOD1": {
+      "triangles": 14248,
+      "materials": [
+        "MP_Ignivar_FlameEmber",
+        "MP_Ignivar_FlameHot",
+        "MP_Ignivar_ObsidianFur"
+      ],
+      "bones": 22,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -0.34423,
+        -0.67488,
+        0.00479
+      ],
+      "boundsMax": [
+        0.34423,
+        0.90066,
+        1.04051
+      ],
+      "height": 1.03572,
+      "width": 0.68845,
+      "length": 1.57554,
+      "normalizedWeights": true,
+      "errors": [],
+      "pass": true
+    },
+    "LOD2": {
+      "triangles": 5996,
+      "materials": [
+        "MP_Ignivar_FlameEmber",
+        "MP_Ignivar_FlameHot",
+        "MP_Ignivar_ObsidianFur"
+      ],
+      "bones": 22,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -0.34423,
+        -0.67486,
+        0.00631
+      ],
+      "boundsMax": [
+        0.34423,
+        0.90066,
+        1.04051
+      ],
+      "height": 1.0342,
+      "width": 0.68845,
+      "length": 1.57552,
+      "normalizedWeights": true,
+      "errors": [],
+      "pass": true
+    }
+  },
+  "pass": true
+}

@@ -1,0 +1,287 @@
+{
+    "generatedUtc": "2026-08-24T21:11:15Z",
+    "pass": true,
+    "containers": [
+        {
+            "name": "SupplyChest",
+            "role": "supply",
+            "prefabPath": "Assets/_Game/Prefabs/Containers/Forge/SupplyChest_2D.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Containers/Forge/Fallback/SupplyChest_Legacy.prefab",
+            "guidBefore": "9101a3d17aa1f374da278e2b5157a358",
+            "guidAfter": "9101a3d17aa1f374da278e2b5157a358",
+            "lod0Triangles": 8510,
+            "lod1Triangles": 3758,
+            "lod2Triangles": 2560,
+            "lodLevels": 3,
+            "materials": 5,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.4000000059604645,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.1799999475479127,
+                "y": 0.800000011920929,
+                "z": 0.7799999713897705
+            },
+            "fourStatesWired": true,
+            "semanticAnchors": [
+                "ForgedBase",
+                "LidPivot",
+                "ClosedDetails",
+                "OpenedDetails",
+                "EmptiedDetails",
+                "LootFill_Full",
+                "LootFill_Partial",
+                "LootSocket",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "OptionalChest",
+            "role": "optional",
+            "prefabPath": "Assets/_Game/Prefabs/Containers/Forge/OptionalChest_2D.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Containers/Forge/Fallback/OptionalChest_Legacy.prefab",
+            "guidBefore": "1497b380672706a4c9a3ed6a59553063",
+            "guidAfter": "1497b380672706a4c9a3ed6a59553063",
+            "lod0Triangles": 8956,
+            "lod1Triangles": 3932,
+            "lod2Triangles": 2792,
+            "lodLevels": 3,
+            "materials": 5,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.4000000059604645,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.25,
+                "y": 0.800000011920929,
+                "z": 0.8199999928474426
+            },
+            "fourStatesWired": true,
+            "semanticAnchors": [
+                "ForgedBase",
+                "LidPivot",
+                "ClosedDetails",
+                "OpenedDetails",
+                "EmptiedDetails",
+                "LootFill_Full",
+                "LootFill_Partial",
+                "LootSocket",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "EliteChest",
+            "role": "elite-boss-locked",
+            "prefabPath": "Assets/_Game/Prefabs/Containers/Forge/EliteChest_2D.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Containers/Forge/Fallback/EliteChest_Legacy.prefab",
+            "guidBefore": "27952e0de9b5a864697ac76519dec10d",
+            "guidAfter": "27952e0de9b5a864697ac76519dec10d",
+            "lod0Triangles": 9884,
+            "lod1Triangles": 4468,
+            "lod2Triangles": 3176,
+            "lodLevels": 3,
+            "materials": 5,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.4199999570846558,
+                "y": 1.0,
+                "z": 0.9200000166893005
+            },
+            "fourStatesWired": true,
+            "semanticAnchors": [
+                "ForgedBase",
+                "LidPivot",
+                "ClosedDetails",
+                "OpenedDetails",
+                "EmptiedDetails",
+                "LootFill_Full",
+                "LootFill_Partial",
+                "LootSocket",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "CompletionChest",
+            "role": "completion-boss-locked",
+            "prefabPath": "Assets/_Game/Prefabs/Containers/Forge/CompletionChest_2D.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Containers/Forge/Fallback/CompletionChest_Legacy.prefab",
+            "guidBefore": "959fdcf2173863e4baa0f2e8e16445f9",
+            "guidAfter": "959fdcf2173863e4baa0f2e8e16445f9",
+            "lod0Triangles": 11024,
+            "lod1Triangles": 5148,
+            "lod2Triangles": 3544,
+            "lodLevels": 3,
+            "materials": 5,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.6000000238418579,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.6200000047683716,
+                "y": 1.2000000476837159,
+                "z": 1.0199999809265137
+            },
+            "fourStatesWired": true,
+            "semanticAnchors": [
+                "ForgedBase",
+                "LidPivot",
+                "ClosedDetails",
+                "OpenedDetails",
+                "EmptiedDetails",
+                "LootFill_Full",
+                "LootFill_Partial",
+                "LootSocket",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "SmallRewardChest",
+            "role": "reward-tier-1",
+            "prefabPath": "Assets/_Game/Prefabs/Containers/Forge/SmallRewardChest_2D.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Containers/Forge/Fallback/SmallRewardChest_Legacy.prefab",
+            "guidBefore": "9762a1e3ca8779f468b5a9267357963c",
+            "guidAfter": "9762a1e3ca8779f468b5a9267357963c",
+            "lod0Triangles": 7554,
+            "lod1Triangles": 3250,
+            "lod2Triangles": 2390,
+            "lodLevels": 3,
+            "materials": 5,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.3499999940395355,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 0.949999988079071,
+                "y": 0.699999988079071,
+                "z": 0.6800000071525574
+            },
+            "fourStatesWired": true,
+            "semanticAnchors": [
+                "ForgedBase",
+                "LidPivot",
+                "ClosedDetails",
+                "OpenedDetails",
+                "EmptiedDetails",
+                "LootFill_Full",
+                "LootFill_Partial",
+                "LootSocket",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "MediumRewardChest",
+            "role": "reward-tier-2",
+            "prefabPath": "Assets/_Game/Prefabs/Containers/Forge/MediumRewardChest_2D.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Containers/Forge/Fallback/MediumRewardChest_Legacy.prefab",
+            "guidBefore": "69d1c311984572a469e347f9d92cd0b0",
+            "guidAfter": "69d1c311984572a469e347f9d92cd0b0",
+            "lod0Triangles": 8324,
+            "lod1Triangles": 3628,
+            "lod2Triangles": 2616,
+            "lodLevels": 3,
+            "materials": 5,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.44999998807907107,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.2000000476837159,
+                "y": 0.8999999761581421,
+                "z": 0.8199999928474426
+            },
+            "fourStatesWired": true,
+            "semanticAnchors": [
+                "ForgedBase",
+                "LidPivot",
+                "ClosedDetails",
+                "OpenedDetails",
+                "EmptiedDetails",
+                "LootFill_Full",
+                "LootFill_Partial",
+                "LootSocket",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "LargeRewardChest",
+            "role": "reward-tier-3",
+            "prefabPath": "Assets/_Game/Prefabs/Containers/Forge/LargeRewardChest_2D.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Containers/Forge/Fallback/LargeRewardChest_Legacy.prefab",
+            "guidBefore": "24fe59dee6269334a9094e822a0dd9a4",
+            "guidAfter": "24fe59dee6269334a9094e822a0dd9a4",
+            "lod0Triangles": 10022,
+            "lod1Triangles": 4542,
+            "lod2Triangles": 3238,
+            "lodLevels": 3,
+            "materials": 5,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.6000000238418579,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.5499999523162842,
+                "y": 1.2000000476837159,
+                "z": 1.0199999809265137
+            },
+            "fourStatesWired": true,
+            "semanticAnchors": [
+                "ForgedBase",
+                "LidPivot",
+                "ClosedDetails",
+                "OpenedDetails",
+                "EmptiedDetails",
+                "LootFill_Full",
+                "LootFill_Partial",
+                "LootSocket",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "RecoveryContainer",
+            "role": "recovery",
+            "prefabPath": "Assets/_Game/Prefabs/Containers/Forge/RecoveryContainer_2D.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Containers/Forge/Fallback/RecoveryContainer_Legacy.prefab",
+            "guidBefore": "d3232b983f80a9a428662df408ed324f",
+            "guidAfter": "d3232b983f80a9a428662df408ed324f",
+            "lod0Triangles": 9264,
+            "lod1Triangles": 4176,
+            "lod2Triangles": 3000,
+            "lodLevels": 3,
+            "materials": 5,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.4000000059604645,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.4500000476837159,
+                "y": 0.800000011920929,
+                "z": 0.8199999928474426
+            },
+            "fourStatesWired": true,
+            "semanticAnchors": [
+                "ForgedBase",
+                "LidPivot",
+                "ClosedDetails",
+                "OpenedDetails",
+                "EmptiedDetails",
+                "LootFill_Full",
+                "LootFill_Partial",
+                "LootSocket",
+                "InteractionPoint"
+            ]
+        }
+    ],
+    "errors": []
+}

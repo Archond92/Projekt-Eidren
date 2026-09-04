@@ -1,0 +1,58 @@
+{
+    "pass": true,
+    "generatedUtc": "2026-08-25T11:25:57Z",
+    "assets": [
+        {
+            "asset": "HardwoodTree",
+            "pass": true,
+            "prefabGuidsPreserved": true,
+            "lod0Triangles": 7856,
+            "lod1Triangles": 4320,
+            "lod2Triangles": 1368,
+            "exhaustedTriangles": 1236,
+            "issues": []
+        },
+        {
+            "asset": "SwampHemp",
+            "pass": true,
+            "prefabGuidsPreserved": true,
+            "lod0Triangles": 3836,
+            "lod1Triangles": 2108,
+            "lod2Triangles": 692,
+            "exhaustedTriangles": 1290,
+            "issues": []
+        }
+    ],
+    "zoneVariants": [
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/TwilightGrove_hardwood_tree_Active.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/TwilightGrove_hardwood_tree_Exhausted.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/TwilightGrove_swamp_hemp_Active.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/TwilightGrove_swamp_hemp_Exhausted.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/VeilMarsh_swamp_hemp_Active.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/VeilMarsh_swamp_hemp_Exhausted.prefab",
+            "pass": true,
+            "issues": []
+        }
+    ]
+}

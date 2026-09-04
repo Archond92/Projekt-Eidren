@@ -1,0 +1,33 @@
+{
+    "generatedUtc": "2026-08-20T19:59:33Z",
+    "pass": true,
+    "prefabGuidBefore": "f4b7c3102920e4749a05285dd981a61c",
+    "prefabGuidAfter": "f4b7c3102920e4749a05285dd981a61c",
+    "enemyGuidBefore": "8d434a6fffb80534889f6fb14f2f8ed1",
+    "enemyGuidAfter": "8d434a6fffb80534889f6fb14f2f8ed1",
+    "lod0Triangles": 16868,
+    "lod1Triangles": 9108,
+    "lod2Triangles": 3681,
+    "materials": 2,
+    "bones": 19,
+    "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+    ],
+    "lodLevels": 3,
+    "rendererBoundsSize": {
+        "x": 2.334740161895752,
+        "y": 2.4000895023345949,
+        "z": 3.0814154148101808
+    },
+    "colliderRadius": 0.6759999394416809,
+    "colliderHeight": 2.7299997806549074,
+    "legacyFallbackPath": "Assets/_Game/Prefabs/Actors/3D/Fallback/GraniteShell_3D_Legacy.prefab",
+    "errors": []
+}

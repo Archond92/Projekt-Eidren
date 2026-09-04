@@ -1,0 +1,63 @@
+{
+    "generatedUtc": "2026-08-24T22:55:29Z",
+    "pass": true,
+    "worldItem": {
+        "role": "single-shared-loot-pouch",
+        "prefabPath": "Assets/_Game/Prefabs/Items/WorldItem.prefab",
+        "fallbackPath": "Assets/_Game/Prefabs/Items/Fallback/WorldItem_Legacy.prefab",
+        "guidBefore": "2c2e229e48566b641bd46edcf3e178cd",
+        "guidAfter": "2c2e229e48566b641bd46edcf3e178cd",
+        "lod0Triangles": 1144,
+        "lod1Triangles": 468,
+        "lod2Triangles": 444,
+        "lodLevels": 3,
+        "materials": 4,
+        "visualHeight": 0.40000003576278689,
+        "colliderCenter": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "colliderSize": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "colliderRadius": 0.7200000286102295,
+        "anchors": [
+            "Geometry_A14",
+            "StaticHighlight",
+            "ItemIcon",
+            "Quantity"
+        ]
+    },
+    "deathBag": {
+        "role": "single-persistent-death-bag",
+        "prefabPath": "Assets/_Game/Resources/Prefabs/DeathBag.prefab",
+        "fallbackPath": "Assets/_Game/Resources/Prefabs/Fallback/DeathBag_Legacy.prefab",
+        "guidBefore": "d11a6c092463e87448b91a3497659289",
+        "guidAfter": "d11a6c092463e87448b91a3497659289",
+        "lod0Triangles": 1448,
+        "lod1Triangles": 420,
+        "lod2Triangles": 392,
+        "lodLevels": 3,
+        "materials": 5,
+        "visualHeight": 0.699999988079071,
+        "colliderCenter": {
+            "x": 0.0,
+            "y": 0.4000000059604645,
+            "z": 0.0
+        },
+        "colliderSize": {
+            "x": 1.7999999523162842,
+            "y": 1.399999976158142,
+            "z": 1.7999999523162842
+        },
+        "colliderRadius": 0.0,
+        "anchors": [
+            "Geometry_A14",
+            "InteractionPoint"
+        ]
+    },
+    "errors": []
+}

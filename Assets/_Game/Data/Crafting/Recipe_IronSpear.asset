@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47891e490fa3d159c36fbb1eac32db15, type: 3}
+  m_Name: Recipe_IronSpear
+  m_EditorClassIdentifier: 
+  id: craft_iron_spear
+  displayName: Eisenspeer
+  description: T2-Speer mit Distanzfenster.
+  resultType: 0
+  resultItemId: iron_spear
+  resultAmount: 1
+  ingredients:
+  - itemId: iron_bar
+    amount: 3
+  - itemId: hardwood_plank
+    amount: 3
+  - itemId: robust_cloth
+    amount: 2
+  - itemId: rope
+    amount: 2
+  - itemId: smithing_fitting
+    amount: 2
+  requiredStation: 1
+  icon: {fileID: 21300000, guid: cbf5d4ecd5c38f742906e67a36cac5a9, type: 3}
+  sortOrder: 82
+  weaponUpgrade:
+    weaponId: 
+    targetLevel: 0
+    healthDamageMultiplier: 0
+    staggerDamageMultiplier: 0

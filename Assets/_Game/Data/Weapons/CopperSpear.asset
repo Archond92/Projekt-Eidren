@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502fbe142ed9afa4f7feff0e2e001192, type: 3}
+  m_Name: CopperSpear
+  m_EditorClassIdentifier:
+  id: copper_spear
+  DisplayName: Kupferspeer
+  Accent: {r: 0.78, g: 0.42, b: 0.2, a: 1}
+  BaseDamage: 17
+  BaseStaggerDamage: 6
+  AttackRange: 4.2
+  AttackAssistAngle: 50
+  BackDamageMultiplier: 1
+  Combo:
+  - Duration: 0.48
+    HitTime: 0.22
+    HitWindowDuration: 0.1
+    HitboxRange: 4.2
+    HitboxAngle: 35
+    IsOmnidirectional: 0
+    AllowWeaponSwitchDuringWindup: 1
+    AllowWeaponSwitchDuringRecovery: 1
+    DamageMultiplier: 0.95
+    StaggerMultiplier: 0.9
+    ForwardMotion: 0.32
+    ComboQueueStart: 0.56
+  - Duration: 0.52
+    HitTime: 0.24
+    HitWindowDuration: 0.1
+    HitboxRange: 4.2
+    HitboxAngle: 35
+    IsOmnidirectional: 0
+    AllowWeaponSwitchDuringWindup: 1
+    AllowWeaponSwitchDuringRecovery: 1
+    DamageMultiplier: 1.05
+    StaggerMultiplier: 1
+    ForwardMotion: 0.4
+    ComboQueueStart: 0.56
+  - Duration: 0.68
+    HitTime: 0.34
+    HitWindowDuration: 0.12
+    HitboxRange: 4.2
+    HitboxAngle: 35
+    IsOmnidirectional: 0
+    AllowWeaponSwitchDuringWindup: 1
+    AllowWeaponSwitchDuringRecovery: 1
+    DamageMultiplier: 1.3
+    StaggerMultiplier: 1.25
+    ForwardMotion: 0.68
+    ComboQueueStart: 0.62
+  Identity:
+    Family: 3
+    Signature: 3
+    Tier: 1
+    IsNamedVariant: 0
+    SignatureHint: Distanzfenster - Treffer im aeusseren Reichweitendrittel verursachen 25 Prozent mehr Schaden.
+  Moveset: {fileID: 0}

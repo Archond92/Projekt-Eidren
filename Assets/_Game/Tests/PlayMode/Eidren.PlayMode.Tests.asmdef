@@ -1,0 +1,24 @@
+{
+    "name":  "Eidren.PlayMode.Tests",
+    "references":  [
+                       "Eidren.Composition",
+                       "Eidren.Core",
+                       "Eidren.Data",
+                       "Eidren.Gameplay",
+                       "Eidren.Presentation",
+                       "Eidren.UI",
+                       "Unity.AI.Navigation",
+                       "Unity.InputSystem",
+                       "Unity.InputSystem.TestFramework",
+                       "UnityEngine.TestRunner",
+                       "UnityEngine.UI"
+                   ],
+    "precompiledReferences":  [
+                                  "nunit.framework.dll"
+                              ],
+    "overrideReferences":  true,
+    "defineConstraints":  [
+                              "UNITY_INCLUDE_TESTS"
+                          ],
+    "allowUnsafeCode":  true
+}

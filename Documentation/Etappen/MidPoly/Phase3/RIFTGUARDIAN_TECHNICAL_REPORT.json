@@ -1,0 +1,33 @@
+{
+    "generatedUtc": "2026-08-24T15:58:35Z",
+    "pass": true,
+    "prefabGuidBefore": "c580a806186185c4f94061fa17b18734",
+    "prefabGuidAfter": "c580a806186185c4f94061fa17b18734",
+    "enemyGuidBefore": "7895dea22fc70bc4194d93f9881cf7b3",
+    "enemyGuidAfter": "7895dea22fc70bc4194d93f9881cf7b3",
+    "lod0Triangles": 19084,
+    "lod1Triangles": 10304,
+    "lod2Triangles": 4191,
+    "materials": 3,
+    "bones": 17,
+    "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+    ],
+    "lodLevels": 3,
+    "rendererBoundsSize": {
+        "x": 2.121103048324585,
+        "y": 3.034914255142212,
+        "z": 1.2116197347640992
+    },
+    "colliderRadius": 0.8059999346733093,
+    "colliderHeight": 3.2549996376037599,
+    "legacyFallbackPath": "Assets/_Game/Prefabs/Actors/3D/Fallback/RiftGuardian_3D_Legacy.prefab",
+    "errors": []
+}

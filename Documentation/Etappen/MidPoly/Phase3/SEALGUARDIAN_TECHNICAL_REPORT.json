@@ -1,0 +1,33 @@
+{
+    "generatedUtc": "2026-08-24T16:13:32Z",
+    "pass": true,
+    "prefabGuidBefore": "92c0b93beea767a4eb5c1f267903da03",
+    "prefabGuidAfter": "92c0b93beea767a4eb5c1f267903da03",
+    "enemyGuidBefore": "5134989611299da499f7ee70aeb2ca48",
+    "enemyGuidAfter": "5134989611299da499f7ee70aeb2ca48",
+    "lod0Triangles": 18784,
+    "lod1Triangles": 10330,
+    "lod2Triangles": 4508,
+    "materials": 3,
+    "bones": 17,
+    "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+    ],
+    "lodLevels": 3,
+    "rendererBoundsSize": {
+        "x": 1.6986799240112305,
+        "y": 3.0024924278259279,
+        "z": 1.125230073928833
+    },
+    "colliderRadius": 0.7103999853134155,
+    "colliderHeight": 2.9600000381469728,
+    "legacyFallbackPath": "Assets/_Game/Prefabs/Actors/3D/Fallback/SealGuardian_3D_Legacy.prefab",
+    "errors": []
+}

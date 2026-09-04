@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502fbe142ed9afa4f7feff0e2e001192, type: 3}
+  m_Name: Daggers
+  m_EditorClassIdentifier:
+  id: daggers
+  DisplayName: Dolche
+  Accent: {r: 0.22, g: 0.78, b: 0.92, a: 1}
+  BaseDamage: 12
+  BaseStaggerDamage: 2.5
+  AttackRange: 3
+  AttackAssistAngle: 75
+  BackDamageMultiplier: 1.75
+  Combo:
+  - Duration: 0.34
+    HitTime: 0.16
+    HitWindowDuration: 0.08
+    HitboxRange: 3
+    HitboxAngle: 75
+    IsOmnidirectional: 0
+    AllowWeaponSwitchDuringWindup: 1
+    AllowWeaponSwitchDuringRecovery: 1
+    DamageMultiplier: 0.85
+    StaggerMultiplier: 0.5
+    ForwardMotion: 0.3
+    ComboQueueStart: 0.52
+  - Duration: 0.31
+    HitTime: 0.14
+    HitWindowDuration: 0.08
+    HitboxRange: 3
+    HitboxAngle: 75
+    IsOmnidirectional: 0
+    AllowWeaponSwitchDuringWindup: 1
+    AllowWeaponSwitchDuringRecovery: 1
+    DamageMultiplier: 0.9
+    StaggerMultiplier: 0.5
+    ForwardMotion: 0.35
+    ComboQueueStart: 0.5
+  - Duration: 0.36
+    HitTime: 0.17
+    HitWindowDuration: 0.09
+    HitboxRange: 3
+    HitboxAngle: 75
+    IsOmnidirectional: 0
+    AllowWeaponSwitchDuringWindup: 1
+    AllowWeaponSwitchDuringRecovery: 1
+    DamageMultiplier: 1
+    StaggerMultiplier: 0.6
+    ForwardMotion: 0.4
+    ComboQueueStart: 0.5
+  - Duration: 0.48
+    HitTime: 0.23
+    HitWindowDuration: 0.11
+    HitboxRange: 3
+    HitboxAngle: 75
+    IsOmnidirectional: 0
+    AllowWeaponSwitchDuringWindup: 1
+    AllowWeaponSwitchDuringRecovery: 1
+    DamageMultiplier: 1.35
+    StaggerMultiplier: 0.7
+    ForwardMotion: 0.5
+    ComboQueueStart: 0.56
+  Identity:
+    Family: 2
+    Signature: 2
+    Tier: 0
+    IsNamedVariant: 0
+    SignatureHint: Hinterhalt - Rueckenangriffe verursachen 75 Prozent mehr Schaden.
+  Moveset: {fileID: 0}

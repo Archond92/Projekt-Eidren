@@ -1,0 +1,23 @@
+{
+  "schema": "eidren.wanderer.blender-source-grip-audit.v1",
+  "revision": "F33-source-v26",
+  "generatedUtc": "2026-08-26T22:02:34Z",
+  "source": "Assets/_Game/Art/MidPoly/GoldenMasters/Wanderer/Candidate/ReferenceUpgradeComplete/Source~/CHR_Wanderer_CompleteReference_HighDetail_Production.blend",
+  "engine": "Blender 5.2.0 LTS",
+  "measurement": "Both hand effectors to evaluated LOD0 copper wooden grip surface on every source frame, plus forearm/torso and hand-front anatomical clearance",
+  "primaryThresholdMeters": 0.02,
+  "secondaryThresholdMeters": 0.03,
+  "status": "passed",
+  "secondaryGripAudit": {
+    "Abbau_Axt": { "frames": 20, "primaryMaximumMeters": 0.000007358277343882946, "primaryMaximumFrame": 16, "maximumMeters": 0.00001036851062963251, "maximumFrame": 18 },
+    "Abbau_Spitzhacke": { "frames": 22, "primaryMaximumMeters": 0.0000062933904700912535, "primaryMaximumFrame": 17, "maximumMeters": 0.000008758946023590397, "maximumFrame": 20 },
+    "Abbau_Sense": { "frames": 30, "primaryMaximumMeters": 0.000012012073966616299, "primaryMaximumFrame": 3, "maximumMeters": 0.02118293195962906, "maximumFrame": 19 },
+    "Angriff_Hammer": { "frames": 24, "primaryMaximumMeters": 0.000010701067367335781, "primaryMaximumFrame": 20, "maximumMeters": 0.000010944001587631647, "maximumFrame": 15 }
+  },
+  "anatomicalArmAudit": {
+    "Abbau_Axt": { "frames": 20, "minimumForearmTorsoClearanceScore": 1.4528072408406676, "minimumForearmTorsoClearanceFrame": 1, "minimumHandFrontMeters": 0.26008383743464947, "minimumHandFrontFrame": 8 },
+    "Abbau_Spitzhacke": { "frames": 22, "minimumForearmTorsoClearanceScore": 1.8570528107401838, "minimumForearmTorsoClearanceFrame": 7, "minimumHandFrontMeters": 0.25078530609607697, "minimumHandFrontFrame": 7 },
+    "Abbau_Sense": { "frames": 30, "minimumForearmTorsoClearanceScore": 1.6249338585261808, "minimumForearmTorsoClearanceFrame": 6, "minimumHandFrontMeters": 0.2415136620402336, "minimumHandFrontFrame": 11 },
+    "Angriff_Hammer": { "frames": 24, "minimumForearmTorsoClearanceScore": 1.624167930705332, "minimumForearmTorsoClearanceFrame": 2, "minimumHandFrontMeters": 0.288796991109848, "minimumHandFrontFrame": 3 }
+  }
+}

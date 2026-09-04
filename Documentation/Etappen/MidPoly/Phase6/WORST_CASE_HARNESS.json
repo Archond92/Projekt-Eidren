@@ -1,0 +1,44 @@
+{
+    "generatedUtc": "2026-08-25T12:03:08Z",
+    "scene": "Assets/_Game/Scenes/Zone_Greenwood.unity",
+    "instances": 131,
+    "renderersAtForcedLod0": 2694,
+    "trianglesAtForcedLod0": 1017286,
+    "uniqueMaterials": 205,
+    "skinnedMeshes": 146,
+    "boneReferences": 2871,
+    "families": [
+        {
+            "family": "Actors",
+            "instances": 16
+        },
+        {
+            "family": "Buildings",
+            "instances": 9
+        },
+        {
+            "family": "Environment",
+            "instances": 64
+        },
+        {
+            "family": "ForgeContainers",
+            "instances": 8
+        },
+        {
+            "family": "Resources",
+            "instances": 27
+        },
+        {
+            "family": "Stations",
+            "instances": 2
+        },
+        {
+            "family": "WorldChests",
+            "instances": 3
+        },
+        {
+            "family": "WorldItems",
+            "instances": 2
+        }
+    ]
+}

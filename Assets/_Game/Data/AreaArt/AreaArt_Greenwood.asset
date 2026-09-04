@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b20ec39f24b7df707f34ee788575dce, type: 3}
+  m_Name: AreaArt_Greenwood
+  m_EditorClassIdentifier: 
+  id: area_art_greenwood
+  baseGround: {fileID: 2800000, guid: 203a0595842e757419afb6db3c93163e, type: 3}
+  groundBlends:
+  - id: ground_greenwood_blend_1
+    texture: {fileID: 2800000, guid: 081b687508a711a4c9ee4ea30b5c9a3b, type: 3}
+    coverage: 0.34
+  - id: ground_greenwood_blend_2
+    texture: {fileID: 2800000, guid: dd806257038e85f499fcdc9fbad96275, type: 3}
+    coverage: 0.24
+  resourceVariants:
+  - resourceNodeId: resource.tree
+    activeVisualPrefab: {fileID: 1709254077376921, guid: 1afbec1f3b8ec6e42a9ea195a7e696ec, type: 3}
+    exhaustedVisualPrefab: {fileID: 1709254077376921, guid: e47e1032986c7374d863bd5077b6017b, type: 3}
+    medium: 1
+    recognitionMarker: Axt mit ockerfarbenem Tuch am Stamm
+  decorations:
+  - id: decoration_greenwood_1
+    prefab: {fileID: 1709254077376921, guid: 7a05b52bf96b4cf46a032fc54d3ecac5, type: 3}
+    density: 0
+  - id: decoration_greenwood_2
+    prefab: {fileID: 1709254077376921, guid: e807eb3c56600d44f8f2698a7b860361, type: 3}
+    density: 0
+  - id: decoration_greenwood_3
+    prefab: {fileID: 1709254077376921, guid: 048d2c2f12ce3a74dbddce9d0b2ce8a9, type: 3}
+    density: 0.5
+  - id: decoration_greenwood_4
+    prefab: {fileID: 1709254077376921, guid: 6c0e84875abd15a479854b4261f6c371, type: 3}
+    density: 0.4
+  - id: decoration_greenwood_5
+    prefab: {fileID: 1709254077376921, guid: 58fb3f2e59b14e44899d00b72c32d9b1, type: 3}
+    density: 0.6
+  - id: decoration_greenwood_6
+    prefab: {fileID: 1709254077376921, guid: 3c03787a9b0d24541a92358b1f05caf4, type: 3}
+    density: 0.7
+  - id: decoration_greenwood_7
+    prefab: {fileID: 1709254077376921, guid: 8476cae0d898d1641948b08967dd12e6, type: 3}
+    density: 1.6
+  - id: decoration_greenwood_8
+    prefab: {fileID: 1709254077376921, guid: 720df75ab38b28348b7b58887124f1e4, type: 3}
+    density: 0
+  volumeProfile: {fileID: 11400000, guid: 9b0227a1c8a09f64da764322706886b8, type: 2}
+  backgroundColor: {r: 0.1, g: 0.16, b: 0.12, a: 1}
+  lightColor: {r: 0.86, g: 0.93, b: 0.78, a: 1}

@@ -1,0 +1,34 @@
+{
+    "generatedUtc": "2026-08-20T20:17:17Z",
+    "pass": true,
+    "prefabGuidBefore": "bd92fc1ded2dbad4b8810a6aab560df2",
+    "prefabGuidAfter": "bd92fc1ded2dbad4b8810a6aab560df2",
+    "enemyGuidBefore": "d19d8f6ced8032a4396758dd936618db",
+    "enemyGuidAfter": "d19d8f6ced8032a4396758dd936618db",
+    "lod0Triangles": 15680,
+    "lod1Triangles": 8466,
+    "lod2Triangles": 3436,
+    "materials": 3,
+    "bones": 17,
+    "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+    ],
+    "lodLevels": 3,
+    "rendererBoundsSize": {
+        "x": 1.7284516096115113,
+        "y": 1.948507308959961,
+        "z": 1.0723669528961182
+    },
+    "colliderRadius": 0.4991999566555023,
+    "colliderHeight": 2.0159997940063478,
+    "projectileSocketPath": "MoorThrower_MidPoly/CRE_MoorThrower_Mid_Rig/root/hips/spine/chest/armR_up/armR_fore/handR/ProjectileSocket",
+    "legacyFallbackPath": "Assets/_Game/Prefabs/Actors/3D/Fallback/MoorThrower_3D_Legacy.prefab",
+    "errors": []
+}

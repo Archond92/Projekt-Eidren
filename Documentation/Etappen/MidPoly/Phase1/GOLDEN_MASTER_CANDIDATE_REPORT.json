@@ -1,0 +1,295 @@
+{
+    "generatedUtc": "2026-08-20T18:58:25Z",
+    "allImported": true,
+    "allProductionReady": true,
+    "candidates": [
+        {
+            "asset": "Wildling",
+            "candidatePath": "Assets/_Game/Art/MidPoly/GoldenMasters/Wildling/Runtime/CHR_Wildling_Mid_Lod0.glb",
+            "referencePath": "Assets/_Game/Art/Actors/Wildling/Wildling3D/Wildling.glb",
+            "importPass": true,
+            "productionReady": true,
+            "triangles": 32594,
+            "triangleBudget": 35000,
+            "materialSlots": 4,
+            "materials": [
+                "MP_Wildling_Bone",
+                "MP_Wildling_Ember",
+                "MP_Wildling_Leaf",
+                "MP_Wildling_Organic"
+            ],
+            "clips": [
+                "Angriff",
+                "Erscheinen",
+                "Gehen",
+                "Ruhe",
+                "Taumeln",
+                "Telegraph",
+                "Tod",
+                "Treffer"
+            ],
+            "referenceClips": [
+                "Angriff",
+                "Erscheinen",
+                "Gehen",
+                "Ruhe",
+                "Taumeln",
+                "Telegraph",
+                "Tod",
+                "Treffer"
+            ],
+            "bones": [
+                "armL_fore",
+                "armL_up",
+                "armR_fore",
+                "armR_up",
+                "chest",
+                "footL",
+                "footR",
+                "handL",
+                "handR",
+                "head",
+                "hips",
+                "root",
+                "shinL",
+                "shinR",
+                "spine",
+                "thighL",
+                "thighR"
+            ],
+            "referenceBones": [
+                "armL_fore",
+                "armL_up",
+                "armR_fore",
+                "armR_up",
+                "chest",
+                "footL",
+                "footR",
+                "handL",
+                "handR",
+                "head",
+                "hips",
+                "root",
+                "shinL",
+                "shinR",
+                "spine",
+                "thighL",
+                "thighR"
+            ],
+            "bounds": {
+                "center": {
+                    "x": 0.0000018477439880371094,
+                    "y": 0.9561183452606201,
+                    "z": 0.18421831727027894
+                },
+                "size": {
+                    "x": 1.043431043624878,
+                    "y": 1.8938367366790772,
+                    "z": 1.025163173675537
+                }
+            },
+            "referenceBounds": {
+                "center": {
+                    "x": 0.0,
+                    "y": 0.8374999761581421,
+                    "z": 0.23500001430511475
+                },
+                "size": {
+                    "x": 0.9199999570846558,
+                    "y": 1.6449999809265137,
+                    "z": 0.8799999952316284
+                }
+            },
+            "importIssues": [],
+            "productionBlockers": []
+        },
+        {
+            "asset": "Wanderer",
+            "candidatePath": "Assets/_Game/Art/MidPoly/GoldenMasters/Wanderer/Runtime/CHR_Wanderer_Mid_LOD0.glb",
+            "referencePath": "Assets/_Game/Art/Actors/Player/Wanderer3D/Wanderer.glb",
+            "importPass": true,
+            "productionReady": true,
+            "triangles": 37018,
+            "triangleBudget": 65000,
+            "materialSlots": 5,
+            "materials": [
+                "MP_Wanderer_Cloth",
+                "MP_Wanderer_CopperMetal",
+                "MP_Wanderer_IronMetal",
+                "MP_Wanderer_LeatherWood",
+                "MP_Wanderer_OrganicFace"
+            ],
+            "clips": [
+                "Abbau_Axt",
+                "Abbau_Sense",
+                "Abbau_Spitzhacke",
+                "Angriff_Dolche",
+                "Angriff_Hammer",
+                "Angriff_Speer",
+                "Gehen_Axt",
+                "Gehen_Dolche",
+                "Gehen_Hammer",
+                "Gehen_Sense",
+                "Gehen_Speer",
+                "Gehen_Spitzhacke",
+                "Laufen_Axt",
+                "Laufen_Dolche",
+                "Laufen_Hammer",
+                "Laufen_Sense",
+                "Laufen_Speer",
+                "Laufen_Spitzhacke",
+                "Oeffnen",
+                "Ruhe_Axt",
+                "Ruhe_Dolche",
+                "Ruhe_Hammer",
+                "Ruhe_Sense",
+                "Ruhe_Speer",
+                "Ruhe_Spitzhacke"
+            ],
+            "referenceClips": [
+                "Abbau_Axt",
+                "Abbau_Sense",
+                "Abbau_Spitzhacke",
+                "Angriff_Dolche",
+                "Angriff_Hammer",
+                "Angriff_Speer",
+                "Gehen_Axt",
+                "Gehen_Dolche",
+                "Gehen_Hammer",
+                "Gehen_Sense",
+                "Gehen_Speer",
+                "Gehen_Spitzhacke",
+                "Laufen_Axt",
+                "Laufen_Dolche",
+                "Laufen_Hammer",
+                "Laufen_Sense",
+                "Laufen_Speer",
+                "Laufen_Spitzhacke",
+                "Oeffnen",
+                "Ruhe_Axt",
+                "Ruhe_Dolche",
+                "Ruhe_Hammer",
+                "Ruhe_Sense",
+                "Ruhe_Speer",
+                "Ruhe_Spitzhacke"
+            ],
+            "bones": [
+                "armL_fore",
+                "armL_up",
+                "armR_fore",
+                "armR_up",
+                "dagL",
+                "dagR",
+                "footL",
+                "footR",
+                "handL",
+                "handR",
+                "head",
+                "hips",
+                "root",
+                "shinL",
+                "shinR",
+                "skirt",
+                "spine",
+                "staff",
+                "thighL",
+                "thighR"
+            ],
+            "referenceBones": [
+                "armL_fore",
+                "armL_up",
+                "armR_fore",
+                "armR_up",
+                "dagL",
+                "dagR",
+                "footL",
+                "footR",
+                "handL",
+                "handR",
+                "head",
+                "hips",
+                "root",
+                "shinL",
+                "shinR",
+                "skirt",
+                "spine",
+                "staff",
+                "thighL",
+                "thighR"
+            ],
+            "bounds": {
+                "center": {
+                    "x": -0.10000002384185791,
+                    "y": 1.1140002012252808,
+                    "z": 0.03000006079673767
+                },
+                "size": {
+                    "x": 1.0399999618530274,
+                    "y": 2.2120003700256349,
+                    "z": 0.7900000214576721
+                }
+            },
+            "referenceBounds": {
+                "center": {
+                    "x": -0.0169999897480011,
+                    "y": 1.097000002861023,
+                    "z": 0.2044999897480011
+                },
+                "size": {
+                    "x": 0.671999990940094,
+                    "y": 2.194000005722046,
+                    "z": 0.8449999690055847
+                }
+            },
+            "importIssues": [],
+            "productionBlockers": []
+        },
+        {
+            "asset": "Workbench",
+            "candidatePath": "Assets/_Game/Art/MidPoly/GoldenMasters/Workbench/Runtime/BLD_Workbench_Mid_Lod0.glb",
+            "referencePath": "Assets/_Game/Prefabs/Stations/Workbench.prefab",
+            "importPass": true,
+            "productionReady": true,
+            "triangles": 18876,
+            "triangleBudget": 30000,
+            "materialSlots": 5,
+            "materials": [
+                "MP_Workbench_Leather",
+                "MP_Workbench_Metal",
+                "MP_Workbench_Recess",
+                "MP_Workbench_Stone",
+                "MP_Workbench_Wood"
+            ],
+            "clips": [],
+            "referenceClips": [],
+            "bones": [],
+            "referenceBones": [],
+            "bounds": {
+                "center": {
+                    "x": 0.04011058807373047,
+                    "y": 0.6555450558662415,
+                    "z": -0.17842444777488709
+                },
+                "size": {
+                    "x": 1.2689770460128785,
+                    "y": 1.2902100086212159,
+                    "z": 0.973922073841095
+                }
+            },
+            "referenceBounds": {
+                "center": {
+                    "x": 0.040538012981414798,
+                    "y": 0.6555450558662415,
+                    "z": -0.17842444777488709
+                },
+                "size": {
+                    "x": 1.269831895828247,
+                    "y": 1.2902100086212159,
+                    "z": 0.973922073841095
+                }
+            },
+            "importIssues": [],
+            "productionBlockers": []
+        }
+    ]
+}

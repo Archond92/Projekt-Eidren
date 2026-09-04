@@ -1,0 +1,33 @@
+{
+    "generatedUtc": "2026-08-20T19:29:58Z",
+    "pass": true,
+    "prefabGuidBefore": "42013866670934843a6e96f462d6a3ed",
+    "prefabGuidAfter": "42013866670934843a6e96f462d6a3ed",
+    "enemyGuidBefore": "873800d3c030313479e6dd6d4fdb8bb9",
+    "enemyGuidAfter": "873800d3c030313479e6dd6d4fdb8bb9",
+    "lod0Triangles": 25172,
+    "lod1Triangles": 13592,
+    "lod2Triangles": 5528,
+    "materials": 2,
+    "bones": 19,
+    "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+    ],
+    "lodLevels": 3,
+    "rendererBoundsSize": {
+        "x": 2.0605063438415529,
+        "y": 2.1996893882751467,
+        "z": 2.5580544471740724
+    },
+    "colliderRadius": 0.613599956035614,
+    "colliderHeight": 2.477999687194824,
+    "legacyFallbackPath": "Assets/_Game/Prefabs/Actors/3D/Fallback/RootCharger_3D_Legacy.prefab",
+    "errors": []
+}

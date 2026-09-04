@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b57071cf913f76eddfadaab97acdbd60, type: 3}
+  m_Name: RiftGuardian
+  m_EditorClassIdentifier:
+  id: enemy.rift_guardian
+  displayName: Risswächter
+  maximumHealth: 850
+  maximumStagger: 260
+  staggerDuration: 3.5
+  attackDamage: 30
+  protection: 0.15
+  combatStyle: 4
+  secondaryAttackDamage: 40
+  postStaggerResistanceDuration: 3
+  postStaggerDamageMultiplier: 0.5
+  telegraphDuration: 0.92
+  attackWindowDuration: 0.34
+  recoveryDuration: 1.1
+  deathDisableDelay: 2.5
+  experienceReward: 180
+  lootTable: {fileID: 11400000, guid: f47e47f7e7bed614d9fd752ae33ad099, type: 2}
+  navigation:
+    MoveSpeed: 2.75
+    Acceleration: 14
+    AngularSpeed: 420
+    AttackRange: 2.2
+    DetectionRange: 10
+    LeashRange: 18
+    LeashFollowDistance: 3
+    PatrolRadius: 3.5
+    PatrolWait: 1.2
+    AlertDuration: 0.3
+    ReturnTolerance: 0.55
+    NavMeshSampleDistance: 4
+    AgentRadius: 0.80599993
+    AgentHeight: 3.2549996
+  capturableEidra: {fileID: 0}
+  prefab: {fileID: 1709254077376921, guid: 7895dea22fc70bc4194d93f9881cf7b3, type: 2}

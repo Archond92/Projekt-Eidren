@@ -1,0 +1,121 @@
+{
+    "generatedUtc": "2026-08-24T20:34:08Z",
+    "pass": true,
+    "chests": [
+        {
+            "name": "Common",
+            "prefabPath": "Assets/_Game/Prefabs/Loot/WorldChests/WorldChest_Common.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Loot/WorldChests/Fallback/WorldChest_Common_Legacy.prefab",
+            "guidBefore": "8c3645e8fc018da459bc7e43090224f0",
+            "guidAfter": "8c3645e8fc018da459bc7e43090224f0",
+            "lod0Triangles": 8478,
+            "lod1Triangles": 3726,
+            "lod2Triangles": 2560,
+            "lodLevels": 3,
+            "materials": 4,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.27000001072883608,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.149999976158142,
+                "y": 0.5400000214576721,
+                "z": 0.7200000286102295
+            },
+            "triggerRadius": 1.4500000476837159,
+            "interactionRange": 2.5999999046325685,
+            "holdDuration": 1.600000023841858,
+            "fourStatesWired": true,
+            "handsRemoved": true,
+            "semanticAnchors": [
+                "CarvedBase",
+                "LidPivot",
+                "ClosedDetails",
+                "OpenedDetails",
+                "EmptiedDetails",
+                "LootFill_Full",
+                "LootFill_Partial",
+                "LootSocket",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "Guarded",
+            "prefabPath": "Assets/_Game/Prefabs/Loot/WorldChests/WorldChest_Guarded.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Loot/WorldChests/Fallback/WorldChest_Guarded_Legacy.prefab",
+            "guidBefore": "f0cedfc8322e79345b147d34813c50d1",
+            "guidAfter": "f0cedfc8322e79345b147d34813c50d1",
+            "lod0Triangles": 9350,
+            "lod1Triangles": 4262,
+            "lod2Triangles": 3092,
+            "lodLevels": 3,
+            "materials": 4,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.3499999940395355,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.4500000476837159,
+                "y": 0.699999988079071,
+                "z": 0.8799999952316284
+            },
+            "triggerRadius": 1.4500000476837159,
+            "interactionRange": 2.5999999046325685,
+            "holdDuration": 1.600000023841858,
+            "fourStatesWired": true,
+            "handsRemoved": true,
+            "semanticAnchors": [
+                "CarvedBase",
+                "LidPivot",
+                "ClosedDetails",
+                "OpenedDetails",
+                "EmptiedDetails",
+                "LootFill_Full",
+                "LootFill_Partial",
+                "LootSocket",
+                "InteractionPoint"
+            ]
+        },
+        {
+            "name": "Hidden",
+            "prefabPath": "Assets/_Game/Prefabs/Loot/WorldChests/WorldChest_Hidden.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Loot/WorldChests/Fallback/WorldChest_Hidden_Legacy.prefab",
+            "guidBefore": "7da2b6a7f5ce60f43942187feb66df5a",
+            "guidAfter": "7da2b6a7f5ce60f43942187feb66df5a",
+            "lod0Triangles": 8724,
+            "lod1Triangles": 3816,
+            "lod2Triangles": 2726,
+            "lodLevels": 3,
+            "materials": 5,
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.23999999463558198,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.0,
+                "y": 0.47999998927116396,
+                "z": 0.6399999856948853
+            },
+            "triggerRadius": 1.4500000476837159,
+            "interactionRange": 2.5999999046325685,
+            "holdDuration": 1.600000023841858,
+            "fourStatesWired": true,
+            "handsRemoved": true,
+            "semanticAnchors": [
+                "CarvedBase",
+                "LidPivot",
+                "ClosedDetails",
+                "OpenedDetails",
+                "EmptiedDetails",
+                "LootFill_Full",
+                "LootFill_Partial",
+                "LootSocket",
+                "InteractionPoint"
+            ]
+        }
+    ],
+    "errors": []
+}

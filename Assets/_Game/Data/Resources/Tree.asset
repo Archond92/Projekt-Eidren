@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 827e3ec830f3fd32c521dc02db5871c0, type: 3}
+  m_Name: Tree
+  m_EditorClassIdentifier: 
+  id: resource.tree
+  displayName: Baum
+  interactionText: HOLZ SAMMELN
+  outputItem: {fileID: 11400000, guid: 3da3a8ef52fdbaa4aba0e7b381c1f2d6, type: 2}
+  harvestYields: {fileID: 11400000, guid: 0bd10ed7cfbd7b0429f8fdb4cdca28f8, type: 2}
+  interactionDuration: 1.8
+  interactionRange: 1.5
+  respawnMode: 1
+  nodePrefab: {fileID: 1709254077376921, guid: 7f1b3d8776e942b4692950428b1310b4, type: 3}
+  activeVisualPrefab: {fileID: 1709254077376921, guid: 4485cd97063e9fc4e822aa32acaede2a, type: 3}
+  exhaustedVisualPrefab: {fileID: 1709254077376921, guid: a3062fe75a4d8b449ade00d146eb028a, type: 3}
+  keepsAppearanceWhenExhausted: 0
+  collectionIcon: {fileID: 21300000, guid: 4d7fb8715bd508640901c7a212a205d9, type: 3}
+  requiresTool: 0
+  requiredToolItemId: 
+  blocksNavigation: 1

@@ -1,0 +1,25 @@
+{
+  "schema": "eidren.wanderer.unity-import-audit.v1",
+  "generatedUtc": "2026-08-26T22:07:45Z",
+  "editor": "6000.3.0f1",
+  "revision": "F33-source-v26",
+  "suite": "Eidren.Tests.EditMode.MidpolyWandererBareBodyTests",
+  "jobId": "5fc25165a94c4b84ab6883c2c2f20137",
+  "summary": { "total": 6, "passed": 6, "failed": 0, "skipped": 0, "durationSeconds": 0.2948162, "result": "Passed" },
+  "contracts": [
+    "one source-owned body node per standalone LOD",
+    "one independent source-owned body node per LOD in Production.glb",
+    "3768/3768/628 body triangles after Unity primitive grouping",
+    "skin, trousers and boot materials",
+    "20-bone skin and bind-pose contract",
+    "28 clips including Ruhe_Ohne, Gehen_Ohne and Laufen_Ohne",
+    "productive Low-Poly remains 764 triangles and retains palette colors"
+  ],
+  "productionSwitch": {
+    "attempted": true,
+    "performed": false,
+    "guard": "wandererPilotEnabled=false",
+    "result": "expected block; productive Player_3D.prefab and Player.prefab timestamps unchanged"
+  },
+  "productiveLowPolySha256": "8b5c5fb25c28d8e68f380952d21a17a6e47d29f31395731fe5e0f4661a90c685"
+}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b20ec39f24b7df707f34ee788575dce, type: 3}
+  m_Name: AreaArt_HomeBase
+  m_EditorClassIdentifier: 
+  id: area_art_home_base
+  baseGround: {fileID: 2800000, guid: a30ceefe02971134eb0f3da86d3c2f8b, type: 3}
+  groundBlends:
+  - id: ground_homebase_blend_1
+    texture: {fileID: 2800000, guid: 78f39fd1f14726447a07b2546d47dab2, type: 3}
+    coverage: 0.34
+  - id: ground_homebase_blend_2
+    texture: {fileID: 2800000, guid: 081b687508a711a4c9ee4ea30b5c9a3b, type: 3}
+    coverage: 0.24
+  resourceVariants: []
+  decorations:
+  - id: decoration_homebase_1
+    prefab: {fileID: 1709254077376921, guid: 048d2c2f12ce3a74dbddce9d0b2ce8a9, type: 3}
+    density: 0.5
+  - id: decoration_homebase_2
+    prefab: {fileID: 1709254077376921, guid: 6c0e84875abd15a479854b4261f6c371, type: 3}
+    density: 0.4
+  - id: decoration_homebase_3
+    prefab: {fileID: 1709254077376921, guid: 0776cdffc03491c4eacacb09f19ee709, type: 3}
+    density: 1.6
+  - id: decoration_homebase_4
+    prefab: {fileID: 1709254077376921, guid: 720df75ab38b28348b7b58887124f1e4, type: 3}
+    density: 0
+  volumeProfile: {fileID: 11400000, guid: e433b4929bc7b944d8c4ca3d2109b5a8, type: 2}
+  backgroundColor: {r: 0.18, g: 0.21, b: 0.16, a: 1}
+  lightColor: {r: 0.95, g: 0.88, b: 0.7, a: 1}

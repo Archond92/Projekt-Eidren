@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47891e490fa3d159c36fbb1eac32db15, type: 3}
+  m_Name: Recipe_StoneBlock
+  m_EditorClassIdentifier: 
+  id: craft_stone_block
+  displayName: Steinblock
+  description: Behaut Bruchstein zu einem Block.
+  resultType: 0
+  resultItemId: stone_block
+  resultAmount: 1
+  ingredients:
+  - itemId: stone
+    amount: 2
+  requiredStation: 5
+  icon: {fileID: 21300000, guid: 526fecec1b520e046857b8be3cf3f506, type: 3}
+  sortOrder: 22
+  weaponUpgrade:
+    weaponId: 
+    targetLevel: 0
+    healthDamageMultiplier: 0
+    staggerDamageMultiplier: 0

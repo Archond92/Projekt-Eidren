@@ -1,0 +1,141 @@
+{
+    "generatedUtc": "2026-08-24T18:44:40Z",
+    "pass": true,
+    "modules": [
+        {
+            "name": "Wall",
+            "prefabPath": "Assets/_Game/Prefabs/Buildings/Level01/BLD_Wall_L01.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Buildings/Fallback/BLD_Wall_L01_Legacy.prefab",
+            "guidBefore": "4ce0f1c1124b50e49ae05aa76a79ca02",
+            "guidAfter": "4ce0f1c1124b50e49ae05aa76a79ca02",
+            "lod0Triangles": 3492,
+            "lod1Triangles": 956,
+            "lod2Triangles": 484,
+            "materials": 2,
+            "lodLevels": 3,
+            "rendererBounds": {
+                "center": {
+                    "x": 2.9802322387695315e-8,
+                    "y": 1.3000001907348633,
+                    "z": -7.450580596923828e-9
+                },
+                "size": {
+                    "x": 1.0,
+                    "y": 2.6000003814697267,
+                    "z": 0.1899999976158142
+                }
+            },
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 1.2999999523162842,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.0,
+                "y": 2.5999999046325685,
+                "z": 0.20000000298023225
+            },
+            "wallConnectionsPreserved": true,
+            "doorBehaviourPreserved": true,
+            "semanticAnchors": [
+                "Plank_0",
+                "RahmenL",
+                "RahmenR",
+                "Riegel",
+                "Sockel",
+                "StrebeA",
+                "StrebeB",
+                "WallCap"
+            ]
+        },
+        {
+            "name": "Floor",
+            "prefabPath": "Assets/_Game/Prefabs/Buildings/Level01/BLD_Floor_L01.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Buildings/Fallback/BLD_Floor_L01_Legacy.prefab",
+            "guidBefore": "6d4d5579cbb97554787e976ecb41b48a",
+            "guidAfter": "6d4d5579cbb97554787e976ecb41b48a",
+            "lod0Triangles": 2876,
+            "lod1Triangles": 1068,
+            "lod2Triangles": 308,
+            "materials": 2,
+            "lodLevels": 3,
+            "rendererBounds": {
+                "center": {
+                    "x": 0.0,
+                    "y": 0.07500000298023224,
+                    "z": 0.0
+                },
+                "size": {
+                    "x": 1.0,
+                    "y": 0.15000000596046449,
+                    "z": 1.0
+                }
+            },
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 0.07500000298023224,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.0,
+                "y": 0.15000000596046449,
+                "z": 1.0
+            },
+            "wallConnectionsPreserved": true,
+            "doorBehaviourPreserved": true,
+            "semanticAnchors": [
+                "FloorNail_0_-1",
+                "Plank_0",
+                "UnderBraceA",
+                "UnderBraceB"
+            ]
+        },
+        {
+            "name": "Door",
+            "prefabPath": "Assets/_Game/Prefabs/Buildings/Level01/BLD_Door_L01.prefab",
+            "fallbackPath": "Assets/_Game/Prefabs/Buildings/Fallback/BLD_Door_L01_Legacy.prefab",
+            "guidBefore": "e3ae2b2d6c1da604e93bdbe81cb67676",
+            "guidAfter": "e3ae2b2d6c1da604e93bdbe81cb67676",
+            "lod0Triangles": 3644,
+            "lod1Triangles": 1264,
+            "lod2Triangles": 800,
+            "materials": 3,
+            "lodLevels": 3,
+            "rendererBounds": {
+                "center": {
+                    "x": 0.0,
+                    "y": 1.2999999523162842,
+                    "z": 0.0
+                },
+                "size": {
+                    "x": 1.0,
+                    "y": 2.5999999046325685,
+                    "z": 0.2199999988079071
+                }
+            },
+            "colliderCenter": {
+                "x": 0.0,
+                "y": 1.2999999523162842,
+                "z": 0.0
+            },
+            "colliderSize": {
+                "x": 1.0,
+                "y": 2.5999999046325685,
+                "z": 0.20000000298023225
+            },
+            "wallConnectionsPreserved": true,
+            "doorBehaviourPreserved": true,
+            "semanticAnchors": [
+                "DoorBlade/DiagonalBrace",
+                "DoorBlade/DoorPlank_0",
+                "DoorBlade/LockPlate",
+                "RahmenLinks",
+                "RahmenOben",
+                "RahmenRechts",
+                "RahmenUnten"
+            ]
+        }
+    ],
+    "connectorAsset": "Assets/_Game/Art/MidPoly/Buildings/BaseModules/Runtime/BLD_BaseModule_Connector_Mid.glb",
+    "errors": []
+}

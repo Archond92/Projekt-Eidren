@@ -1,6 +1,7 @@
-# Dieses Repository veröffentlicht ausschließlich die spielbare Tester-Ausgabe.
-# Unity-Quellen, Arbeitsgrafiken, Caches, Logs und lokale Build-Verzeichnisse
-# werden nicht in den Git-Verlauf aufgenommen.
+# Dieses Repository veröffentlicht die spielbare Tester-Ausgabe und seit
+# v0.3.4 auch die Textquellen des Projekts (Skripte, Editor-Werkzeuge, Tests,
+# Daten, Prefabs, Dokumentation). Modelle, Texturen, Audio, Szenen, Caches,
+# Logs und Builds bleiben lokal.
 *
 !.gitignore
 !README.md
@@ -10,5 +11,64 @@
 !RELEASE_NOTES_v0.3.1.md
 !RELEASE_NOTES_v0.3.2.md
 !RELEASE_NOTES_v0.3.3.md
-!TESTING_NOTICE.md
 !RELEASE_NOTES_v0.3.4.md
+!TESTING_NOTICE.md
+!FIXLISTE.md
+
+# Quellen
+!Tools/
+!Tools/**
+!.claude/
+!.claude/skills/
+!.claude/skills/**
+!ProjectSettings/
+!ProjectSettings/**
+!Packages/
+!Packages/**
+!Assets/
+!Assets/*.meta
+!Assets/_Game/
+!Assets/_Game/*.meta
+!Assets/_Game/Scripts/
+!Assets/_Game/Scripts/**
+!Assets/_Game/Editor/
+!Assets/_Game/Editor/**
+!Assets/_Game/Tests/
+!Assets/_Game/Tests/**
+!Assets/_Game/Data/
+!Assets/_Game/Data/**
+!Assets/_Game/Prefabs/
+!Assets/_Game/Prefabs/**
+!Assets/_Game/Materials/
+!Assets/_Game/Materials/**
+!Assets/_Game/Shaders/
+!Assets/_Game/Shaders/**
+!Assets/_Game/Settings/
+!Assets/_Game/Settings/**
+!Assets/_Game/UI/
+!Assets/_Game/UI/**
+!Documentation/
+!Documentation/**
+
+# Binäres und Erzeugtes bleibt lokal, auch innerhalb der Quellordner
+*.png
+*.png.meta
+*.jpg
+*.jpg.meta
+*.glb
+*.glb.meta
+*.blend
+*.blend1
+*.unity
+*.unity.meta
+*.ogg
+*.ogg.meta
+*.mp4
+*.html
+*.zip
+*.log
+*.pyc
+__pycache__/
+Documentation/Etappen/MidPoly/LegacyArchive/
+Documentation/Etappen/MidPoly/Phase0/Captures/
+Assets/_Game/Editor/TesterSeed/

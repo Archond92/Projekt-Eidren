@@ -1,0 +1,137 @@
+{
+    "pass": true,
+    "generatedUtc": "2026-08-25T12:28:45Z",
+    "registry": "Assets/_Game/Art/MidPoly/MIDPOLY_MIGRATION_REGISTRY.json",
+    "assets": [
+        {
+            "asset": "Tree",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "activeTriangles": 7856,
+            "lod1Triangles": 4320,
+            "lod2Triangles": 1368,
+            "exhaustedTriangles": 1236,
+            "clips": [
+                "Harvest_Recoil",
+                "Idle_Sway"
+            ],
+            "issues": []
+        },
+        {
+            "asset": "StoneDeposit",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "activeTriangles": 1022,
+            "lod1Triangles": 562,
+            "lod2Triangles": 223,
+            "exhaustedTriangles": 1114,
+            "clips": [
+                "Harvest_Recoil"
+            ],
+            "issues": []
+        },
+        {
+            "asset": "CopperVein",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "activeTriangles": 1042,
+            "lod1Triangles": 572,
+            "lod2Triangles": 227,
+            "exhaustedTriangles": 1134,
+            "clips": [
+                "Harvest_Recoil"
+            ],
+            "issues": []
+        },
+        {
+            "asset": "BerryBush",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "activeTriangles": 3816,
+            "lod1Triangles": 2098,
+            "lod2Triangles": 784,
+            "exhaustedTriangles": 1424,
+            "clips": [
+                "Harvest_Recoil",
+                "Idle_Sway"
+            ],
+            "issues": []
+        },
+        {
+            "asset": "FiberPlant",
+            "pass": true,
+            "prefabGuidPreserved": true,
+            "activeTriangles": 3836,
+            "lod1Triangles": 2108,
+            "lod2Triangles": 692,
+            "exhaustedTriangles": 1290,
+            "clips": [
+                "Harvest_Recoil",
+                "Idle_Sway"
+            ],
+            "issues": []
+        }
+    ],
+    "zoneVariants": [
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/Greenwood_tree_Active.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/Greenwood_tree_Exhausted.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/Marsh_tree_Active.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/Marsh_tree_Exhausted.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/Marsh_fiber_plant_Active.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/Marsh_fiber_plant_Exhausted.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/Quarry_tree_Active.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/Quarry_tree_Exhausted.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/Quarry_stone_deposit_Active.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/Quarry_stone_deposit_Exhausted.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/EmberRuins_tree_Active.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/EmberRuins_tree_Exhausted.prefab",
+            "pass": true,
+            "issues": []
+        }
+    ]
+}

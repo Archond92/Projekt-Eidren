@@ -1,0 +1,90 @@
+{
+  "asset": "ForgeGuardian",
+  "status": "single-generation-candidate",
+  "legacyCoreIncluded": false,
+  "attackProfile": "one-handed axe strike with active shield",
+  "lodRoundtrip": {
+    "LOD0": {
+      "triangles": 23264,
+      "bones": 17,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -1.14026,
+        -0.57408,
+        0.01101
+      ],
+      "boundsMax": [
+        1.1383,
+        0.49483,
+        2.55891
+      ],
+      "height": 2.5479,
+      "normalizedWeights": true,
+      "pass": true
+    },
+    "LOD1": {
+      "triangles": 12562,
+      "bones": 17,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -1.14026,
+        -0.57375,
+        0.01128
+      ],
+      "boundsMax": [
+        1.1383,
+        0.49547,
+        2.55925
+      ],
+      "height": 2.54797,
+      "normalizedWeights": true,
+      "pass": true
+    },
+    "LOD2": {
+      "triangles": 5112,
+      "bones": 17,
+      "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+      ],
+      "boundsMin": [
+        -1.14026,
+        -0.57745,
+        0.01493
+      ],
+      "boundsMax": [
+        1.13486,
+        0.49185,
+        2.55925
+      ],
+      "height": 2.54432,
+      "normalizedWeights": true,
+      "pass": true
+    }
+  },
+  "pass": true
+}

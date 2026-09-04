@@ -1,0 +1,72 @@
+{
+    "generatedUtc": "2026-08-23T17:59:19Z",
+    "pass": true,
+    "productionIntegrated": false,
+    "combinedTriangles": 115177,
+    "materials": 4,
+    "bones": 20,
+    "clips": 25,
+    "modules": 6,
+    "reviewLodLevels": 3,
+    "reviewPrefabPath": "Assets/_Game/Prefabs/Actors/3D/Review/Player_CopperReference_Review.prefab",
+    "reviewPrefabGuid": "bec251de24dfba84db9877c21921bda8",
+    "lod1Ratio": 0.5721957087516785,
+    "lod2Ratio": 0.22570322453975678,
+    "files": [
+        {
+            "lod": "LOD0",
+            "path": "Assets/_Game/Art/MidPoly/GoldenMasters/Wanderer/Candidate/ReferenceUpgrade/Runtime/CHR_Wanderer_CopperReference_Mid_LOD0.glb",
+            "guid": "7882a35d3c36e1a4ca3aff97d3538fb8",
+            "imported": true,
+            "triangles": 64062,
+            "renderers": 13,
+            "boundsCenter": {
+                "x": -0.07011640071868897,
+                "y": 0.8139379024505615,
+                "z": 0.020970910787582399
+            },
+            "boundsSize": {
+                "x": 1.174234390258789,
+                "y": 2.688485622406006,
+                "z": 0.8070582747459412
+            }
+        },
+        {
+            "lod": "LOD1",
+            "path": "Assets/_Game/Art/MidPoly/GoldenMasters/Wanderer/Candidate/ReferenceUpgrade/Runtime/CHR_Wanderer_CopperReference_Mid_LOD1.glb",
+            "guid": "3979702a8608bcd479918938e209c4ea",
+            "imported": true,
+            "triangles": 36656,
+            "renderers": 13,
+            "boundsCenter": {
+                "x": -0.07013499736785889,
+                "y": 0.8139791488647461,
+                "z": 0.020963937044143678
+            },
+            "boundsSize": {
+                "x": 1.1741971969604493,
+                "y": 2.688568115234375,
+                "z": 0.8070443272590637
+            }
+        },
+        {
+            "lod": "LOD2",
+            "path": "Assets/_Game/Art/MidPoly/GoldenMasters/Wanderer/Candidate/ReferenceUpgrade/Runtime/CHR_Wanderer_CopperReference_Mid_LOD2.glb",
+            "guid": "a8161f06f5fa5c34c9b6e697053bb237",
+            "imported": true,
+            "triangles": 14459,
+            "renderers": 13,
+            "boundsCenter": {
+                "x": -0.06865614652633667,
+                "y": 0.8137248754501343,
+                "z": 0.02000865340232849
+            },
+            "boundsSize": {
+                "x": 1.1771548986434937,
+                "y": 2.688056468963623,
+                "z": 0.8058797717094421
+            }
+        }
+    ],
+    "errors": []
+}

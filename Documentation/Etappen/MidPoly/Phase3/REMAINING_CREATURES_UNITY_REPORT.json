@@ -1,0 +1,131 @@
+{
+    "generatedUtc": "2026-08-24T17:21:00Z",
+    "pass": true,
+    "assets": [
+        {
+            "asset": "Terrock",
+            "pass": true,
+            "prefabGuidBefore": "dcb10d767bcd1964fa72c7628a1f4cb6",
+            "prefabGuidAfter": "dcb10d767bcd1964fa72c7628a1f4cb6",
+            "consumerGuidBefore": "9d4b5ee3a4f50094c8c49f73c24118f8",
+            "consumerGuidAfter": "9d4b5ee3a4f50094c8c49f73c24118f8",
+            "lod0Triangles": 30872,
+            "lod1Triangles": 17288,
+            "lod2Triangles": 7409,
+            "materials": 3,
+            "bones": 22,
+            "clips": [
+                "Erscheinen",
+                "Felsbrecher",
+                "Flucht",
+                "Gehen",
+                "Ruhe",
+                "Steinhaut",
+                "Taumeln",
+                "Telegraph",
+                "Treffer",
+                "Wildangriff"
+            ],
+            "strippedHelpers": 0,
+            "rendererBoundsSize": {
+                "x": 0.8773348331451416,
+                "y": 1.0627119541168213,
+                "z": 1.3780465126037598
+            },
+            "errors": []
+        },
+        {
+            "asset": "Noctarion",
+            "pass": true,
+            "prefabGuidBefore": "4b118cbf760ed724899bb2d9a8ca0b24",
+            "prefabGuidAfter": "4b118cbf760ed724899bb2d9a8ca0b24",
+            "consumerGuidBefore": "eae5d61b6f1c2274785fac92414ed7c1",
+            "consumerGuidAfter": "eae5d61b6f1c2274785fac92414ed7c1",
+            "lod0Triangles": 24150,
+            "lod1Triangles": 13524,
+            "lod2Triangles": 5778,
+            "materials": 3,
+            "bones": 22,
+            "clips": [
+                "Erscheinen",
+                "Flucht",
+                "Gehen",
+                "Ruhe",
+                "Schattenmal",
+                "Schattenschritt",
+                "Taumeln",
+                "Telegraph",
+                "Treffer",
+                "Wildangriff"
+            ],
+            "strippedHelpers": 0,
+            "rendererBoundsSize": {
+                "x": 0.530122697353363,
+                "y": 1.1339945793151856,
+                "z": 1.9142305850982667
+            },
+            "errors": []
+        },
+        {
+            "asset": "Garon",
+            "pass": true,
+            "prefabGuidBefore": "b788d5c7094b868478cef736aad5e9c6",
+            "prefabGuidAfter": "b788d5c7094b868478cef736aad5e9c6",
+            "consumerGuidBefore": "b8d04bc186285b944a166a14cdb6069d",
+            "consumerGuidAfter": "b8d04bc186285b944a166a14cdb6069d",
+            "lod0Triangles": 53660,
+            "lod1Triangles": 30048,
+            "lod2Triangles": 12878,
+            "materials": 3,
+            "bones": 22,
+            "clips": [
+                "Ansturm",
+                "Frontschlag",
+                "Gehen",
+                "Rueckkehr",
+                "Ruhe",
+                "Taumeln",
+                "Tod",
+                "Treffer",
+                "Wirbel"
+            ],
+            "strippedHelpers": 0,
+            "rendererBoundsSize": {
+                "x": 4.271938800811768,
+                "y": 4.6894850730896,
+                "z": 7.160021781921387
+            },
+            "errors": []
+        },
+        {
+            "asset": "CoreGuardian",
+            "pass": true,
+            "prefabGuidBefore": "9db5d40ad344b4449bc989a71c9cac46",
+            "prefabGuidAfter": "9db5d40ad344b4449bc989a71c9cac46",
+            "consumerGuidBefore": "7b9681ea7e11cda4c9dcb2afd532070a",
+            "consumerGuidAfter": "7b9681ea7e11cda4c9dcb2afd532070a",
+            "lod0Triangles": 54360,
+            "lod1Triangles": 30440,
+            "lod2Triangles": 13046,
+            "materials": 3,
+            "bones": 17,
+            "clips": [
+                "Angriff",
+                "Erscheinen",
+                "Gehen",
+                "Ruhe",
+                "Taumeln",
+                "Telegraph",
+                "Tod",
+                "Treffer"
+            ],
+            "strippedHelpers": 0,
+            "rendererBoundsSize": {
+                "x": 3.1444766521453859,
+                "y": 4.719069480895996,
+                "z": 1.7459285259246827
+            },
+            "errors": []
+        }
+    ]
+}

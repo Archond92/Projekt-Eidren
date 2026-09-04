@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ebbe447fe2b1f1ba14935ab6f11c630, type: 3}
+  m_Name: Zone_HomeBase
+  m_EditorClassIdentifier: 
+  id: home_base
+  displayName: Heimatbasis
+  sceneKey: HomeBase
+  regionType: 0
+  camera:
+    Offset: {x: -8.3, y: 15, z: -8.3}
+    Rotation: {x: 52, y: 45, z: 0}
+    BaseOrthographicSize: 7.4
+    MinimumOrthographicSize: 5.5
+    BoundsInset: 4.8
+  allowedExitSides: 15
+  safeZone: 1
+  enemiesAllowed: 0
+  resourcesAllowed: 1
+  resourceRespawnMode: 0
+  bossZone: 0
+  worldMapNodeId: home_base
+  areaArt: {fileID: 11400000, guid: c104dbc4dab7ed24e94a28eb47d4dfef, type: 2}
+  resourceAllocations:
+  - definition: {fileID: 11400000, guid: 6d49bf7f54ffa6d4091ba8f85ce1c761, type: 2}
+    count: 26
+  - definition: {fileID: 11400000, guid: b5d3c118d504a70419cd26946604e90a, type: 2}
+    count: 18
+  - definition: {fileID: 11400000, guid: 55e5e49cfd843874b9b4823bb2b546d8, type: 2}
+    count: 10
+  sideNodeAllocations:
+  - definition: {fileID: 11400000, guid: 43aa995d9f1d7ba49bcfcdd65de16b1f, type: 2}
+    count: 4
+  enemyAllocations: []
+  worldChestLootProfile: {fileID: 0}
+  worldChestSpawnPoints: []

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b20ec39f24b7df707f34ee788575dce, type: 3}
+  m_Name: AreaArt_TwilightGrove
+  m_EditorClassIdentifier: 
+  id: area_art_twilight_grove
+  baseGround: {fileID: 2800000, guid: e1101e106620c5a4b94ec8a388e5bb74, type: 3}
+  groundBlends:
+  - id: ground_twilightgrove_blend_1
+    texture: {fileID: 2800000, guid: 203a0595842e757419afb6db3c93163e, type: 3}
+    coverage: 0.34
+  - id: ground_twilightgrove_blend_2
+    texture: {fileID: 2800000, guid: 081b687508a711a4c9ee4ea30b5c9a3b, type: 3}
+    coverage: 0.24
+  resourceVariants:
+  - resourceNodeId: resource.hardwood_tree
+    activeVisualPrefab: {fileID: 1709254077376921, guid: c6238b97f478dfc46a2c94cdcd9a7a6f, type: 3}
+    exhaustedVisualPrefab: {fileID: 1709254077376921, guid: b26a1d70167c7ad48836ddb9dfedf9b9, type: 3}
+    medium: 1
+    recognitionMarker: Gebietseigene Form auf der Interaktionssilhouette
+  - resourceNodeId: resource.swamp_hemp
+    activeVisualPrefab: {fileID: 1709254077376921, guid: dd64a148a3dcf2349bb375b9c3ed0cf1, type: 3}
+    exhaustedVisualPrefab: {fileID: 1709254077376921, guid: 8ff434a59e36a2d48a710ecb7f9a6ea9, type: 3}
+    medium: 1
+    recognitionMarker: Gebietseigene Form auf der Interaktionssilhouette
+  decorations:
+  - id: decoration_twilightgrove_1
+    prefab: {fileID: 1709254077376921, guid: 42999b3921a98d64799e91e3ec9fb8af, type: 3}
+    density: 0
+  - id: decoration_twilightgrove_2
+    prefab: {fileID: 1709254077376921, guid: 18b4420227da46b4091ce327a251e251, type: 3}
+    density: 0
+  - id: decoration_twilightgrove_3
+    prefab: {fileID: 1709254077376921, guid: 874715e7b482f4145b949bc13e2ab5c7, type: 3}
+    density: 0
+  - id: decoration_twilightgrove_4
+    prefab: {fileID: 1709254077376921, guid: 58fb3f2e59b14e44899d00b72c32d9b1, type: 3}
+    density: 0.6
+  - id: decoration_twilightgrove_5
+    prefab: {fileID: 1709254077376921, guid: 6c0e84875abd15a479854b4261f6c371, type: 3}
+    density: 0.4
+  - id: decoration_twilightgrove_6
+    prefab: {fileID: 1709254077376921, guid: 8476cae0d898d1641948b08967dd12e6, type: 3}
+    density: 1.6
+  - id: decoration_twilightgrove_7
+    prefab: {fileID: 1709254077376921, guid: 9313da8e1c3c16342966f0867ddeeadd, type: 3}
+    density: 0
+  - id: decoration_twilightgrove_8
+    prefab: {fileID: 1709254077376921, guid: 91363b6426ab8ae41ac4dcacff15cf11, type: 3}
+    density: 0.3
+  volumeProfile: {fileID: 11400000, guid: 140628082874e3c48a3911415d6413de, type: 2}
+  backgroundColor: {r: 0.035, g: 0.075, b: 0.055, a: 1}
+  lightColor: {r: 0.5, g: 0.68, b: 0.52, a: 1}

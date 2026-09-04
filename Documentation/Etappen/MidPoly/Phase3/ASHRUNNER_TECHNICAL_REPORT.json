@@ -1,0 +1,33 @@
+{
+    "generatedUtc": "2026-08-20T23:32:07Z",
+    "pass": true,
+    "prefabGuidBefore": "58ed61fa5de0ed34e99d3961ba794a15",
+    "prefabGuidAfter": "58ed61fa5de0ed34e99d3961ba794a15",
+    "enemyGuidBefore": "1a9416c05bcee034ea73b147a57cc176",
+    "enemyGuidAfter": "1a9416c05bcee034ea73b147a57cc176",
+    "lod0Triangles": 24470,
+    "lod1Triangles": 13458,
+    "lod2Triangles": 5580,
+    "materials": 3,
+    "bones": 22,
+    "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+    ],
+    "lodLevels": 3,
+    "rendererBoundsSize": {
+        "x": 1.1073096990585328,
+        "y": 1.8066446781158448,
+        "z": 2.9036762714385988
+    },
+    "colliderRadius": 0.5039999485015869,
+    "colliderHeight": 2.0999999046325685,
+    "legacyFallbackPath": "Assets/_Game/Prefabs/Actors/3D/Fallback/AshRunner_3D_Legacy.prefab",
+    "errors": []
+}

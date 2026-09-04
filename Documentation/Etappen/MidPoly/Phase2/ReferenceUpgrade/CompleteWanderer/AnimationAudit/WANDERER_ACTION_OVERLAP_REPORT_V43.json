@@ -1,0 +1,45 @@
+{
+ "blend": "C:\\Users\\phine\\Documents\\Projekt Eidren\\Assets\\_Game\\Art\\MidPoly\\GoldenMasters\\Wanderer\\Candidate\\ReferenceUpgradeComplete\\Source~\\CHR_Wanderer_CompleteReference_HighDetail_Production.blend",
+ "criterion": "Aktions-Clips: 0 BVH-Schnittpaare Waffe vs Koerper/Ruestung (ohne Handschuhe) in jedem Frame",
+ "clipsChecked": 6,
+ "framesChecked": 130,
+ "clips": {
+  "Abbau_Spitzhacke": {
+   "weaponModule": "Waffe_Spitzhacke_Kupfer",
+   "totalFrames": 22,
+   "overlapFrames": {},
+   "pass": true
+  },
+  "Abbau_Axt": {
+   "weaponModule": "Waffe_Axt_Kupfer",
+   "totalFrames": 20,
+   "overlapFrames": {},
+   "pass": true
+  },
+  "Abbau_Sense": {
+   "weaponModule": "Waffe_Sense_Kupfer",
+   "totalFrames": 30,
+   "overlapFrames": {},
+   "pass": true
+  },
+  "Angriff_Hammer": {
+   "weaponModule": "Waffe_Hammer_Kupfer",
+   "totalFrames": 24,
+   "overlapFrames": {},
+   "pass": true
+  },
+  "Angriff_Speer": {
+   "weaponModule": "Waffe_Speer_Kupfer",
+   "totalFrames": 17,
+   "overlapFrames": {},
+   "pass": true
+  },
+  "Angriff_Dolche": {
+   "weaponModule": "Waffe_Dolche_Kupfer",
+   "totalFrames": 17,
+   "overlapFrames": {},
+   "pass": true
+  }
+ },
+ "pass": true
+}

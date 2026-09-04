@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b57071cf913f76eddfadaab97acdbd60, type: 3}
+  m_Name: EmberEater
+  m_EditorClassIdentifier:
+  id: enemy.ember_eater
+  displayName: Glutzehrer
+  maximumHealth: 95
+  maximumStagger: 40
+  staggerDuration: 3
+  attackDamage: 12
+  protection: 0
+  combatStyle: 0
+  secondaryAttackDamage: 0
+  postStaggerResistanceDuration: 0
+  postStaggerDamageMultiplier: 1
+  telegraphDuration: 0.55
+  attackWindowDuration: 0.2
+  recoveryDuration: 0.9
+  deathDisableDelay: 120
+  experienceReward: 8
+  lootTable: {fileID: 0}
+  navigation:
+    MoveSpeed: 2.8
+    Acceleration: 14
+    AngularSpeed: 360
+    AttackRange: 1.462
+    DetectionRange: 10
+    LeashRange: 18
+    LeashFollowDistance: 3
+    PatrolRadius: 2.5
+    PatrolWait: 1.1
+    AlertDuration: 0.3
+    ReturnTolerance: 0.55
+    NavMeshSampleDistance: 4
+    AgentRadius: 0.41279998
+    AgentHeight: 1.72
+  capturableEidra: {fileID: 0}
+  prefab: {fileID: 1709254077376921, guid: 2c33343c7ee886943a14c30c6748bc56, type: 2}

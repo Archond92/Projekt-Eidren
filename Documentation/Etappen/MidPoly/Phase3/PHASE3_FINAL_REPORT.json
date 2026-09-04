@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "phase": 3,
+  "status": "complete",
+  "completedDate": "2026-08-24",
+  "scope": "creatures-and-bosses",
+  "productionAssets": [
+    "Wildling",
+    "Terrock",
+    "MoorThrower",
+    "EmberEater",
+    "CoreGuardian",
+    "SealGuardian",
+    "RiftGuardian",
+    "Garon",
+    "Noctarion",
+    "AshRunner",
+    "Ignivar",
+    "RootCharger",
+    "Riftling",
+    "ForgeGuardian",
+    "GraniteShell"
+  ],
+  "lastCompletedAsset": {
+    "asset": "Ignivar",
+    "triangles": {
+      "LOD0": 25446,
+      "LOD1": 14248,
+      "LOD2": 5996
+    },
+    "materials": 3,
+    "bones": 22,
+    "clips": 8,
+    "glbRoundtrip": "pass",
+    "unityProductionTests": {
+      "passed": 3,
+      "failed": 0
+    },
+    "unityVisualCapture": "Documentation/Etappen/MidPoly/Phase3/InWorld/IgnivarFinal"
+  },
+  "bipedAttackDiversity": {
+    "status": "complete",
+    "distinctAttackProfiles": 7
+  },
+  "midpolyProductionRegression": {
+    "filter": "Eidren.Tests.EditMode.Midpoly",
+    "passed": 80,
+    "failed": 0
+  },
+  "assetRegister": {
+    "figureEntriesAccepted": 32,
+    "figureEntriesFallback": 18,
+    "figureEntriesUnverified": 0
+  },
+  "nextPhase": 4,
+  "nextReference": "Workbench"
+}

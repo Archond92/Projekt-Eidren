@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b20ec39f24b7df707f34ee788575dce, type: 3}
+  m_Name: AreaArt_Marsh
+  m_EditorClassIdentifier: 
+  id: area_art_marsh
+  baseGround: {fileID: 2800000, guid: 1c65ae1cef010f14db824cdd8bcd6487, type: 3}
+  groundBlends:
+  - id: ground_marsh_blend_1
+    texture: {fileID: 2800000, guid: 2e320c3c93c94394e8779ffff459f859, type: 3}
+    coverage: 0.34
+  - id: ground_marsh_blend_2
+    texture: {fileID: 2800000, guid: 87a1bd61b10df214db41e09761b60529, type: 3}
+    coverage: 0.24
+  resourceVariants:
+  - resourceNodeId: resource.tree
+    activeVisualPrefab: {fileID: 1709254077376921, guid: 15f8609b618721648b1508e2a69d111e, type: 3}
+    exhaustedVisualPrefab: {fileID: 1709254077376921, guid: 5232da6841f106741b2867b15e708905, type: 3}
+    medium: 1
+    recognitionMarker: Axt mit ockerfarbenem Tuch am Stamm
+  - resourceNodeId: resource.fiber_plant
+    activeVisualPrefab: {fileID: 1709254077376921, guid: a34c8aec2619aa049ba496992402341c, type: 3}
+    exhaustedVisualPrefab: {fileID: 1709254077376921, guid: a630c23237992444daefc13260ca8f85, type: 3}
+    medium: 1
+    recognitionMarker: Gebietseigene Form auf der Interaktionssilhouette
+  decorations:
+  - id: decoration_marsh_1
+    prefab: {fileID: 1709254077376921, guid: 874715e7b482f4145b949bc13e2ab5c7, type: 3}
+    density: 0
+  - id: decoration_marsh_2
+    prefab: {fileID: 1709254077376921, guid: 048d2c2f12ce3a74dbddce9d0b2ce8a9, type: 3}
+    density: 0.5
+  - id: decoration_marsh_3
+    prefab: {fileID: 1709254077376921, guid: e807eb3c56600d44f8f2698a7b860361, type: 3}
+    density: 0
+  - id: decoration_marsh_4
+    prefab: {fileID: 1709254077376921, guid: 58fb3f2e59b14e44899d00b72c32d9b1, type: 3}
+    density: 0.6
+  - id: decoration_marsh_5
+    prefab: {fileID: 1709254077376921, guid: 6c0e84875abd15a479854b4261f6c371, type: 3}
+    density: 0.4
+  - id: decoration_marsh_6
+    prefab: {fileID: 1709254077376921, guid: 3c03787a9b0d24541a92358b1f05caf4, type: 3}
+    density: 0.7
+  - id: decoration_marsh_7
+    prefab: {fileID: 1709254077376921, guid: 8476cae0d898d1641948b08967dd12e6, type: 3}
+    density: 1.6
+  - id: decoration_marsh_8
+    prefab: {fileID: 1709254077376921, guid: 91363b6426ab8ae41ac4dcacff15cf11, type: 3}
+    density: 0.3
+  volumeProfile: {fileID: 11400000, guid: da64e6e9969757e4b8ca29d42f29ae03, type: 2}
+  backgroundColor: {r: 0.12, g: 0.16, b: 0.17, a: 1}
+  lightColor: {r: 0.65, g: 0.78, b: 0.75, a: 1}

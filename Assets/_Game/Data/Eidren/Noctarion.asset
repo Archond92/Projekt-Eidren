@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b56ac5bd67a504a17cb56b0e0bf233ee, type: 3}
+  m_Name: Noctarion
+  m_EditorClassIdentifier: 
+  id: noctarion
+  DisplayName: Noctarion
+  UiAccent: {r: 0.58, g: 0.27, b: 0.83, a: 1}
+  Role: 1
+  PassiveStaggerMultiplier: 0.92
+  PassiveBackDamageMultiplier: 1.18
+  Skill1: {fileID: 11400000, guid: 7e2894cbee714b3408509089ef06c0c5, type: 2}
+  Skill2: {fileID: 11400000, guid: bda73899a13b9834ab23942ad91a4c5d, type: 2}
+  productionRole: 0
+  capture:
+    requirementAtFullHealth: 150
+    minimumRequirement: 65
+    fleeHealthFraction: 0.15

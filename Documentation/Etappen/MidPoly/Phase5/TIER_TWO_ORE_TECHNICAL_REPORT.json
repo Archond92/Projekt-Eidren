@@ -1,0 +1,58 @@
+{
+    "pass": true,
+    "generatedUtc": "2026-08-25T10:41:29Z",
+    "assets": [
+        {
+            "asset": "GraniteDeposit",
+            "pass": true,
+            "prefabGuidsPreserved": true,
+            "lod0Triangles": 1022,
+            "lod1Triangles": 562,
+            "lod2Triangles": 223,
+            "exhaustedTriangles": 1114,
+            "issues": []
+        },
+        {
+            "asset": "IronVein",
+            "pass": true,
+            "prefabGuidsPreserved": true,
+            "lod0Triangles": 1042,
+            "lod1Triangles": 572,
+            "lod2Triangles": 227,
+            "exhaustedTriangles": 1134,
+            "issues": []
+        }
+    ],
+    "zoneVariants": [
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/GreyRifts_granite_deposit_Active.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/GreyRifts_granite_deposit_Exhausted.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/GreyRifts_iron_vein_Active.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/GreyRifts_iron_vein_Exhausted.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/VeilMarsh_iron_vein_Active.prefab",
+            "pass": true,
+            "issues": []
+        },
+        {
+            "path": "Assets/_Game/Prefabs/Environment/AreaArtVariants/VeilMarsh_iron_vein_Exhausted.prefab",
+            "pass": true,
+            "issues": []
+        }
+    ]
+}

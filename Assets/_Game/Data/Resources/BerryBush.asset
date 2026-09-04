@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 827e3ec830f3fd32c521dc02db5871c0, type: 3}
+  m_Name: BerryBush
+  m_EditorClassIdentifier: 
+  id: resource.berry_bush
+  displayName: Beerenstrauch
+  interactionText: BEEREN SAMMELN
+  outputItem: {fileID: 11400000, guid: ecb740e82d7b2014c960d4df03e1e13b, type: 2}
+  harvestYields: {fileID: 11400000, guid: 0bd10ed7cfbd7b0429f8fdb4cdca28f8, type: 2}
+  interactionDuration: 0.9
+  interactionRange: 1.5
+  respawnMode: 1
+  nodePrefab: {fileID: 1709254077376921, guid: 49c167512bfbd6c44b5e15dc18206ccc, type: 3}
+  activeVisualPrefab: {fileID: 1709254077376921, guid: 92164bcc7d88e234ebd39254aac7db51, type: 3}
+  exhaustedVisualPrefab: {fileID: 1709254077376921, guid: f9a4d9e341d67b44abed2dfbc3177124, type: 3}
+  keepsAppearanceWhenExhausted: 0
+  collectionIcon: {fileID: 21300000, guid: bd82c6f62c916e04ba2f63b2b4e70fca, type: 3}
+  requiresTool: 0
+  requiredToolItemId: 
+  blocksNavigation: 0

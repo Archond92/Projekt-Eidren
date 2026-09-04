@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2721a6a17267e55037582483253e2a83, type: 3}
+  m_Name: resource_copper_ore
+  m_EditorClassIdentifier:
+  eventId: resource.copper_ore
+  clips:
+  - {fileID: 8300000, guid: 2bcfa86d1bc018a43b7251e6619bd641, type: 3}
+  volumeRange: {x: 0.56, y: 0.7}
+  pitchRange: {x: 0.96, y: 1.04}
+  mixerBus: 2
+  playbackType: 0
+  spatial: 1
+  maximumInstances: 2
+  cooldown: 0.12

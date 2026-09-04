@@ -1,0 +1,11 @@
+{
+    "pass": true,
+    "generatedUtc": "2026-08-25T16:19:52Z",
+    "scene": "Assets/_Game/Scenes/Review/WandererLowPolyViewer.unity",
+    "visualPrefab": "Assets/_Game/Prefabs/Actors/3D/Player_3D.prefab",
+    "armorPieces": 12,
+    "triangles": 6506,
+    "animationClips": 25,
+    "handItemVariants": 20,
+    "errors": []
+}

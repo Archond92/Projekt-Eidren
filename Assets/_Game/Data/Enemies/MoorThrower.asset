@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b57071cf913f76eddfadaab97acdbd60, type: 3}
+  m_Name: MoorThrower
+  m_EditorClassIdentifier:
+  id: enemy.moor_thrower
+  displayName: Moorwerfer
+  maximumHealth: 200
+  maximumStagger: 70
+  staggerDuration: 2.2
+  attackDamage: 24
+  protection: 0
+  combatStyle: 2
+  secondaryAttackDamage: 0
+  postStaggerResistanceDuration: 0
+  postStaggerDamageMultiplier: 1
+  telegraphDuration: 0.72
+  attackWindowDuration: 0.9
+  recoveryDuration: 1.15
+  deathDisableDelay: 2.5
+  experienceReward: 30
+  lootTable: {fileID: 11400000, guid: f47e47f7e7bed614d9fd752ae33ad099, type: 2}
+  navigation:
+    MoveSpeed: 3.15
+    Acceleration: 14
+    AngularSpeed: 420
+    AttackRange: 7.5
+    DetectionRange: 10
+    LeashRange: 18
+    LeashFollowDistance: 3
+    PatrolRadius: 3.5
+    PatrolWait: 1.2
+    AlertDuration: 0.3
+    ReturnTolerance: 0.55
+    NavMeshSampleDistance: 4
+    AgentRadius: 0.49919996
+    AgentHeight: 2.0159998
+  capturableEidra: {fileID: 0}
+  prefab: {fileID: 1709254077376921, guid: d19d8f6ced8032a4396758dd936618db, type: 2}

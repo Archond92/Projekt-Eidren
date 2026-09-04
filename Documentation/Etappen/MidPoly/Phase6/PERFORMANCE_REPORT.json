@@ -1,0 +1,39 @@
+{
+  "pass": true,
+  "generatedUtc": "2026-08-25T12:10:00Z",
+  "measurementMode": "Unity Editor headless via free MCP",
+  "scene": "Assets/_Game/Scenes/Zone_Greenwood.unity",
+  "harness": {
+    "instances": 131,
+    "renderersAtForcedLod0": 2694,
+    "trianglesAtForcedLod0": 1017286,
+    "uniqueMaterials": 205,
+    "skinnedMeshes": 146,
+    "boneReferences": 2871
+  },
+  "evaluatedGuardrails": [
+    { "metric": "forcedLod0Triangles", "measured": 1017286, "maximum": 2000000, "pass": true },
+    { "metric": "forcedLod0Renderers", "measured": 2694, "maximum": 3000, "pass": true },
+    { "metric": "uniqueMaterials", "measured": 205, "maximum": 256, "pass": true },
+    { "metric": "graphicsMemoryBytes", "measured": 405338001, "maximum": 536870912, "pass": true },
+    { "metric": "meshMemoryBytes", "measured": 418850760, "maximum": 536870912, "pass": true },
+    { "metric": "textureMemoryBytes", "measured": 73496023, "maximum": 134217728, "pass": true }
+  ],
+  "editorMemoryContext": {
+    "gcUsedBytes": 619905024,
+    "profilerUsedBytes": 154716664,
+    "totalUsedBytesIncludingEditorAndLoadedProject": 7920834109
+  },
+  "frameTiming": {
+    "evaluated": false,
+    "cpuSamplesMs": [0.4695, 1.0816, 0.8562],
+    "gpuSamplesMs": [0.0, 0.0, 0.0],
+    "reason": "Die kostenlose MCP-Unity-Instanz laeuft headless ohne Game-View/MainWindow. Unity meldet daher keine GPU-Zeit und keine Draw-Call-Framecounter; die CPU-Werte repraesentieren nur den Editorloop und werden nicht als Renderbudget gewertet."
+  },
+  "evidence": [
+    "Documentation/Etappen/MidPoly/Phase6/WORST_CASE_HARNESS.json",
+    "Documentation/Etappen/MidPoly/Phase6/MIDPOLY_WORST_CASE.png",
+    "Documentation/Etappen/MidPoly/Phase6/MIDPOLY_WORST_CASE_2.png"
+  ],
+  "decision": "PASS fuer alle im Headless-MCP belastbar auswertbaren Worst-Case-Asset-, Geometrie- und Speicherbudgets. Eine GPU-Frametime ist in dieser kostenlosen Headless-Umgebung technisch nicht messbar und wird nicht als Nullwert ausgegeben."
+}

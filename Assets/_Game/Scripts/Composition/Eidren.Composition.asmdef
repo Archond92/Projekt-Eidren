@@ -1,0 +1,14 @@
+{
+    "name":  "Eidren.Composition",
+    "references":  [
+                       "Eidren.Core",
+                       "Eidren.Data",
+                       "Eidren.Gameplay",
+                       "Eidren.Presentation",
+                       "Eidren.UI",
+                       "Unity.AI.Navigation",
+                       "Unity.InputSystem",
+                       "UnityEngine.UI"
+                   ],
+    "allowUnsafeCode":  true
+}

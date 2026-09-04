@@ -1,0 +1,33 @@
+{
+    "generatedUtc": "2026-08-24T15:12:24Z",
+    "pass": true,
+    "prefabGuidBefore": "99f93ac7e8a4c1949a23b066046844e8",
+    "prefabGuidAfter": "99f93ac7e8a4c1949a23b066046844e8",
+    "enemyGuidBefore": "60c418f9d6491814fad6e3a97e7970d2",
+    "enemyGuidAfter": "60c418f9d6491814fad6e3a97e7970d2",
+    "lod0Triangles": 15376,
+    "lod1Triangles": 8302,
+    "lod2Triangles": 3382,
+    "materials": 3,
+    "bones": 17,
+    "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+    ],
+    "lodLevels": 3,
+    "rendererBoundsSize": {
+        "x": 0.8920567631721497,
+        "y": 1.6928184032440186,
+        "z": 0.9021982550621033
+    },
+    "colliderRadius": 0.4575999677181244,
+    "colliderHeight": 1.847999930381775,
+    "legacyFallbackPath": "Assets/_Game/Prefabs/Actors/3D/Fallback/Riftling_3D_Legacy.prefab",
+    "errors": []
+}

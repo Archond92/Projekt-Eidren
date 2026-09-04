@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b20ec39f24b7df707f34ee788575dce, type: 3}
+  m_Name: AreaArt_EmberRuins
+  m_EditorClassIdentifier: 
+  id: area_art_ember_ruins
+  baseGround: {fileID: 2800000, guid: 08f9132beffa64144b4df6c69dbecc71, type: 3}
+  groundBlends:
+  - id: ground_emberruins_blend_1
+    texture: {fileID: 2800000, guid: 673b722cf67770748a8c693e3380b298, type: 3}
+    coverage: 0.34
+  - id: ground_emberruins_blend_2
+    texture: {fileID: 2800000, guid: 0a86eede297a65c47867b79a9692311f, type: 3}
+    coverage: 0.24
+  resourceVariants:
+  - resourceNodeId: resource.tree
+    activeVisualPrefab: {fileID: 1709254077376921, guid: bfa826b04ab36b44ab9387fe4cb84515, type: 3}
+    exhaustedVisualPrefab: {fileID: 1709254077376921, guid: 3c6c15eacdf849741b1ca90b5a127c8e, type: 3}
+    medium: 1
+    recognitionMarker: Axt mit ockerfarbenem Tuch am Stamm
+  - resourceNodeId: resource.copper_vein
+    activeVisualPrefab: {fileID: 1709254077376921, guid: 37ecaf0cb51ec6043b8ec60cac2b6925, type: 3}
+    exhaustedVisualPrefab: {fileID: 1709254077376921, guid: e093ee8277bb90441bf30a4fcad8f02a, type: 3}
+    medium: 1
+    recognitionMarker: Dunkle Erzkrone mit blanken Kupferflaechen
+  decorations:
+  - id: decoration_emberruins_1
+    prefab: {fileID: 1709254077376921, guid: 9313da8e1c3c16342966f0867ddeeadd, type: 3}
+    density: 0
+  - id: decoration_emberruins_2
+    prefab: {fileID: 1709254077376921, guid: 10755a6d5c02ad149bbc34d079d188f0, type: 3}
+    density: 0
+  - id: decoration_emberruins_3
+    prefab: {fileID: 1709254077376921, guid: 110fdd08b47f8214b89c865c4ed10e83, type: 3}
+    density: 0
+  - id: decoration_emberruins_4
+    prefab: {fileID: 1709254077376921, guid: 7a05b52bf96b4cf46a032fc54d3ecac5, type: 3}
+    density: 0
+  - id: decoration_emberruins_5
+    prefab: {fileID: 1709254077376921, guid: e807eb3c56600d44f8f2698a7b860361, type: 3}
+    density: 0
+  - id: decoration_emberruins_6
+    prefab: {fileID: 1709254077376921, guid: 6c0e84875abd15a479854b4261f6c371, type: 3}
+    density: 0.4
+  - id: decoration_emberruins_7
+    prefab: {fileID: 1709254077376921, guid: 0776cdffc03491c4eacacb09f19ee709, type: 3}
+    density: 1.6
+  - id: decoration_emberruins_8
+    prefab: {fileID: 1709254077376921, guid: 720df75ab38b28348b7b58887124f1e4, type: 3}
+    density: 0
+  volumeProfile: {fileID: 11400000, guid: 875864f946d4c4f479df24a55532c0ea, type: 2}
+  backgroundColor: {r: 0.16, g: 0.08, b: 0.06, a: 1}
+  lightColor: {r: 1, g: 0.52, b: 0.28, a: 1}

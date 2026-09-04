@@ -1,0 +1,151 @@
+{
+  "schema": 1,
+  "generatedUtc": "2026-08-24T00:00:00Z",
+  "pass": true,
+  "assets": [
+    {
+      "name": "Wall",
+      "lods": [
+        {
+          "lod": 0,
+          "triangles": 3492,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            0.19,
+            2.6
+          ],
+          "materials": [
+            "MP_BaseModule_Iron",
+            "MP_BaseModule_Wood"
+          ],
+          "doorLeafFound": true
+        },
+        {
+          "lod": 1,
+          "triangles": 956,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            0.19,
+            2.6
+          ],
+          "materials": [
+            "MP_BaseModule_Iron",
+            "MP_BaseModule_Wood"
+          ],
+          "doorLeafFound": true
+        },
+        {
+          "lod": 2,
+          "triangles": 484,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            0.19,
+            2.6
+          ],
+          "materials": [
+            "MP_BaseModule_Wood"
+          ],
+          "doorLeafFound": true
+        }
+      ]
+    },
+    {
+      "name": "Floor",
+      "lods": [
+        {
+          "lod": 0,
+          "triangles": 2876,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            0.15
+          ],
+          "materials": [
+            "MP_BaseModule_Iron",
+            "MP_BaseModule_Wood"
+          ],
+          "doorLeafFound": true
+        },
+        {
+          "lod": 1,
+          "triangles": 1068,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            0.15
+          ],
+          "materials": [
+            "MP_BaseModule_Iron",
+            "MP_BaseModule_Wood"
+          ],
+          "doorLeafFound": true
+        },
+        {
+          "lod": 2,
+          "triangles": 308,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            1.0,
+            0.15
+          ],
+          "materials": [
+            "MP_BaseModule_Wood"
+          ],
+          "doorLeafFound": true
+        }
+      ]
+    },
+    {
+      "name": "Door",
+      "lods": [
+        {
+          "lod": 0,
+          "triangles": 3644,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            0.22,
+            2.6
+          ],
+          "materials": [
+            "MP_BaseModule_Iron",
+            "MP_BaseModule_Stone",
+            "MP_BaseModule_Wood"
+          ],
+          "doorLeafFound": true
+        },
+        {
+          "lod": 1,
+          "triangles": 1264,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            0.22,
+            2.6
+          ],
+          "materials": [
+            "MP_BaseModule_Iron",
+            "MP_BaseModule_Stone",
+            "MP_BaseModule_Wood"
+          ],
+          "doorLeafFound": true
+        },
+        {
+          "lod": 2,
+          "triangles": 800,
+          "dimensionsBlenderXYZ": [
+            1.0,
+            0.22,
+            2.6
+          ],
+          "materials": [
+            "MP_BaseModule_Iron",
+            "MP_BaseModule_Stone",
+            "MP_BaseModule_Wood"
+          ],
+          "doorLeafFound": true
+        }
+      ]
+    }
+  ],
+  "connectorFound": true,
+  "errors": []
+}

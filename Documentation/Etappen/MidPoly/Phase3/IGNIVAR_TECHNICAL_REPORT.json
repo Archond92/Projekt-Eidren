@@ -1,0 +1,31 @@
+{
+    "generatedUtc": "2026-08-24T17:40:33Z",
+    "pass": true,
+    "prefabGuidBefore": "7930733b4c603dc489768eefece97e75",
+    "prefabGuidAfter": "7930733b4c603dc489768eefece97e75",
+    "presentationGuidBefore": "47e7e5fe41fdef844977734f028aa57b",
+    "presentationGuidAfter": "47e7e5fe41fdef844977734f028aa57b",
+    "lod0Triangles": 25446,
+    "lod1Triangles": 14248,
+    "lod2Triangles": 5996,
+    "materials": 3,
+    "bones": 22,
+    "clips": [
+        "Angriff",
+        "Erscheinen",
+        "Gehen",
+        "Ruhe",
+        "Taumeln",
+        "Telegraph",
+        "Tod",
+        "Treffer"
+    ],
+    "lodLevels": 3,
+    "rendererBoundsSize": {
+        "x": 0.6929596066474915,
+        "y": 1.0373132228851319,
+        "z": 1.5767165422439576
+    },
+    "legacyFallbackPath": "Assets/_Game/Prefabs/Actors/3D/Fallback/Ignivar_3D_Legacy.prefab",
+    "errors": []
+}
